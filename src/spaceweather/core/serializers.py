@@ -3,7 +3,7 @@ from django.contrib.auth import get_user_model
 from rest_framework import serializers
 
 from rest_framework.reverse import reverse
-from .models import Protonflux, Ptype
+from .models import Protonflux, Electronflux, Ptype, Etype
 
 User = get_user_model()
 
@@ -32,11 +32,27 @@ class PtypeSerializer(serializers.ModelSerializer):
         }
 
 
+class EtypeSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+
+    class Meta:
+        model = Etype
+        fields = ('id', 'name', 'description', 'explanation', 'url', 'origin', 'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('etype-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
 class ProtonfluxSerializer(serializers.ModelSerializer):
 
 
     links = serializers.SerializerMethodField()
-    ptype = serializers.StringRelatedField()
+    #ptype = serializers.StringRelatedField()
 
     class Meta:
         model = Protonflux
@@ -46,5 +62,23 @@ class ProtonfluxSerializer(serializers.ModelSerializer):
         request = self.context['request']
         return {
             'self': reverse('protonflux-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+
+class ElectronfluxSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+    #etype = serializers.StringRelatedField()
+
+    class Meta:
+        model = Electronflux
+        fields = ('id', 'date', 'etype', 'value', 'units', 'bogus', 'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('electronflux-detail',
             kwargs={'pk':obj.pk}, request=request),
         }

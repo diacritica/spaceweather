@@ -2,10 +2,10 @@ from django.contrib.auth import get_user_model
 
 from rest_framework import authentication, permissions, viewsets, filters
 
-from .forms import ProtonfluxFilter
+from .forms import ProtonfluxFilter, ElectronfluxFilter
 
-from .models import Protonflux, Ptype
-from .serializers import ProtonfluxSerializer, PtypeSerializer
+from .models import Protonflux, Ptype, Electronflux, Etype
+from .serializers import ProtonfluxSerializer, PtypeSerializer, ElectronfluxSerializer, EtypeSerializer
 
 User = get_user_model()
 
@@ -43,5 +43,23 @@ class PtypeViewSet(DefaultsMixin, viewsets.ModelViewSet):
 
     queryset = Ptype.objects.order_by('name')
     serializer_class = PtypeSerializer
+    search_fields = ('name',)
+    ordering_fields = ('name',)
+
+
+class ElectronfluxViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Protonflux."""
+
+    queryset = Electronflux.objects.order_by('date')
+    serializer_class = ElectronfluxSerializer
+    filter_class = ElectronfluxFilter
+    search_fields = ('date',)
+    ordering_fields = ('date', 'value',)
+
+class EtypeViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Ptypes."""
+
+    queryset = Etype.objects.order_by('name')
+    serializer_class = EtypeSerializer
     search_fields = ('name',)
     ordering_fields = ('name',)
