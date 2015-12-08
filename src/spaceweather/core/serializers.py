@@ -4,6 +4,7 @@ from rest_framework import serializers
 
 from rest_framework.reverse import reverse
 from .models import Protonflux, Electronflux, Xrayflux, Ptype, Etype, Xtype
+from .models import Sunspot, Sunspottype, Sunspotregion
 
 User = get_user_model()
 
@@ -64,6 +65,22 @@ class XtypeSerializer(serializers.ModelSerializer):
             kwargs={'pk':obj.pk}, request=request),
         }
 
+class SunspottypeSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+
+    class Meta:
+        model = Sunspottype
+        fields = ('id', 'name', 'description', 'explanation', 'url', 'origin', 'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('sunspottype-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
 class ProtonfluxSerializer(serializers.ModelSerializer):
 
 
@@ -114,5 +131,39 @@ class XrayfluxSerializer(serializers.ModelSerializer):
         request = self.context['request']
         return {
             'self': reverse('xrayflux-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+class SunspotSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+    #etype = serializers.StringRelatedField()
+
+    class Meta:
+        model = Sunspot
+        fields = ('id', 'date', 'sunspottype', 'value', 'units', 'bogus', 'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('sunspot-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+class SunspotregionSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+    #etype = serializers.StringRelatedField()
+
+    class Meta:
+        model = Sunspotregion
+        fields = ('id', 'date', 'region', 'numberofsunspots', 'magneticclass', 'size', 'spotclass', 'location', 'bogus', 'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('sunspotregion-detail',
             kwargs={'pk':obj.pk}, request=request),
         }

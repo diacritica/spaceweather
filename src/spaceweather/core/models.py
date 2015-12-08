@@ -43,6 +43,20 @@ class Xtype(models.Model):
     def __unicode__(self):
         return self.name
 
+class Sunspottype(models.Model):
+
+    name = models.CharField(max_length=30, blank=False)
+    description = models.TextField(blank=True)
+    explanation = models.TextField(blank=True)
+    url = models.URLField(blank=True)
+    origin = models.TextField(blank=True)
+
+    def __str__(self):
+        return self.name
+    def __unicode__(self):
+        return self.name
+
+
 
 class Protonflux(models.Model):
     """Proton flux"""
@@ -80,3 +94,43 @@ class Xrayflux(models.Model):
 
     def __str__(self):
         return "{}:{} {} xrayflux".format(self.date,self.xtype.name,self.value)
+
+class Sunspot(models.Model):
+    """Sunspot number"""
+
+    date = models.DateField(unique=False)
+    sunspottype = models.ForeignKey('Sunspottype', null=False)
+    value = models.FloatField(blank=False)
+    units = models.CharField(max_length=50, blank=True, default='sunspots')
+    bogus = models.BooleanField(default=False)
+
+
+    def __str__(self):
+        return "{}:{} {} sunspots".format(self.date,self.sunspottype.name,self.value)
+
+class Sunspotregion(models.Model):
+    """Sunspot Regions"""
+
+    MAGNETIC_CLASS_CHOICES = (
+        ('α',_('Alpha: A unipolar sunspot group')),
+        ('β',_('Bèta: A sunspot group that has a positive and a negative polarity (or bipolar) with a simple division between the polarities')),
+        ('γ',_('Gamma: A complex region in which the positive and negative polarities are so irregularly distributed that they cannot be classified as a bipolar Sunspot group')),
+        ('β-γ',_('Bèta-Gamma: A bipolar sunspot group but complex enough so that no line can be drawn between spots of opposite polarity')),
+        ('δ',('Delta: The umbrae of opposite polarity in a single penumbra')),
+        ('β-δ',_('Bèta-Delta: A sunspot group with a general beta magnetic configuration but contains one (or more) delta sunspots')),
+        ('β-γ-δ',_('Bèta-Gamma-Delta: A sunspot group with a beta-gamma magnetic configuration but contains one (or more) delta sunspots')),
+        ('γ-δ',_('Gamma-Delta: A sunspot group with a gamma magnetic configuration but contains one (or more) delta sunspots')),
+    )
+
+    date = models.DateField(unique=False)
+    region = models.IntegerField(blank=False)
+    numberofsunspots = models.IntegerField(blank=False)
+    size = models.SmallIntegerField(blank=False)
+    magneticclass = models.CharField(max_length=10, choices=MAGNETIC_CLASS_CHOICES, default='α')
+    spotclass = models.CharField(max_length=4)
+    location = models.CharField(max_length=6)
+    bogus = models.BooleanField(default=False)
+
+
+    def __str__(self):
+        return "{}:{} {} sunspot region".format(self.region, self.date,self.numberofsunspots)

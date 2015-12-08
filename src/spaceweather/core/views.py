@@ -3,9 +3,13 @@ from django.contrib.auth import get_user_model
 from rest_framework import authentication, permissions, viewsets, filters
 
 from .forms import ProtonfluxFilter, ElectronfluxFilter, XrayfluxFilter
+from .forms import SunspotFilter, SunspotregionFilter
 
 from .models import Protonflux, Ptype, Electronflux, Etype, Xrayflux, Xtype
+from .models import Sunspot, Sunspottype, Sunspotregion
+
 from .serializers import ProtonfluxSerializer, PtypeSerializer, ElectronfluxSerializer, EtypeSerializer, XrayfluxSerializer, XtypeSerializer
+from .serializers import SunspotSerializer, SunspottypeSerializer, SunspotregionSerializer
 
 User = get_user_model()
 
@@ -80,3 +84,29 @@ class XtypeViewSet(DefaultsMixin, viewsets.ModelViewSet):
     serializer_class = XtypeSerializer
     search_fields = ('name',)
     ordering_fields = ('name',)
+
+class SunspotViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Sunspots."""
+
+    queryset = Sunspot.objects.order_by('date')
+    serializer_class = SunspotSerializer
+    filter_class = SunspotFilter
+    search_fields = ('date',)
+    ordering_fields = ('date', 'value',)
+
+class SunspottypeViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Sunspottypes."""
+
+    queryset = Sunspottype.objects.order_by('name')
+    serializer_class = SunspottypeSerializer
+    search_fields = ('name',)
+    ordering_fields = ('name',)
+
+class SunspotregionViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Sunspot Regions."""
+
+    queryset = Sunspotregion.objects.order_by('date')
+    serializer_class = SunspotregionSerializer
+    filter_class = SunspotregionFilter
+    search_fields = ('date',)
+    ordering_fields = ('date', 'region',)
