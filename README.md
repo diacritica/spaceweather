@@ -5,26 +5,37 @@ API examples
 
 Protonflux
 
-http://127.0.0.1:8000/api/protonflux/?date_min=2015-12-07&date_max=2015-12-07&ptype=1&bogus=False
+http://127.0.0.1:8000/api/protonflux/?date_min=2015-12-06&date_max=2015-12-07&ptype=1&bogus=False
 
-will yield all protonflux valid values for 2015-12-07 of energy type 1 (P>10MeV)
+will yield all protonflux valid values for 2015-12-06 of energy type 1 (P>10MeV)
 
 ```
 {
-    "count": 1,
-    "next": null,
+    "count": 251,
+    "next": "http://127.0.0.1:8000/api/protonflux/?bogus=False&date_max=2015-12-07&date_min=2015-12-06&page=2&ptype=1",
     "previous": null,
     "results": [
         {
-            "id": 1,
-            "date": "2015-12-07T00:00:00Z",
+            "id": 268,
+            "date": "2015-12-06T00:00:00Z",
             "ptype": 1,
-            "value": 2234234234.0,
+            "value": 0.138,
             "units": "Protons/cm2-s-sr",
             "bogus": false,
             "links": {
-                "self": "http://127.0.0.1:8000/api/protonflux/1/"
+                "self": "http://127.0.0.1:8000/api/protonflux/268/"
             }
-        }
-    ]
-}
+        },
+        {
+            "id": 269,
+            "date": "2015-12-06T00:05:00Z",
+            "ptype": 1,
+            "value": 0.109,
+            "units": "Protons/cm2-s-sr",
+            "bogus": false,
+            "links": {
+                "self": "http://127.0.0.1:8000/api/protonflux/269/"
+            }
+        },
+        ...
+]
