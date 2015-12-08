@@ -1,0 +1,24 @@
+[
+{
+  "fields": {
+    "origin": "GOES-13@W075",
+    "name": "P>10MeV",
+    "description": "Protons that carry more than 10MeV",
+    "explanation": "These protons can change or degrade molecular structures",
+    "url": ""
+  },
+  "pk": 1,
+  "model": "core.ptype"
+},
+{
+  "fields": {
+    "origin": "GOES-13@W075",
+    "name": "P>100MeV",
+    "description": "Protons that carry more than 100MeV",
+    "explanation": "These protons can change or degrade molecular structures",
+    "url": ""
+  },
+  "pk": 3,
+  "model": "core.ptype"
+}
+]

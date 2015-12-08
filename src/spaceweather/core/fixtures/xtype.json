@@ -1,0 +1,24 @@
+[
+{
+  "fields": {
+    "url": "",
+    "name": "Short (0.05 - 0.4 nm)",
+    "origin": "GOES14",
+    "explanation": "Short (0.05 - 0.4 nm)",
+    "description": "Short (0.05 - 0.4 nm)"
+  },
+  "model": "core.xtype",
+  "pk": 1
+},
+{
+  "fields": {
+    "url": "",
+    "name": "Long (0.1 - 0.8 nm)",
+    "origin": "GOES14",
+    "explanation": "Long (0.1 - 0.8 nm)",
+    "description": "Long (0.1 - 0.8 nm)"
+  },
+  "model": "core.xtype",
+  "pk": 2
+}
+]

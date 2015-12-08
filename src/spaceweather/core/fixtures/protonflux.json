@@ -1,0 +1,5524 @@
+[
+{
+  "pk": 268,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:00:00Z",
+    "value": 0.138
+  }
+},
+{
+  "pk": 269,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:05:00Z",
+    "value": 0.109
+  }
+},
+{
+  "pk": 270,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:10:00Z",
+    "value": 0.227
+  }
+},
+{
+  "pk": 271,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:15:00Z",
+    "value": 0.136
+  }
+},
+{
+  "pk": 272,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:20:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 273,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:25:00Z",
+    "value": 0.169
+  }
+},
+{
+  "pk": 274,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:30:00Z",
+    "value": 0.176
+  }
+},
+{
+  "pk": 275,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:35:00Z",
+    "value": 0.215
+  }
+},
+{
+  "pk": 276,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:40:00Z",
+    "value": 0.27
+  }
+},
+{
+  "pk": 277,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:45:00Z",
+    "value": 0.215
+  }
+},
+{
+  "pk": 278,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:50:00Z",
+    "value": 0.227
+  }
+},
+{
+  "pk": 279,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:55:00Z",
+    "value": 0.109
+  }
+},
+{
+  "pk": 280,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:00:00Z",
+    "value": 0.103
+  }
+},
+{
+  "pk": 281,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:05:00Z",
+    "value": 0.161
+  }
+},
+{
+  "pk": 282,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:10:00Z",
+    "value": 0.155
+  }
+},
+{
+  "pk": 283,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:15:00Z",
+    "value": 0.243
+  }
+},
+{
+  "pk": 284,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:20:00Z",
+    "value": 0.145
+  }
+},
+{
+  "pk": 285,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:25:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 286,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:30:00Z",
+    "value": 0.188
+  }
+},
+{
+  "pk": 287,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:35:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 288,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:40:00Z",
+    "value": 0.129
+  }
+},
+{
+  "pk": 289,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:45:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 290,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:50:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 291,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:55:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 292,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:00:00Z",
+    "value": 0.178
+  }
+},
+{
+  "pk": 293,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:05:00Z",
+    "value": 0.139
+  }
+},
+{
+  "pk": 294,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:10:00Z",
+    "value": 0.0954
+  }
+},
+{
+  "pk": 295,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:15:00Z",
+    "value": 0.134
+  }
+},
+{
+  "pk": 296,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:20:00Z",
+    "value": 0.0931
+  }
+},
+{
+  "pk": 297,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:25:00Z",
+    "value": 0.165
+  }
+},
+{
+  "pk": 298,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:30:00Z",
+    "value": 0.151
+  }
+},
+{
+  "pk": 299,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:35:00Z",
+    "value": 0.0935
+  }
+},
+{
+  "pk": 300,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:40:00Z",
+    "value": 0.109
+  }
+},
+{
+  "pk": 301,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:45:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 302,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:50:00Z",
+    "value": 0.102
+  }
+},
+{
+  "pk": 303,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:55:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 304,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:00:00Z",
+    "value": 0.137
+  }
+},
+{
+  "pk": 305,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:05:00Z",
+    "value": 0.173
+  }
+},
+{
+  "pk": 306,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:10:00Z",
+    "value": 0.244
+  }
+},
+{
+  "pk": 307,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:15:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 308,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:20:00Z",
+    "value": 0.17
+  }
+},
+{
+  "pk": 309,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:25:00Z",
+    "value": 0.286
+  }
+},
+{
+  "pk": 310,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:30:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 311,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:35:00Z",
+    "value": 0.197
+  }
+},
+{
+  "pk": 312,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:40:00Z",
+    "value": 0.126
+  }
+},
+{
+  "pk": 313,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:45:00Z",
+    "value": 0.104
+  }
+},
+{
+  "pk": 314,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:50:00Z",
+    "value": 0.16
+  }
+},
+{
+  "pk": 315,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:55:00Z",
+    "value": 0.157
+  }
+},
+{
+  "pk": 316,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:00:00Z",
+    "value": 0.135
+  }
+},
+{
+  "pk": 317,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:05:00Z",
+    "value": 0.236
+  }
+},
+{
+  "pk": 318,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:10:00Z",
+    "value": 0.215
+  }
+},
+{
+  "pk": 319,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:15:00Z",
+    "value": 0.134
+  }
+},
+{
+  "pk": 320,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:20:00Z",
+    "value": 0.281
+  }
+},
+{
+  "pk": 321,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:25:00Z",
+    "value": 0.13
+  }
+},
+{
+  "pk": 322,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:30:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 323,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:35:00Z",
+    "value": 0.127
+  }
+},
+{
+  "pk": 324,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:40:00Z",
+    "value": 0.119
+  }
+},
+{
+  "pk": 325,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:45:00Z",
+    "value": 0.126
+  }
+},
+{
+  "pk": 326,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:50:00Z",
+    "value": 0.289
+  }
+},
+{
+  "pk": 327,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:55:00Z",
+    "value": 0.101
+  }
+},
+{
+  "pk": 328,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:00:00Z",
+    "value": 0.0935
+  }
+},
+{
+  "pk": 329,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:05:00Z",
+    "value": 0.105
+  }
+},
+{
+  "pk": 330,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:10:00Z",
+    "value": 0.0991
+  }
+},
+{
+  "pk": 331,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:15:00Z",
+    "value": 0.151
+  }
+},
+{
+  "pk": 332,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:20:00Z",
+    "value": 0.155
+  }
+},
+{
+  "pk": 333,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:25:00Z",
+    "value": 0.221
+  }
+},
+{
+  "pk": 334,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:30:00Z",
+    "value": 0.121
+  }
+},
+{
+  "pk": 335,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:35:00Z",
+    "value": 0.248
+  }
+},
+{
+  "pk": 336,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:40:00Z",
+    "value": 0.139
+  }
+},
+{
+  "pk": 337,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:45:00Z",
+    "value": 0.138
+  }
+},
+{
+  "pk": 338,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:50:00Z",
+    "value": 0.128
+  }
+},
+{
+  "pk": 339,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:55:00Z",
+    "value": 0.17
+  }
+},
+{
+  "pk": 340,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:00:00Z",
+    "value": 0.154
+  }
+},
+{
+  "pk": 341,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:05:00Z",
+    "value": 0.14
+  }
+},
+{
+  "pk": 342,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:10:00Z",
+    "value": 0.252
+  }
+},
+{
+  "pk": 343,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:15:00Z",
+    "value": 0.283
+  }
+},
+{
+  "pk": 344,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:20:00Z",
+    "value": 0.136
+  }
+},
+{
+  "pk": 345,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:25:00Z",
+    "value": 0.137
+  }
+},
+{
+  "pk": 346,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:30:00Z",
+    "value": 0.226
+  }
+},
+{
+  "pk": 347,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:35:00Z",
+    "value": 0.298
+  }
+},
+{
+  "pk": 348,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:40:00Z",
+    "value": 0.215
+  }
+},
+{
+  "pk": 349,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:45:00Z",
+    "value": 0.126
+  }
+},
+{
+  "pk": 350,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:50:00Z",
+    "value": 0.135
+  }
+},
+{
+  "pk": 351,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:55:00Z",
+    "value": 0.102
+  }
+},
+{
+  "pk": 352,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:00:00Z",
+    "value": 0.268
+  }
+},
+{
+  "pk": 353,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:05:00Z",
+    "value": 0.154
+  }
+},
+{
+  "pk": 354,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:10:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 355,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:15:00Z",
+    "value": 0.128
+  }
+},
+{
+  "pk": 356,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:20:00Z",
+    "value": 0.217
+  }
+},
+{
+  "pk": 357,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:25:00Z",
+    "value": 0.0938
+  }
+},
+{
+  "pk": 358,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:30:00Z",
+    "value": 0.125
+  }
+},
+{
+  "pk": 359,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:35:00Z",
+    "value": 0.13
+  }
+},
+{
+  "pk": 360,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:40:00Z",
+    "value": 0.171
+  }
+},
+{
+  "pk": 361,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:45:00Z",
+    "value": 0.141
+  }
+},
+{
+  "pk": 362,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:50:00Z",
+    "value": 0.102
+  }
+},
+{
+  "pk": 363,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:55:00Z",
+    "value": 0.226
+  }
+},
+{
+  "pk": 364,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:00:00Z",
+    "value": 0.0954
+  }
+},
+{
+  "pk": 365,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:05:00Z",
+    "value": 0.178
+  }
+},
+{
+  "pk": 366,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:10:00Z",
+    "value": 0.183
+  }
+},
+{
+  "pk": 367,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:15:00Z",
+    "value": 0.0966
+  }
+},
+{
+  "pk": 368,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:20:00Z",
+    "value": 0.215
+  }
+},
+{
+  "pk": 369,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:25:00Z",
+    "value": 0.144
+  }
+},
+{
+  "pk": 370,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:30:00Z",
+    "value": 0.173
+  }
+},
+{
+  "pk": 371,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:35:00Z",
+    "value": 0.16
+  }
+},
+{
+  "pk": 372,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:40:00Z",
+    "value": 0.0932
+  }
+},
+{
+  "pk": 373,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:45:00Z",
+    "value": 0.217
+  }
+},
+{
+  "pk": 374,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:50:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 375,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:55:00Z",
+    "value": 0.108
+  }
+},
+{
+  "pk": 376,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:00:00Z",
+    "value": 0.0963
+  }
+},
+{
+  "pk": 377,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:05:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 378,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:10:00Z",
+    "value": 0.107
+  }
+},
+{
+  "pk": 379,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:15:00Z",
+    "value": 0.131
+  }
+},
+{
+  "pk": 380,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:20:00Z",
+    "value": 0.247
+  }
+},
+{
+  "pk": 381,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:25:00Z",
+    "value": 0.167
+  }
+},
+{
+  "pk": 382,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:30:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 383,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:35:00Z",
+    "value": 0.147
+  }
+},
+{
+  "pk": 384,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:40:00Z",
+    "value": 0.0932
+  }
+},
+{
+  "pk": 385,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:45:00Z",
+    "value": 0.109
+  }
+},
+{
+  "pk": 386,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:50:00Z",
+    "value": 0.102
+  }
+},
+{
+  "pk": 387,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:55:00Z",
+    "value": 0.103
+  }
+},
+{
+  "pk": 388,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:00:00Z",
+    "value": 0.153
+  }
+},
+{
+  "pk": 389,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:05:00Z",
+    "value": 0.0941
+  }
+},
+{
+  "pk": 390,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:10:00Z",
+    "value": 0.143
+  }
+},
+{
+  "pk": 391,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:15:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 392,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:20:00Z",
+    "value": 0.0934
+  }
+},
+{
+  "pk": 393,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:25:00Z",
+    "value": 0.105
+  }
+},
+{
+  "pk": 394,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:30:00Z",
+    "value": 0.122
+  }
+},
+{
+  "pk": 395,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:35:00Z",
+    "value": 0.139
+  }
+},
+{
+  "pk": 396,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:40:00Z",
+    "value": 0.0933
+  }
+},
+{
+  "pk": 397,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:45:00Z",
+    "value": 0.276
+  }
+},
+{
+  "pk": 398,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:50:00Z",
+    "value": 0.2
+  }
+},
+{
+  "pk": 399,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:55:00Z",
+    "value": 0.125
+  }
+},
+{
+  "pk": 400,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:00:00Z",
+    "value": 0.165
+  }
+},
+{
+  "pk": 401,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:05:00Z",
+    "value": 0.145
+  }
+},
+{
+  "pk": 402,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:10:00Z",
+    "value": 0.122
+  }
+},
+{
+  "pk": 403,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:15:00Z",
+    "value": 0.136
+  }
+},
+{
+  "pk": 404,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:20:00Z",
+    "value": 0.177
+  }
+},
+{
+  "pk": 405,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:25:00Z",
+    "value": 0.139
+  }
+},
+{
+  "pk": 406,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:30:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 407,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:35:00Z",
+    "value": 0.137
+  }
+},
+{
+  "pk": 408,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:40:00Z",
+    "value": 0.15
+  }
+},
+{
+  "pk": 409,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:45:00Z",
+    "value": 0.0935
+  }
+},
+{
+  "pk": 410,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:50:00Z",
+    "value": 0.217
+  }
+},
+{
+  "pk": 411,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:55:00Z",
+    "value": 0.141
+  }
+},
+{
+  "pk": 412,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:00:00Z",
+    "value": 0.105
+  }
+},
+{
+  "pk": 413,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:05:00Z",
+    "value": 0.141
+  }
+},
+{
+  "pk": 414,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:10:00Z",
+    "value": 0.255
+  }
+},
+{
+  "pk": 415,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:15:00Z",
+    "value": 0.23
+  }
+},
+{
+  "pk": 416,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:20:00Z",
+    "value": 0.0916
+  }
+},
+{
+  "pk": 417,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:25:00Z",
+    "value": 0.104
+  }
+},
+{
+  "pk": 418,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:30:00Z",
+    "value": 0.193
+  }
+},
+{
+  "pk": 419,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:35:00Z",
+    "value": 0.215
+  }
+},
+{
+  "pk": 420,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:40:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 421,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:45:00Z",
+    "value": 0.175
+  }
+},
+{
+  "pk": 422,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:50:00Z",
+    "value": 0.0954
+  }
+},
+{
+  "pk": 423,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:55:00Z",
+    "value": 0.242
+  }
+},
+{
+  "pk": 424,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:00:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 425,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:05:00Z",
+    "value": 0.183
+  }
+},
+{
+  "pk": 426,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:10:00Z",
+    "value": 0.099
+  }
+},
+{
+  "pk": 427,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:15:00Z",
+    "value": 0.0965
+  }
+},
+{
+  "pk": 428,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:20:00Z",
+    "value": 0.162
+  }
+},
+{
+  "pk": 429,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:25:00Z",
+    "value": 0.181
+  }
+},
+{
+  "pk": 430,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:30:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 431,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:35:00Z",
+    "value": 0.176
+  }
+},
+{
+  "pk": 432,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:40:00Z",
+    "value": 0.111
+  }
+},
+{
+  "pk": 433,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:45:00Z",
+    "value": 0.126
+  }
+},
+{
+  "pk": 434,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:50:00Z",
+    "value": 0.121
+  }
+},
+{
+  "pk": 435,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:55:00Z",
+    "value": 0.117
+  }
+},
+{
+  "pk": 436,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:00:00Z",
+    "value": 0.142
+  }
+},
+{
+  "pk": 437,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:05:00Z",
+    "value": 0.137
+  }
+},
+{
+  "pk": 438,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:10:00Z",
+    "value": 0.194
+  }
+},
+{
+  "pk": 439,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:15:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 440,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:20:00Z",
+    "value": 0.165
+  }
+},
+{
+  "pk": 441,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:25:00Z",
+    "value": 0.12
+  }
+},
+{
+  "pk": 442,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:30:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 443,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:35:00Z",
+    "value": 0.242
+  }
+},
+{
+  "pk": 444,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:40:00Z",
+    "value": 0.172
+  }
+},
+{
+  "pk": 445,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:45:00Z",
+    "value": 0.0932
+  }
+},
+{
+  "pk": 446,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:50:00Z",
+    "value": 0.117
+  }
+},
+{
+  "pk": 447,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:55:00Z",
+    "value": 0.129
+  }
+},
+{
+  "pk": 448,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:00:00Z",
+    "value": 0.0932
+  }
+},
+{
+  "pk": 449,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:05:00Z",
+    "value": 0.109
+  }
+},
+{
+  "pk": 450,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:10:00Z",
+    "value": 0.137
+  }
+},
+{
+  "pk": 451,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:15:00Z",
+    "value": 0.109
+  }
+},
+{
+  "pk": 452,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:20:00Z",
+    "value": 0.102
+  }
+},
+{
+  "pk": 453,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:25:00Z",
+    "value": 0.136
+  }
+},
+{
+  "pk": 454,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:30:00Z",
+    "value": 0.116
+  }
+},
+{
+  "pk": 455,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:35:00Z",
+    "value": 0.139
+  }
+},
+{
+  "pk": 456,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:40:00Z",
+    "value": 0.13
+  }
+},
+{
+  "pk": 457,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:45:00Z",
+    "value": 0.117
+  }
+},
+{
+  "pk": 458,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:50:00Z",
+    "value": 0.124
+  }
+},
+{
+  "pk": 459,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:55:00Z",
+    "value": 0.148
+  }
+},
+{
+  "pk": 460,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:00:00Z",
+    "value": 0.186
+  }
+},
+{
+  "pk": 461,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:05:00Z",
+    "value": 0.148
+  }
+},
+{
+  "pk": 462,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:10:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 463,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:15:00Z",
+    "value": 0.26
+  }
+},
+{
+  "pk": 464,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:20:00Z",
+    "value": 0.136
+  }
+},
+{
+  "pk": 465,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:25:00Z",
+    "value": 0.104
+  }
+},
+{
+  "pk": 466,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:30:00Z",
+    "value": 0.0932
+  }
+},
+{
+  "pk": 467,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:35:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 468,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:40:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 469,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:45:00Z",
+    "value": 0.117
+  }
+},
+{
+  "pk": 470,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:50:00Z",
+    "value": 0.108
+  }
+},
+{
+  "pk": 471,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:55:00Z",
+    "value": 0.191
+  }
+},
+{
+  "pk": 472,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:00:00Z",
+    "value": 0.102
+  }
+},
+{
+  "pk": 473,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:05:00Z",
+    "value": 0.215
+  }
+},
+{
+  "pk": 474,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:10:00Z",
+    "value": 0.14
+  }
+},
+{
+  "pk": 475,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:15:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 476,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:20:00Z",
+    "value": 0.106
+  }
+},
+{
+  "pk": 477,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:25:00Z",
+    "value": 0.0965
+  }
+},
+{
+  "pk": 478,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:30:00Z",
+    "value": 0.161
+  }
+},
+{
+  "pk": 479,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:35:00Z",
+    "value": 0.134
+  }
+},
+{
+  "pk": 480,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:40:00Z",
+    "value": 0.134
+  }
+},
+{
+  "pk": 481,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:45:00Z",
+    "value": 0.0935
+  }
+},
+{
+  "pk": 482,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:50:00Z",
+    "value": 0.118
+  }
+},
+{
+  "pk": 483,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:55:00Z",
+    "value": 0.13
+  }
+},
+{
+  "pk": 484,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:00:00Z",
+    "value": 0.189
+  }
+},
+{
+  "pk": 485,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:05:00Z",
+    "value": 0.123
+  }
+},
+{
+  "pk": 486,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:10:00Z",
+    "value": 0.242
+  }
+},
+{
+  "pk": 487,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:15:00Z",
+    "value": 0.165
+  }
+},
+{
+  "pk": 488,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:20:00Z",
+    "value": 0.168
+  }
+},
+{
+  "pk": 489,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:25:00Z",
+    "value": 0.156
+  }
+},
+{
+  "pk": 490,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:30:00Z",
+    "value": 0.13
+  }
+},
+{
+  "pk": 491,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:35:00Z",
+    "value": 0.0921
+  }
+},
+{
+  "pk": 492,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:40:00Z",
+    "value": 0.0921
+  }
+},
+{
+  "pk": 493,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:45:00Z",
+    "value": 0.15
+  }
+},
+{
+  "pk": 494,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:50:00Z",
+    "value": 0.131
+  }
+},
+{
+  "pk": 495,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:55:00Z",
+    "value": 0.133
+  }
+},
+{
+  "pk": 496,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:00:00Z",
+    "value": 0.134
+  }
+},
+{
+  "pk": 497,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:05:00Z",
+    "value": 0.171
+  }
+},
+{
+  "pk": 498,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:10:00Z",
+    "value": 0.265
+  }
+},
+{
+  "pk": 499,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:15:00Z",
+    "value": 0.268
+  }
+},
+{
+  "pk": 500,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:20:00Z",
+    "value": 0.13
+  }
+},
+{
+  "pk": 501,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:25:00Z",
+    "value": 0.245
+  }
+},
+{
+  "pk": 502,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:30:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 503,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:35:00Z",
+    "value": 0.123
+  }
+},
+{
+  "pk": 504,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:40:00Z",
+    "value": 0.097
+  }
+},
+{
+  "pk": 505,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:45:00Z",
+    "value": 0.137
+  }
+},
+{
+  "pk": 506,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:50:00Z",
+    "value": 0.106
+  }
+},
+{
+  "pk": 507,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:55:00Z",
+    "value": 0.0944
+  }
+},
+{
+  "pk": 508,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:00:00Z",
+    "value": 0.137
+  }
+},
+{
+  "pk": 509,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:05:00Z",
+    "value": 0.127
+  }
+},
+{
+  "pk": 510,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:10:00Z",
+    "value": 0.0921
+  }
+},
+{
+  "pk": 511,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:15:00Z",
+    "value": 0.0981
+  }
+},
+{
+  "pk": 512,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:20:00Z",
+    "value": 0.133
+  }
+},
+{
+  "pk": 513,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:25:00Z",
+    "value": 0.133
+  }
+},
+{
+  "pk": 514,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:30:00Z",
+    "value": 0.154
+  }
+},
+{
+  "pk": 515,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:35:00Z",
+    "value": 0.125
+  }
+},
+{
+  "pk": 516,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:40:00Z",
+    "value": 0.211
+  }
+},
+{
+  "pk": 517,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:45:00Z",
+    "value": 0.11
+  }
+},
+{
+  "pk": 518,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 1,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:50:00Z",
+    "value": 0.145
+  }
+},
+{
+  "pk": 519,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:00:00Z",
+    "value": 0.138
+  }
+},
+{
+  "pk": 520,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:05:00Z",
+    "value": 0.109
+  }
+},
+{
+  "pk": 521,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:10:00Z",
+    "value": 0.227
+  }
+},
+{
+  "pk": 522,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:15:00Z",
+    "value": 0.136
+  }
+},
+{
+  "pk": 523,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:20:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 524,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:25:00Z",
+    "value": 0.169
+  }
+},
+{
+  "pk": 525,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:30:00Z",
+    "value": 0.176
+  }
+},
+{
+  "pk": 526,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:35:00Z",
+    "value": 0.215
+  }
+},
+{
+  "pk": 527,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:40:00Z",
+    "value": 0.27
+  }
+},
+{
+  "pk": 528,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:45:00Z",
+    "value": 0.215
+  }
+},
+{
+  "pk": 529,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:50:00Z",
+    "value": 0.227
+  }
+},
+{
+  "pk": 530,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T00:55:00Z",
+    "value": 0.109
+  }
+},
+{
+  "pk": 531,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:00:00Z",
+    "value": 0.103
+  }
+},
+{
+  "pk": 532,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:05:00Z",
+    "value": 0.161
+  }
+},
+{
+  "pk": 533,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:10:00Z",
+    "value": 0.155
+  }
+},
+{
+  "pk": 534,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:15:00Z",
+    "value": 0.243
+  }
+},
+{
+  "pk": 535,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:20:00Z",
+    "value": 0.145
+  }
+},
+{
+  "pk": 536,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:25:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 537,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:30:00Z",
+    "value": 0.188
+  }
+},
+{
+  "pk": 538,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:35:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 539,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:40:00Z",
+    "value": 0.129
+  }
+},
+{
+  "pk": 540,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:45:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 541,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:50:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 542,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T01:55:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 543,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:00:00Z",
+    "value": 0.178
+  }
+},
+{
+  "pk": 544,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:05:00Z",
+    "value": 0.139
+  }
+},
+{
+  "pk": 545,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:10:00Z",
+    "value": 0.0954
+  }
+},
+{
+  "pk": 546,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:15:00Z",
+    "value": 0.134
+  }
+},
+{
+  "pk": 547,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:20:00Z",
+    "value": 0.0931
+  }
+},
+{
+  "pk": 548,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:25:00Z",
+    "value": 0.165
+  }
+},
+{
+  "pk": 549,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:30:00Z",
+    "value": 0.151
+  }
+},
+{
+  "pk": 550,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:35:00Z",
+    "value": 0.0935
+  }
+},
+{
+  "pk": 551,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:40:00Z",
+    "value": 0.109
+  }
+},
+{
+  "pk": 552,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:45:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 553,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:50:00Z",
+    "value": 0.102
+  }
+},
+{
+  "pk": 554,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T02:55:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 555,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:00:00Z",
+    "value": 0.137
+  }
+},
+{
+  "pk": 556,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:05:00Z",
+    "value": 0.173
+  }
+},
+{
+  "pk": 557,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:10:00Z",
+    "value": 0.244
+  }
+},
+{
+  "pk": 558,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:15:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 559,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:20:00Z",
+    "value": 0.17
+  }
+},
+{
+  "pk": 560,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:25:00Z",
+    "value": 0.286
+  }
+},
+{
+  "pk": 561,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:30:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 562,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:35:00Z",
+    "value": 0.197
+  }
+},
+{
+  "pk": 563,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:40:00Z",
+    "value": 0.126
+  }
+},
+{
+  "pk": 564,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:45:00Z",
+    "value": 0.104
+  }
+},
+{
+  "pk": 565,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:50:00Z",
+    "value": 0.16
+  }
+},
+{
+  "pk": 566,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T03:55:00Z",
+    "value": 0.157
+  }
+},
+{
+  "pk": 567,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:00:00Z",
+    "value": 0.135
+  }
+},
+{
+  "pk": 568,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:05:00Z",
+    "value": 0.236
+  }
+},
+{
+  "pk": 569,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:10:00Z",
+    "value": 0.215
+  }
+},
+{
+  "pk": 570,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:15:00Z",
+    "value": 0.134
+  }
+},
+{
+  "pk": 571,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:20:00Z",
+    "value": 0.281
+  }
+},
+{
+  "pk": 572,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:25:00Z",
+    "value": 0.13
+  }
+},
+{
+  "pk": 573,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:30:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 574,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:35:00Z",
+    "value": 0.127
+  }
+},
+{
+  "pk": 575,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:40:00Z",
+    "value": 0.119
+  }
+},
+{
+  "pk": 576,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:45:00Z",
+    "value": 0.126
+  }
+},
+{
+  "pk": 577,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:50:00Z",
+    "value": 0.289
+  }
+},
+{
+  "pk": 578,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T04:55:00Z",
+    "value": 0.101
+  }
+},
+{
+  "pk": 579,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:00:00Z",
+    "value": 0.0935
+  }
+},
+{
+  "pk": 580,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:05:00Z",
+    "value": 0.105
+  }
+},
+{
+  "pk": 581,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:10:00Z",
+    "value": 0.0991
+  }
+},
+{
+  "pk": 582,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:15:00Z",
+    "value": 0.151
+  }
+},
+{
+  "pk": 583,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:20:00Z",
+    "value": 0.155
+  }
+},
+{
+  "pk": 584,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:25:00Z",
+    "value": 0.221
+  }
+},
+{
+  "pk": 585,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:30:00Z",
+    "value": 0.121
+  }
+},
+{
+  "pk": 586,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:35:00Z",
+    "value": 0.248
+  }
+},
+{
+  "pk": 587,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:40:00Z",
+    "value": 0.139
+  }
+},
+{
+  "pk": 588,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:45:00Z",
+    "value": 0.138
+  }
+},
+{
+  "pk": 589,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:50:00Z",
+    "value": 0.128
+  }
+},
+{
+  "pk": 590,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T05:55:00Z",
+    "value": 0.17
+  }
+},
+{
+  "pk": 591,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:00:00Z",
+    "value": 0.154
+  }
+},
+{
+  "pk": 592,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:05:00Z",
+    "value": 0.14
+  }
+},
+{
+  "pk": 593,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:10:00Z",
+    "value": 0.252
+  }
+},
+{
+  "pk": 594,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:15:00Z",
+    "value": 0.283
+  }
+},
+{
+  "pk": 595,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:20:00Z",
+    "value": 0.136
+  }
+},
+{
+  "pk": 596,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:25:00Z",
+    "value": 0.137
+  }
+},
+{
+  "pk": 597,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:30:00Z",
+    "value": 0.226
+  }
+},
+{
+  "pk": 598,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:35:00Z",
+    "value": 0.298
+  }
+},
+{
+  "pk": 599,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:40:00Z",
+    "value": 0.215
+  }
+},
+{
+  "pk": 600,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:45:00Z",
+    "value": 0.126
+  }
+},
+{
+  "pk": 601,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:50:00Z",
+    "value": 0.135
+  }
+},
+{
+  "pk": 602,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T06:55:00Z",
+    "value": 0.102
+  }
+},
+{
+  "pk": 603,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:00:00Z",
+    "value": 0.268
+  }
+},
+{
+  "pk": 604,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:05:00Z",
+    "value": 0.154
+  }
+},
+{
+  "pk": 605,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:10:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 606,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:15:00Z",
+    "value": 0.128
+  }
+},
+{
+  "pk": 607,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:20:00Z",
+    "value": 0.217
+  }
+},
+{
+  "pk": 608,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:25:00Z",
+    "value": 0.0938
+  }
+},
+{
+  "pk": 609,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:30:00Z",
+    "value": 0.125
+  }
+},
+{
+  "pk": 610,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:35:00Z",
+    "value": 0.13
+  }
+},
+{
+  "pk": 611,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:40:00Z",
+    "value": 0.171
+  }
+},
+{
+  "pk": 612,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:45:00Z",
+    "value": 0.141
+  }
+},
+{
+  "pk": 613,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:50:00Z",
+    "value": 0.102
+  }
+},
+{
+  "pk": 614,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T07:55:00Z",
+    "value": 0.226
+  }
+},
+{
+  "pk": 615,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:00:00Z",
+    "value": 0.0954
+  }
+},
+{
+  "pk": 616,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:05:00Z",
+    "value": 0.178
+  }
+},
+{
+  "pk": 617,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:10:00Z",
+    "value": 0.183
+  }
+},
+{
+  "pk": 618,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:15:00Z",
+    "value": 0.0966
+  }
+},
+{
+  "pk": 619,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:20:00Z",
+    "value": 0.215
+  }
+},
+{
+  "pk": 620,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:25:00Z",
+    "value": 0.144
+  }
+},
+{
+  "pk": 621,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:30:00Z",
+    "value": 0.173
+  }
+},
+{
+  "pk": 622,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:35:00Z",
+    "value": 0.16
+  }
+},
+{
+  "pk": 623,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:40:00Z",
+    "value": 0.0932
+  }
+},
+{
+  "pk": 624,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:45:00Z",
+    "value": 0.217
+  }
+},
+{
+  "pk": 625,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:50:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 626,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T08:55:00Z",
+    "value": 0.108
+  }
+},
+{
+  "pk": 627,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:00:00Z",
+    "value": 0.0963
+  }
+},
+{
+  "pk": 628,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:05:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 629,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:10:00Z",
+    "value": 0.107
+  }
+},
+{
+  "pk": 630,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:15:00Z",
+    "value": 0.131
+  }
+},
+{
+  "pk": 631,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:20:00Z",
+    "value": 0.247
+  }
+},
+{
+  "pk": 632,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:25:00Z",
+    "value": 0.167
+  }
+},
+{
+  "pk": 633,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:30:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 634,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:35:00Z",
+    "value": 0.147
+  }
+},
+{
+  "pk": 635,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:40:00Z",
+    "value": 0.0932
+  }
+},
+{
+  "pk": 636,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:45:00Z",
+    "value": 0.109
+  }
+},
+{
+  "pk": 637,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:50:00Z",
+    "value": 0.102
+  }
+},
+{
+  "pk": 638,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T09:55:00Z",
+    "value": 0.103
+  }
+},
+{
+  "pk": 639,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:00:00Z",
+    "value": 0.153
+  }
+},
+{
+  "pk": 640,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:05:00Z",
+    "value": 0.0941
+  }
+},
+{
+  "pk": 641,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:10:00Z",
+    "value": 0.143
+  }
+},
+{
+  "pk": 642,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:15:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 643,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:20:00Z",
+    "value": 0.0934
+  }
+},
+{
+  "pk": 644,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:25:00Z",
+    "value": 0.105
+  }
+},
+{
+  "pk": 645,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:30:00Z",
+    "value": 0.122
+  }
+},
+{
+  "pk": 646,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:35:00Z",
+    "value": 0.139
+  }
+},
+{
+  "pk": 647,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:40:00Z",
+    "value": 0.0933
+  }
+},
+{
+  "pk": 648,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:45:00Z",
+    "value": 0.276
+  }
+},
+{
+  "pk": 649,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:50:00Z",
+    "value": 0.2
+  }
+},
+{
+  "pk": 650,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T10:55:00Z",
+    "value": 0.125
+  }
+},
+{
+  "pk": 651,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:00:00Z",
+    "value": 0.165
+  }
+},
+{
+  "pk": 652,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:05:00Z",
+    "value": 0.145
+  }
+},
+{
+  "pk": 653,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:10:00Z",
+    "value": 0.122
+  }
+},
+{
+  "pk": 654,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:15:00Z",
+    "value": 0.136
+  }
+},
+{
+  "pk": 655,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:20:00Z",
+    "value": 0.177
+  }
+},
+{
+  "pk": 656,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:25:00Z",
+    "value": 0.139
+  }
+},
+{
+  "pk": 657,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:30:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 658,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:35:00Z",
+    "value": 0.137
+  }
+},
+{
+  "pk": 659,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:40:00Z",
+    "value": 0.15
+  }
+},
+{
+  "pk": 660,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:45:00Z",
+    "value": 0.0935
+  }
+},
+{
+  "pk": 661,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:50:00Z",
+    "value": 0.217
+  }
+},
+{
+  "pk": 662,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T11:55:00Z",
+    "value": 0.141
+  }
+},
+{
+  "pk": 663,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:00:00Z",
+    "value": 0.105
+  }
+},
+{
+  "pk": 664,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:05:00Z",
+    "value": 0.141
+  }
+},
+{
+  "pk": 665,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:10:00Z",
+    "value": 0.255
+  }
+},
+{
+  "pk": 666,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:15:00Z",
+    "value": 0.23
+  }
+},
+{
+  "pk": 667,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:20:00Z",
+    "value": 0.0916
+  }
+},
+{
+  "pk": 668,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:25:00Z",
+    "value": 0.104
+  }
+},
+{
+  "pk": 669,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:30:00Z",
+    "value": 0.193
+  }
+},
+{
+  "pk": 670,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:35:00Z",
+    "value": 0.215
+  }
+},
+{
+  "pk": 671,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:40:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 672,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:45:00Z",
+    "value": 0.175
+  }
+},
+{
+  "pk": 673,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:50:00Z",
+    "value": 0.0954
+  }
+},
+{
+  "pk": 674,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T12:55:00Z",
+    "value": 0.242
+  }
+},
+{
+  "pk": 675,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:00:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 676,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:05:00Z",
+    "value": 0.183
+  }
+},
+{
+  "pk": 677,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:10:00Z",
+    "value": 0.099
+  }
+},
+{
+  "pk": 678,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:15:00Z",
+    "value": 0.0965
+  }
+},
+{
+  "pk": 679,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:20:00Z",
+    "value": 0.162
+  }
+},
+{
+  "pk": 680,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:25:00Z",
+    "value": 0.181
+  }
+},
+{
+  "pk": 681,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:30:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 682,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:35:00Z",
+    "value": 0.176
+  }
+},
+{
+  "pk": 683,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:40:00Z",
+    "value": 0.111
+  }
+},
+{
+  "pk": 684,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:45:00Z",
+    "value": 0.126
+  }
+},
+{
+  "pk": 685,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:50:00Z",
+    "value": 0.121
+  }
+},
+{
+  "pk": 686,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T13:55:00Z",
+    "value": 0.117
+  }
+},
+{
+  "pk": 687,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:00:00Z",
+    "value": 0.142
+  }
+},
+{
+  "pk": 688,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:05:00Z",
+    "value": 0.137
+  }
+},
+{
+  "pk": 689,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:10:00Z",
+    "value": 0.194
+  }
+},
+{
+  "pk": 690,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:15:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 691,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:20:00Z",
+    "value": 0.165
+  }
+},
+{
+  "pk": 692,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:25:00Z",
+    "value": 0.12
+  }
+},
+{
+  "pk": 693,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:30:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 694,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:35:00Z",
+    "value": 0.242
+  }
+},
+{
+  "pk": 695,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:40:00Z",
+    "value": 0.172
+  }
+},
+{
+  "pk": 696,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:45:00Z",
+    "value": 0.0932
+  }
+},
+{
+  "pk": 697,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:50:00Z",
+    "value": 0.117
+  }
+},
+{
+  "pk": 698,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T14:55:00Z",
+    "value": 0.129
+  }
+},
+{
+  "pk": 699,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:00:00Z",
+    "value": 0.0932
+  }
+},
+{
+  "pk": 700,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:05:00Z",
+    "value": 0.109
+  }
+},
+{
+  "pk": 701,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:10:00Z",
+    "value": 0.137
+  }
+},
+{
+  "pk": 702,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:15:00Z",
+    "value": 0.109
+  }
+},
+{
+  "pk": 703,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:20:00Z",
+    "value": 0.102
+  }
+},
+{
+  "pk": 704,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:25:00Z",
+    "value": 0.136
+  }
+},
+{
+  "pk": 705,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:30:00Z",
+    "value": 0.116
+  }
+},
+{
+  "pk": 706,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:35:00Z",
+    "value": 0.139
+  }
+},
+{
+  "pk": 707,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:40:00Z",
+    "value": 0.13
+  }
+},
+{
+  "pk": 708,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:45:00Z",
+    "value": 0.117
+  }
+},
+{
+  "pk": 709,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:50:00Z",
+    "value": 0.124
+  }
+},
+{
+  "pk": 710,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T15:55:00Z",
+    "value": 0.148
+  }
+},
+{
+  "pk": 711,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:00:00Z",
+    "value": 0.186
+  }
+},
+{
+  "pk": 712,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:05:00Z",
+    "value": 0.148
+  }
+},
+{
+  "pk": 713,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:10:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 714,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:15:00Z",
+    "value": 0.26
+  }
+},
+{
+  "pk": 715,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:20:00Z",
+    "value": 0.136
+  }
+},
+{
+  "pk": 716,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:25:00Z",
+    "value": 0.104
+  }
+},
+{
+  "pk": 717,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:30:00Z",
+    "value": 0.0932
+  }
+},
+{
+  "pk": 718,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:35:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 719,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:40:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 720,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:45:00Z",
+    "value": 0.117
+  }
+},
+{
+  "pk": 721,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:50:00Z",
+    "value": 0.108
+  }
+},
+{
+  "pk": 722,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T16:55:00Z",
+    "value": 0.191
+  }
+},
+{
+  "pk": 723,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:00:00Z",
+    "value": 0.102
+  }
+},
+{
+  "pk": 724,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:05:00Z",
+    "value": 0.215
+  }
+},
+{
+  "pk": 725,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:10:00Z",
+    "value": 0.14
+  }
+},
+{
+  "pk": 726,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:15:00Z",
+    "value": 0.091
+  }
+},
+{
+  "pk": 727,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:20:00Z",
+    "value": 0.106
+  }
+},
+{
+  "pk": 728,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:25:00Z",
+    "value": 0.0965
+  }
+},
+{
+  "pk": 729,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:30:00Z",
+    "value": 0.161
+  }
+},
+{
+  "pk": 730,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:35:00Z",
+    "value": 0.134
+  }
+},
+{
+  "pk": 731,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:40:00Z",
+    "value": 0.134
+  }
+},
+{
+  "pk": 732,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:45:00Z",
+    "value": 0.0935
+  }
+},
+{
+  "pk": 733,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:50:00Z",
+    "value": 0.118
+  }
+},
+{
+  "pk": 734,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T17:55:00Z",
+    "value": 0.13
+  }
+},
+{
+  "pk": 735,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:00:00Z",
+    "value": 0.189
+  }
+},
+{
+  "pk": 736,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:05:00Z",
+    "value": 0.123
+  }
+},
+{
+  "pk": 737,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:10:00Z",
+    "value": 0.242
+  }
+},
+{
+  "pk": 738,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:15:00Z",
+    "value": 0.165
+  }
+},
+{
+  "pk": 739,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:20:00Z",
+    "value": 0.168
+  }
+},
+{
+  "pk": 740,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:25:00Z",
+    "value": 0.156
+  }
+},
+{
+  "pk": 741,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:30:00Z",
+    "value": 0.13
+  }
+},
+{
+  "pk": 742,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:35:00Z",
+    "value": 0.0921
+  }
+},
+{
+  "pk": 743,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:40:00Z",
+    "value": 0.0921
+  }
+},
+{
+  "pk": 744,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:45:00Z",
+    "value": 0.15
+  }
+},
+{
+  "pk": 745,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:50:00Z",
+    "value": 0.131
+  }
+},
+{
+  "pk": 746,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T18:55:00Z",
+    "value": 0.133
+  }
+},
+{
+  "pk": 747,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:00:00Z",
+    "value": 0.134
+  }
+},
+{
+  "pk": 748,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:05:00Z",
+    "value": 0.171
+  }
+},
+{
+  "pk": 749,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:10:00Z",
+    "value": 0.265
+  }
+},
+{
+  "pk": 750,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:15:00Z",
+    "value": 0.268
+  }
+},
+{
+  "pk": 751,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:20:00Z",
+    "value": 0.13
+  }
+},
+{
+  "pk": 752,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:25:00Z",
+    "value": 0.245
+  }
+},
+{
+  "pk": 753,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:30:00Z",
+    "value": 0.149
+  }
+},
+{
+  "pk": 754,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:35:00Z",
+    "value": 0.123
+  }
+},
+{
+  "pk": 755,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:40:00Z",
+    "value": 0.097
+  }
+},
+{
+  "pk": 756,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:45:00Z",
+    "value": 0.137
+  }
+},
+{
+  "pk": 757,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:50:00Z",
+    "value": 0.106
+  }
+},
+{
+  "pk": 758,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T19:55:00Z",
+    "value": 0.0944
+  }
+},
+{
+  "pk": 759,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:00:00Z",
+    "value": 0.137
+  }
+},
+{
+  "pk": 760,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:05:00Z",
+    "value": 0.127
+  }
+},
+{
+  "pk": 761,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:10:00Z",
+    "value": 0.0921
+  }
+},
+{
+  "pk": 762,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:15:00Z",
+    "value": 0.0981
+  }
+},
+{
+  "pk": 763,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:20:00Z",
+    "value": 0.133
+  }
+},
+{
+  "pk": 764,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:25:00Z",
+    "value": 0.133
+  }
+},
+{
+  "pk": 765,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:30:00Z",
+    "value": 0.154
+  }
+},
+{
+  "pk": 766,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:35:00Z",
+    "value": 0.125
+  }
+},
+{
+  "pk": 767,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:40:00Z",
+    "value": 0.211
+  }
+},
+{
+  "pk": 768,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:45:00Z",
+    "value": 0.11
+  }
+},
+{
+  "pk": 769,
+  "model": "core.protonflux",
+  "fields": {
+    "ptype": 3,
+    "bogus": false,
+    "units": "Protons/cm2-s-sr",
+    "date": "2015-12-06T20:50:00Z",
+    "value": 0.145
+  }
+}
+]

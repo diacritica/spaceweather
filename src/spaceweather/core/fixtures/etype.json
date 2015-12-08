@@ -1,0 +1,24 @@
+[
+{
+  "fields": {
+    "explanation": "E>2.0MeV",
+    "name": "E>2.0MeV",
+    "url": "",
+    "description": "E>2.0MeV",
+    "origin": "GOES13"
+  },
+  "pk": 1,
+  "model": "core.etype"
+},
+{
+  "fields": {
+    "explanation": "E>0.8MeV",
+    "name": "E>0.8MeV",
+    "url": "",
+    "description": "E>0.8MeV",
+    "origin": "GOES13"
+  },
+  "pk": 2,
+  "model": "core.etype"
+}
+]

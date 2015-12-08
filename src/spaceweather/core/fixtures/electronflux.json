@@ -1,0 +1,5524 @@
+[
+{
+  "pk": 3,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T00:00:00Z",
+    "value": 6080.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 4,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T00:05:00Z",
+    "value": 5680.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 5,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T00:10:00Z",
+    "value": 5670.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 6,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T00:15:00Z",
+    "value": 6170.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 7,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T00:20:00Z",
+    "value": 6830.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 8,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T00:25:00Z",
+    "value": 6670.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 9,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T00:30:00Z",
+    "value": 7230.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 10,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T00:35:00Z",
+    "value": 7110.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 11,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T00:40:00Z",
+    "value": 6450.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 12,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T00:45:00Z",
+    "value": 5970.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 13,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T00:50:00Z",
+    "value": 6040.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 14,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T00:55:00Z",
+    "value": 5740.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 15,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T01:00:00Z",
+    "value": 5600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 16,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T01:05:00Z",
+    "value": 5010.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 17,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T01:10:00Z",
+    "value": 4520.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 18,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T01:15:00Z",
+    "value": 4440.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 19,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T01:20:00Z",
+    "value": 4760.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 20,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T01:25:00Z",
+    "value": 4770.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 21,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T01:30:00Z",
+    "value": 4570.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 22,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T01:35:00Z",
+    "value": 4630.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 23,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T01:40:00Z",
+    "value": 4620.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 24,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T01:45:00Z",
+    "value": 4570.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 25,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T01:50:00Z",
+    "value": 4000.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 26,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T01:55:00Z",
+    "value": 3700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 27,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T02:00:00Z",
+    "value": 3590.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 28,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T02:05:00Z",
+    "value": 3570.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 29,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T02:10:00Z",
+    "value": 3530.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 30,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T02:15:00Z",
+    "value": 3350.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 31,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T02:20:00Z",
+    "value": 3360.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 32,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T02:25:00Z",
+    "value": 3240.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 33,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T02:30:00Z",
+    "value": 3210.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 34,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T02:35:00Z",
+    "value": 3090.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 35,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T02:40:00Z",
+    "value": 3090.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 36,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T02:45:00Z",
+    "value": 3110.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 37,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T02:50:00Z",
+    "value": 3080.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 38,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T02:55:00Z",
+    "value": 2920.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 39,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T03:00:00Z",
+    "value": 2780.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 40,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T03:05:00Z",
+    "value": 2220.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 41,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T03:10:00Z",
+    "value": 3410.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 42,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T03:15:00Z",
+    "value": 3990.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 43,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T03:20:00Z",
+    "value": 4180.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 44,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T03:25:00Z",
+    "value": 4020.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 45,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T03:30:00Z",
+    "value": 4490.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 46,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T03:35:00Z",
+    "value": 4320.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 47,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T03:40:00Z",
+    "value": 4330.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 48,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T03:45:00Z",
+    "value": 4750.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 49,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T03:50:00Z",
+    "value": 5910.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 50,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T03:55:00Z",
+    "value": 7940.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 51,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T04:00:00Z",
+    "value": 7140.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 52,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T04:05:00Z",
+    "value": 6210.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 53,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T04:10:00Z",
+    "value": 7600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 54,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T04:15:00Z",
+    "value": 6740.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 55,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T04:20:00Z",
+    "value": 9990.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 56,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T04:25:00Z",
+    "value": 9510.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 57,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T04:30:00Z",
+    "value": 9930.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 58,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T04:35:00Z",
+    "value": 13100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 59,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T04:40:00Z",
+    "value": 14800.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 60,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T04:45:00Z",
+    "value": 14600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 61,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T04:50:00Z",
+    "value": 14000.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 62,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T04:55:00Z",
+    "value": 13800.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 63,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T05:00:00Z",
+    "value": 13900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 64,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T05:05:00Z",
+    "value": 12100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 65,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T05:10:00Z",
+    "value": 12400.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 66,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T05:15:00Z",
+    "value": 12500.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 67,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T05:20:00Z",
+    "value": 11300.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 68,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T05:25:00Z",
+    "value": 9790.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 69,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T05:30:00Z",
+    "value": 9750.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 70,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T05:35:00Z",
+    "value": 9150.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 71,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T05:40:00Z",
+    "value": 8930.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 72,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T05:45:00Z",
+    "value": 8850.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 73,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T05:50:00Z",
+    "value": 8460.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 74,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T05:55:00Z",
+    "value": 8120.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 75,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T06:00:00Z",
+    "value": 7520.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 76,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T06:05:00Z",
+    "value": 6740.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 77,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T06:10:00Z",
+    "value": 6600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 78,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T06:15:00Z",
+    "value": 6550.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 79,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T06:20:00Z",
+    "value": 6170.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 80,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T06:25:00Z",
+    "value": 5830.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 81,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T06:30:00Z",
+    "value": 5520.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 82,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T06:35:00Z",
+    "value": 5490.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 83,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T06:40:00Z",
+    "value": 5790.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 84,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T06:45:00Z",
+    "value": 6080.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 85,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T06:50:00Z",
+    "value": 5820.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 86,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T06:55:00Z",
+    "value": 5990.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 87,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T07:00:00Z",
+    "value": 6150.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 88,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T07:05:00Z",
+    "value": 6420.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 89,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T07:10:00Z",
+    "value": 6420.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 90,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T07:15:00Z",
+    "value": 6200.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 91,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T07:20:00Z",
+    "value": 6290.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 92,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T07:25:00Z",
+    "value": 5780.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 93,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T07:30:00Z",
+    "value": 5990.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 94,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T07:35:00Z",
+    "value": 5900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 95,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T07:40:00Z",
+    "value": 6210.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 96,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T07:45:00Z",
+    "value": 6320.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 97,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T07:50:00Z",
+    "value": 6210.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 98,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T07:55:00Z",
+    "value": 6110.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 99,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T08:00:00Z",
+    "value": 5890.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 100,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T08:05:00Z",
+    "value": 5790.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 101,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T08:10:00Z",
+    "value": 5480.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 102,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T08:15:00Z",
+    "value": 5410.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 103,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T08:20:00Z",
+    "value": 5510.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 104,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T08:25:00Z",
+    "value": 5230.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 105,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T08:30:00Z",
+    "value": 5900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 106,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T08:35:00Z",
+    "value": 5910.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 107,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T08:40:00Z",
+    "value": 5750.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 108,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T08:45:00Z",
+    "value": 5440.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 109,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T08:50:00Z",
+    "value": 5490.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 110,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T08:55:00Z",
+    "value": 5220.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 111,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T09:00:00Z",
+    "value": 4970.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 112,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T09:05:00Z",
+    "value": 4930.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 113,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T09:10:00Z",
+    "value": 4940.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 114,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T09:15:00Z",
+    "value": 4890.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 115,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T09:20:00Z",
+    "value": 4330.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 116,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T09:25:00Z",
+    "value": 4170.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 117,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T09:30:00Z",
+    "value": 4420.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 118,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T09:35:00Z",
+    "value": 4440.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 119,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T09:40:00Z",
+    "value": 4740.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 120,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T09:45:00Z",
+    "value": 5220.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 121,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T09:50:00Z",
+    "value": 5650.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 122,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T09:55:00Z",
+    "value": 5670.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 123,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T10:00:00Z",
+    "value": 5970.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 124,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T10:05:00Z",
+    "value": 5280.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 125,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T10:10:00Z",
+    "value": 4920.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 126,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T10:15:00Z",
+    "value": 4480.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 127,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T10:20:00Z",
+    "value": 4550.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 128,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T10:25:00Z",
+    "value": 4700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 129,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T10:30:00Z",
+    "value": 5310.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 130,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T10:35:00Z",
+    "value": 5540.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 131,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T10:40:00Z",
+    "value": 6120.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 132,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T10:45:00Z",
+    "value": 6890.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 133,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T10:50:00Z",
+    "value": 7150.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 134,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T10:55:00Z",
+    "value": 6700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 135,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T11:00:00Z",
+    "value": 6920.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 136,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T11:05:00Z",
+    "value": 8700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 137,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T11:10:00Z",
+    "value": 9880.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 138,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T11:15:00Z",
+    "value": 11900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 139,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T11:20:00Z",
+    "value": 12900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 140,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T11:25:00Z",
+    "value": 10200.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 141,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T11:30:00Z",
+    "value": 11700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 142,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T11:35:00Z",
+    "value": 11400.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 143,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T11:40:00Z",
+    "value": 12100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 144,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T11:45:00Z",
+    "value": 11200.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 145,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T11:50:00Z",
+    "value": 12500.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 146,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T11:55:00Z",
+    "value": 13900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 147,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T12:00:00Z",
+    "value": 14000.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 148,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T12:05:00Z",
+    "value": 16700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 149,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T12:10:00Z",
+    "value": 18000.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 150,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T12:15:00Z",
+    "value": 20000.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 151,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T12:20:00Z",
+    "value": 18300.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 152,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T12:25:00Z",
+    "value": 21100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 153,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T12:30:00Z",
+    "value": 25800.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 154,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T12:35:00Z",
+    "value": 26000.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 155,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T12:40:00Z",
+    "value": 30900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 156,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T12:45:00Z",
+    "value": 28500.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 157,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T12:50:00Z",
+    "value": 30100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 158,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T12:55:00Z",
+    "value": 25900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 159,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T13:00:00Z",
+    "value": 27000.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 160,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T13:05:00Z",
+    "value": 27400.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 161,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T13:10:00Z",
+    "value": 26100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 162,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T13:15:00Z",
+    "value": 29900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 163,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T13:20:00Z",
+    "value": 27300.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 164,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T13:25:00Z",
+    "value": 26800.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 165,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T13:30:00Z",
+    "value": 24900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 166,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T13:35:00Z",
+    "value": 24600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 167,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T13:40:00Z",
+    "value": 22400.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 168,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T13:45:00Z",
+    "value": 20500.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 169,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T13:50:00Z",
+    "value": 18100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 170,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T13:55:00Z",
+    "value": 13100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 171,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T14:00:00Z",
+    "value": 11700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 172,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T14:05:00Z",
+    "value": 9950.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 173,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T14:10:00Z",
+    "value": 10100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 174,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T14:15:00Z",
+    "value": 10100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 175,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T14:20:00Z",
+    "value": 10500.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 176,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T14:25:00Z",
+    "value": 11700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 177,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T14:30:00Z",
+    "value": 10400.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 178,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T14:35:00Z",
+    "value": 10200.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 179,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T14:40:00Z",
+    "value": 9510.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 180,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T14:45:00Z",
+    "value": 9910.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 181,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T14:50:00Z",
+    "value": 11100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 182,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T14:55:00Z",
+    "value": 11800.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 183,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T15:00:00Z",
+    "value": 11800.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 184,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T15:05:00Z",
+    "value": 12600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 185,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T15:10:00Z",
+    "value": 13600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 186,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T15:15:00Z",
+    "value": 13900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 187,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T15:20:00Z",
+    "value": 14700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 188,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T15:25:00Z",
+    "value": 13200.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 189,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T15:30:00Z",
+    "value": 13600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 190,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T15:35:00Z",
+    "value": 11900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 191,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T15:40:00Z",
+    "value": 12600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 192,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T15:45:00Z",
+    "value": 11300.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 193,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T15:50:00Z",
+    "value": 11800.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 194,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T15:55:00Z",
+    "value": 10700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 195,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T16:00:00Z",
+    "value": 13100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 196,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T16:05:00Z",
+    "value": 16600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 197,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T16:10:00Z",
+    "value": 15300.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 198,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T16:15:00Z",
+    "value": 16500.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 199,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T16:20:00Z",
+    "value": 16500.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 200,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T16:25:00Z",
+    "value": 14500.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 201,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T16:30:00Z",
+    "value": 15600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 202,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T16:35:00Z",
+    "value": 13400.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 203,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T16:40:00Z",
+    "value": 12000.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 204,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T16:45:00Z",
+    "value": 13600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 205,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T16:50:00Z",
+    "value": 14000.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 206,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T16:55:00Z",
+    "value": 15900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 207,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T17:00:00Z",
+    "value": 16100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 208,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T17:05:00Z",
+    "value": 16500.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 209,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T17:10:00Z",
+    "value": 17800.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 210,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T17:15:00Z",
+    "value": 18100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 211,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T17:20:00Z",
+    "value": 19500.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 212,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T17:25:00Z",
+    "value": 20300.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 213,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T17:30:00Z",
+    "value": 18100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 214,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T17:35:00Z",
+    "value": 18500.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 215,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T17:40:00Z",
+    "value": 19100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 216,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T17:45:00Z",
+    "value": 18000.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 217,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T17:50:00Z",
+    "value": 17200.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 218,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T17:55:00Z",
+    "value": 17400.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 219,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T18:00:00Z",
+    "value": 17100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 220,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T18:05:00Z",
+    "value": 17800.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 221,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T18:10:00Z",
+    "value": 17400.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 222,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T18:15:00Z",
+    "value": 15800.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 223,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T18:20:00Z",
+    "value": 15700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 224,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T18:25:00Z",
+    "value": 16200.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 225,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T18:30:00Z",
+    "value": 15600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 226,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T18:35:00Z",
+    "value": 15000.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 227,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T18:40:00Z",
+    "value": 15500.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 228,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T18:45:00Z",
+    "value": 14700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 229,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T18:50:00Z",
+    "value": 13200.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 230,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T18:55:00Z",
+    "value": 12900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 231,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T19:00:00Z",
+    "value": 12600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 232,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T19:05:00Z",
+    "value": 10700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 233,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T19:10:00Z",
+    "value": 12200.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 234,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T19:15:00Z",
+    "value": 15400.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 235,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T19:20:00Z",
+    "value": 16000.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 236,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T19:25:00Z",
+    "value": 15900.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 237,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T19:30:00Z",
+    "value": 17100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 238,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T19:35:00Z",
+    "value": 19600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 239,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T19:40:00Z",
+    "value": 18200.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 240,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T19:45:00Z",
+    "value": 16800.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 241,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T19:50:00Z",
+    "value": 18400.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 242,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T19:55:00Z",
+    "value": 20200.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 243,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T20:00:00Z",
+    "value": 21500.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 244,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T20:05:00Z",
+    "value": 23300.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 245,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T20:10:00Z",
+    "value": 23100.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 246,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T20:15:00Z",
+    "value": 22600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 247,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T20:20:00Z",
+    "value": 23700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 248,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T20:25:00Z",
+    "value": 22500.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 249,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T20:30:00Z",
+    "value": 23300.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 250,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T20:35:00Z",
+    "value": 24600.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 251,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T20:40:00Z",
+    "value": 23300.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 252,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T20:45:00Z",
+    "value": 24700.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 253,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 2,
+    "date": "2015-12-06T20:50:00Z",
+    "value": 22800.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 254,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T00:00:00Z",
+    "value": 27.6,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 255,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T00:05:00Z",
+    "value": 26.1,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 256,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T00:10:00Z",
+    "value": 23.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 257,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T00:15:00Z",
+    "value": 28.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 258,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T00:20:00Z",
+    "value": 32.7,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 259,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T00:25:00Z",
+    "value": 28.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 260,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T00:30:00Z",
+    "value": 31.1,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 261,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T00:35:00Z",
+    "value": 34.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 262,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T00:40:00Z",
+    "value": 26.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 263,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T00:45:00Z",
+    "value": 23.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 264,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T00:50:00Z",
+    "value": 23.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 265,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T00:55:00Z",
+    "value": 22.3,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 266,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T01:00:00Z",
+    "value": 22.7,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 267,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T01:05:00Z",
+    "value": 17.3,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 268,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T01:10:00Z",
+    "value": 10.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 269,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T01:15:00Z",
+    "value": 18.6,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 270,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T01:20:00Z",
+    "value": 15.7,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 271,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T01:25:00Z",
+    "value": 18.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 272,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T01:30:00Z",
+    "value": 19.9,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 273,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T01:35:00Z",
+    "value": 20.3,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 274,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T01:40:00Z",
+    "value": 14.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 275,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T01:45:00Z",
+    "value": 19.1,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 276,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T01:50:00Z",
+    "value": 17.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 277,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T01:55:00Z",
+    "value": 12.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 278,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T02:00:00Z",
+    "value": 7.68,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 279,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T02:05:00Z",
+    "value": 9.98,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 280,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T02:10:00Z",
+    "value": 13.9,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 281,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T02:15:00Z",
+    "value": 8.56,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 282,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T02:20:00Z",
+    "value": 11.7,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 283,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T02:25:00Z",
+    "value": 9.42,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 284,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T02:30:00Z",
+    "value": 8.59,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 285,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T02:35:00Z",
+    "value": 12.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 286,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T02:40:00Z",
+    "value": 10.9,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 287,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T02:45:00Z",
+    "value": 11.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 288,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T02:50:00Z",
+    "value": 12.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 289,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T02:55:00Z",
+    "value": 12.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 290,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T03:00:00Z",
+    "value": 12.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 291,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T03:05:00Z",
+    "value": 4.82,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 292,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T03:10:00Z",
+    "value": 14.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 293,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T03:15:00Z",
+    "value": 17.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 294,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T03:20:00Z",
+    "value": 18.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 295,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T03:25:00Z",
+    "value": 16.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 296,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T03:30:00Z",
+    "value": 25.9,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 297,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T03:35:00Z",
+    "value": 23.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 298,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T03:40:00Z",
+    "value": 23.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 299,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T03:45:00Z",
+    "value": 23.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 300,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T03:50:00Z",
+    "value": 35.1,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 301,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T03:55:00Z",
+    "value": 46.1,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 302,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T04:00:00Z",
+    "value": 42.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 303,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T04:05:00Z",
+    "value": 36.3,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 304,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T04:10:00Z",
+    "value": 45.3,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 305,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T04:15:00Z",
+    "value": 41.6,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 306,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T04:20:00Z",
+    "value": 63.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 307,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T04:25:00Z",
+    "value": 65.6,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 308,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T04:30:00Z",
+    "value": 66.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 309,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T04:35:00Z",
+    "value": 104.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 310,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T04:40:00Z",
+    "value": 128.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 311,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T04:45:00Z",
+    "value": 126.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 312,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T04:50:00Z",
+    "value": 128.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 313,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T04:55:00Z",
+    "value": 118.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 314,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T05:00:00Z",
+    "value": 118.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 315,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T05:05:00Z",
+    "value": 86.6,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 316,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T05:10:00Z",
+    "value": 89.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 317,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T05:15:00Z",
+    "value": 93.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 318,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T05:20:00Z",
+    "value": 74.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 319,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T05:25:00Z",
+    "value": 61.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 320,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T05:30:00Z",
+    "value": 58.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 321,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T05:35:00Z",
+    "value": 56.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 322,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T05:40:00Z",
+    "value": 54.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 323,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T05:45:00Z",
+    "value": 52.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 324,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T05:50:00Z",
+    "value": 49.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 325,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T05:55:00Z",
+    "value": 42.1,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 326,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T06:00:00Z",
+    "value": 43.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 327,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T06:05:00Z",
+    "value": 34.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 328,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T06:10:00Z",
+    "value": 39.7,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 329,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T06:15:00Z",
+    "value": 38.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 330,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T06:20:00Z",
+    "value": 37.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 331,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T06:25:00Z",
+    "value": 28.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 332,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T06:30:00Z",
+    "value": 29.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 333,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T06:35:00Z",
+    "value": 24.3,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 334,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T06:40:00Z",
+    "value": 22.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 335,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T06:45:00Z",
+    "value": 23.3,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 336,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T06:50:00Z",
+    "value": 22.7,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 337,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T06:55:00Z",
+    "value": 23.9,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 338,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T07:00:00Z",
+    "value": 27.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 339,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T07:05:00Z",
+    "value": 25.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 340,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T07:10:00Z",
+    "value": 30.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 341,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T07:15:00Z",
+    "value": 28.1,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 342,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T07:20:00Z",
+    "value": 25.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 343,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T07:25:00Z",
+    "value": 26.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 344,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T07:30:00Z",
+    "value": 26.6,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 345,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T07:35:00Z",
+    "value": 29.7,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 346,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T07:40:00Z",
+    "value": 32.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 347,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T07:45:00Z",
+    "value": 37.9,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 348,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T07:50:00Z",
+    "value": 40.9,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 349,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T07:55:00Z",
+    "value": 44.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 350,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T08:00:00Z",
+    "value": 36.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 351,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T08:05:00Z",
+    "value": 32.6,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 352,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T08:10:00Z",
+    "value": 33.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 353,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T08:15:00Z",
+    "value": 36.3,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 354,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T08:20:00Z",
+    "value": 35.9,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 355,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T08:25:00Z",
+    "value": 35.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 356,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T08:30:00Z",
+    "value": 37.9,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 357,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T08:35:00Z",
+    "value": 36.3,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 358,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T08:40:00Z",
+    "value": 39.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 359,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T08:45:00Z",
+    "value": 40.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 360,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T08:50:00Z",
+    "value": 39.3,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 361,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T08:55:00Z",
+    "value": 31.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 362,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T09:00:00Z",
+    "value": 31.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 363,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T09:05:00Z",
+    "value": 32.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 364,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T09:10:00Z",
+    "value": 35.9,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 365,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T09:15:00Z",
+    "value": 32.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 366,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T09:20:00Z",
+    "value": 34.8,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 367,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T09:25:00Z",
+    "value": 28.9,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 368,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T09:30:00Z",
+    "value": 28.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 369,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T09:35:00Z",
+    "value": 27.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 370,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T09:40:00Z",
+    "value": 26.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 371,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T09:45:00Z",
+    "value": 26.9,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 372,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T09:50:00Z",
+    "value": 37.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 373,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T09:55:00Z",
+    "value": 37.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 374,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T10:00:00Z",
+    "value": 37.1,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 375,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T10:05:00Z",
+    "value": 33.7,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 376,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T10:10:00Z",
+    "value": 30.7,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 377,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T10:15:00Z",
+    "value": 27.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 378,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T10:20:00Z",
+    "value": 35.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 379,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T10:25:00Z",
+    "value": 33.2,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 380,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T10:30:00Z",
+    "value": 38.7,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 381,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T10:35:00Z",
+    "value": 54.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 382,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T10:40:00Z",
+    "value": 62.3,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 383,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T10:45:00Z",
+    "value": 73.4,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 384,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T10:50:00Z",
+    "value": 69.1,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 385,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T10:55:00Z",
+    "value": 71.6,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 386,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T11:00:00Z",
+    "value": 64.9,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 387,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T11:05:00Z",
+    "value": 72.6,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 388,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T11:10:00Z",
+    "value": 82.3,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 389,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T11:15:00Z",
+    "value": 97.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 390,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T11:20:00Z",
+    "value": 111.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 391,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T11:25:00Z",
+    "value": 96.5,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 392,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T11:30:00Z",
+    "value": 112.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 393,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T11:35:00Z",
+    "value": 107.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 394,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T11:40:00Z",
+    "value": 117.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 395,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T11:45:00Z",
+    "value": 103.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 396,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T11:50:00Z",
+    "value": 119.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 397,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T11:55:00Z",
+    "value": 140.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 398,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T12:00:00Z",
+    "value": 129.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 399,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T12:05:00Z",
+    "value": 161.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 400,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T12:10:00Z",
+    "value": 202.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 401,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T12:15:00Z",
+    "value": 236.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 402,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T12:20:00Z",
+    "value": 222.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 403,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T12:25:00Z",
+    "value": 260.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 404,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T12:30:00Z",
+    "value": 359.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 405,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T12:35:00Z",
+    "value": 368.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 406,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T12:40:00Z",
+    "value": 486.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 407,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T12:45:00Z",
+    "value": 408.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 408,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T12:50:00Z",
+    "value": 432.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 409,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T12:55:00Z",
+    "value": 325.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 410,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T13:00:00Z",
+    "value": 338.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 411,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T13:05:00Z",
+    "value": 360.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 412,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T13:10:00Z",
+    "value": 339.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 413,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T13:15:00Z",
+    "value": 486.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 414,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T13:20:00Z",
+    "value": 452.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 415,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T13:25:00Z",
+    "value": 474.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 416,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T13:30:00Z",
+    "value": 456.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 417,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T13:35:00Z",
+    "value": 445.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 418,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T13:40:00Z",
+    "value": 411.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 419,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T13:45:00Z",
+    "value": 382.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 420,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T13:50:00Z",
+    "value": 351.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 421,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T13:55:00Z",
+    "value": 234.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 422,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T14:00:00Z",
+    "value": 195.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 423,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T14:05:00Z",
+    "value": 168.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 424,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T14:10:00Z",
+    "value": 178.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 425,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T14:15:00Z",
+    "value": 178.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 426,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T14:20:00Z",
+    "value": 202.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 427,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T14:25:00Z",
+    "value": 238.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 428,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T14:30:00Z",
+    "value": 197.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 429,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T14:35:00Z",
+    "value": 187.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 430,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T14:40:00Z",
+    "value": 163.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 431,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T14:45:00Z",
+    "value": 184.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 432,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T14:50:00Z",
+    "value": 214.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 433,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T14:55:00Z",
+    "value": 232.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 434,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T15:00:00Z",
+    "value": 235.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 435,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T15:05:00Z",
+    "value": 264.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 436,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T15:10:00Z",
+    "value": 276.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 437,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T15:15:00Z",
+    "value": 293.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 438,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T15:20:00Z",
+    "value": 325.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 439,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T15:25:00Z",
+    "value": 285.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 440,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T15:30:00Z",
+    "value": 291.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 441,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T15:35:00Z",
+    "value": 251.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 442,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T15:40:00Z",
+    "value": 247.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 443,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T15:45:00Z",
+    "value": 207.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 444,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T15:50:00Z",
+    "value": 229.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 445,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T15:55:00Z",
+    "value": 193.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 446,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T16:00:00Z",
+    "value": 253.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 447,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T16:05:00Z",
+    "value": 336.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 448,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T16:10:00Z",
+    "value": 265.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 449,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T16:15:00Z",
+    "value": 274.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 450,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T16:20:00Z",
+    "value": 266.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 451,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T16:25:00Z",
+    "value": 228.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 452,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T16:30:00Z",
+    "value": 243.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 453,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T16:35:00Z",
+    "value": 189.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 454,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T16:40:00Z",
+    "value": 149.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 455,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T16:45:00Z",
+    "value": 179.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 456,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T16:50:00Z",
+    "value": 200.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 457,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T16:55:00Z",
+    "value": 238.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 458,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T17:00:00Z",
+    "value": 246.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 459,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T17:05:00Z",
+    "value": 258.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 460,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T17:10:00Z",
+    "value": 304.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 461,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T17:15:00Z",
+    "value": 316.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 462,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T17:20:00Z",
+    "value": 351.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 463,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T17:25:00Z",
+    "value": 379.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 464,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T17:30:00Z",
+    "value": 325.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 465,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T17:35:00Z",
+    "value": 359.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 466,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T17:40:00Z",
+    "value": 335.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 467,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T17:45:00Z",
+    "value": 301.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 468,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T17:50:00Z",
+    "value": 294.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 469,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T17:55:00Z",
+    "value": 286.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 470,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T18:00:00Z",
+    "value": 279.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 471,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T18:05:00Z",
+    "value": 299.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 472,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T18:10:00Z",
+    "value": 292.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 473,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T18:15:00Z",
+    "value": 243.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 474,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T18:20:00Z",
+    "value": 234.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 475,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T18:25:00Z",
+    "value": 241.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 476,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T18:30:00Z",
+    "value": 247.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 477,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T18:35:00Z",
+    "value": 235.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 478,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T18:40:00Z",
+    "value": 239.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 479,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T18:45:00Z",
+    "value": 206.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 480,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T18:50:00Z",
+    "value": 184.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 481,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T18:55:00Z",
+    "value": 169.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 482,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T19:00:00Z",
+    "value": 152.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 483,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T19:05:00Z",
+    "value": 110.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 484,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T19:10:00Z",
+    "value": 120.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 485,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T19:15:00Z",
+    "value": 156.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 486,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T19:20:00Z",
+    "value": 160.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 487,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T19:25:00Z",
+    "value": 149.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 488,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T19:30:00Z",
+    "value": 143.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 489,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T19:35:00Z",
+    "value": 197.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 490,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T19:40:00Z",
+    "value": 158.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 491,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T19:45:00Z",
+    "value": 156.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 492,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T19:50:00Z",
+    "value": 161.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 493,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T19:55:00Z",
+    "value": 192.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 494,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T20:00:00Z",
+    "value": 195.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 495,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T20:05:00Z",
+    "value": 231.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 496,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T20:10:00Z",
+    "value": 224.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 497,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T20:15:00Z",
+    "value": 221.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 498,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T20:20:00Z",
+    "value": 217.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 499,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T20:25:00Z",
+    "value": 198.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 500,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T20:30:00Z",
+    "value": 224.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 501,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T20:35:00Z",
+    "value": 234.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 502,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T20:40:00Z",
+    "value": 235.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 503,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T20:45:00Z",
+    "value": 246.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+},
+{
+  "pk": 504,
+  "fields": {
+    "units": "Electrons/cm2-s-sr",
+    "etype": 1,
+    "date": "2015-12-06T20:50:00Z",
+    "value": 209.0,
+    "bogus": false
+  },
+  "model": "core.electronflux"
+}
+]

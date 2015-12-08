@@ -1,0 +1,5524 @@
+[
+{
+  "model": "core.xrayflux",
+  "pk": 2,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.76e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 3,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.53e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 4,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.36e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 5,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.22e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 6,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.11e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 7,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.06e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 8,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.07e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 9,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.01e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 10,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.87e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 11,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.75e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 12,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.67e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 13,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.54e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 14,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.46e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 15,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.44e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 16,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.46e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 17,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.41e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 18,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.39e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 19,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.34e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 20,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.34e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 21,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.46e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 22,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.5e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 23,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.53e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 24,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.63e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 25,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.62e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 26,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.67e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 27,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.73e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 28,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.81e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 29,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.38e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 30,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.58e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 31,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.34e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 32,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.04e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 33,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.91e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 34,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.87e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 35,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.84e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 36,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.78e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 37,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.62e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 38,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.57e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 39,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.55e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 40,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.51e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 41,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.61e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 42,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.6e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 43,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 4.27e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 44,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.52e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 45,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.41e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 46,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.37e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 47,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.5e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 48,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.58e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 49,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.41e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 50,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.42e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 51,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.64e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 52,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.56e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 53,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.49e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 54,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.62e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 55,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.87e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 56,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.75e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 57,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.67e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 58,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.51e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 59,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.71e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 60,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.96e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 61,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.9e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 62,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.92e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 63,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.71e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 64,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.63e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 65,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.62e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 66,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.6e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 67,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.62e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 68,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.65e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 69,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.72e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 70,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.76e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 71,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.64e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 72,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.78e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 73,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.72e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 74,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.75e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 75,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.46e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 76,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.46e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 77,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.38e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 78,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.13e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 79,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.98e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 80,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.86e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 81,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.76e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 82,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.92e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 83,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 5.01e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 84,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 7.36e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 85,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 6.8e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 86,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 6.05e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 87,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 5.35e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 88,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 6.24e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 89,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 6.23e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 90,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 5.09e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 91,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 4.26e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 92,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.93e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 93,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.71e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 94,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.69e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 95,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.76e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 96,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.95e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 97,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.96e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 98,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.77e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 99,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.51e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 100,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.25e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 101,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.07e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 102,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.93e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 103,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.8e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 104,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.75e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 105,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.76e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 106,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.79e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 107,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.85e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 108,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.87e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 109,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.81e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 110,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.75e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 111,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.66e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 112,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.63e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 113,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.59e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 114,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.56e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 115,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.59e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 116,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.73e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 117,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.84e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 118,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.86e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 119,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.87e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 120,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.89e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 121,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.89e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 122,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.86e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 123,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.86e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 124,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.26e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 125,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.13e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 126,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.89e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 127,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.78e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 128,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.74e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 129,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.76e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 130,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.77e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 131,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.84e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 132,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.81e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 133,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.8e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 134,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.85e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 135,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.89e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 136,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.13e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 137,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.34e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 138,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.25e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 139,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.1e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 140,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.02e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 141,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.99e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 142,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.94e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 143,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.81e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 144,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.71e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 145,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.61e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 146,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.6e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 147,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.6e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 148,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.64e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 149,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.77e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 150,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.84e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 151,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.89e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 152,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.84e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 153,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.7e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 154,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.61e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 155,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.6e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 156,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.54e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 157,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.58e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 158,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.59e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 159,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.62e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 160,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.63e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 161,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.69e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 162,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.74e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 163,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.75e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 164,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.71e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 165,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.73e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 166,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.73e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 167,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.74e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 168,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.74e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 169,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.73e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 170,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.71e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 171,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.85e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 172,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.89e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 173,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.84e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 174,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.79e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 175,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.7e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 176,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.65e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 177,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.65e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 178,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.61e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 179,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.86e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 180,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.72e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 181,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.66e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 182,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.61e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 183,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.58e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 184,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.48e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 185,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.49e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 186,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.54e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 187,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.75e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 188,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 3.04e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 189,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.84e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 190,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.77e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 191,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.73e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 192,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.95e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 193,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.98e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 194,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.79e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 195,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.73e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 196,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.6e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 197,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.52e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 198,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.49e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 199,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.48e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 200,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.49e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 201,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.45e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 202,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.45e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 203,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.47e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 204,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.43e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 205,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.42e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 206,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.4e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 207,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.47e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 208,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.72e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 209,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.56e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 210,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.48e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 211,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.43e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 212,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.42e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 213,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.47e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 214,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.47e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 215,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.45e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 216,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.38e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 217,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.4e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 218,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.37e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 219,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.38e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 220,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.46e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 221,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.51e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 222,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.57e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 223,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.65e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 224,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.69e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 225,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.58e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 226,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.54e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 227,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.5e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 228,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.43e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 229,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.47e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 230,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.52e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 231,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.54e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 232,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.53e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 233,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.54e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 234,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.58e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 235,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.61e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 236,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.6e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 237,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.56e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 238,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.77e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 239,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.88e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 240,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.77e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 241,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.76e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 242,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.64e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 243,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.64e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 244,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.6e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 245,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.59e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 246,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.6e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 247,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.57e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 248,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.48e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 249,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.48e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 250,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.61e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 251,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 2.65e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 252,
+  "fields": {
+    "xtype": 2,
+    "bogus": false,
+    "value": 4.36e-07,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 253,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 254,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 255,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 256,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 257,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 258,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 259,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 260,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 261,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 262,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 263,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 264,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T00:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 265,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 266,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 267,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 268,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 269,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 270,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 271,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 272,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 273,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 274,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 275,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 276,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T01:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 277,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 278,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 279,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 280,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 281,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 282,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 283,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 284,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 285,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 286,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 287,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 288,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T02:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 289,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 290,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 291,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 292,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 293,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 294,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 9.91e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 295,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 296,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 297,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 298,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 299,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 300,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T03:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 301,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.61e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 302,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.86e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 303,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.3e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 304,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.06e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 305,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.01e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 306,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.02e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 307,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 308,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 309,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 310,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.05e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 311,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.03e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 312,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T04:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 313,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 314,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 315,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 316,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 317,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 318,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 319,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 320,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 321,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 322,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.02e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 323,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.07e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 324,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T05:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 325,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 326,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 327,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 328,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 329,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 330,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 331,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 332,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 333,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 334,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.05e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 335,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.22e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 336,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 9.52e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T06:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 337,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 4.39e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 338,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.78e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 339,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 8.45e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 340,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 6.21e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 341,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.23e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 342,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 343,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 344,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 345,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 346,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 347,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 348,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T07:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 349,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 350,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.01e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 351,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 352,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 353,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 354,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 355,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 356,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 357,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 358,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 359,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 360,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T08:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 361,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 362,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 363,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 364,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 365,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 366,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 367,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 368,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 369,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 370,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 371,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 372,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T09:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 373,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 374,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 375,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 376,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 377,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 378,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 379,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 380,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 381,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 382,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.68e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 383,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.72e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 384,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.77e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T10:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 385,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 9.35e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 386,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.47e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 387,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.06e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 388,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 8.54e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 389,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 7.79e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 390,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 7.78e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 391,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 9.72e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 392,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.38e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 393,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.24e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 394,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.69e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 395,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.21e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 396,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.96e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T11:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 397,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.45e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 398,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.43e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 399,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.4e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 400,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.46e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 401,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.65e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 402,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.88e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 403,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.75e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 404,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.9e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 405,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.13e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 406,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.14e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 407,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.05e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 408,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.09e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T12:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 409,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.38e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 410,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.78e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 411,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 3.19e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 412,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.89e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 413,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.22e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 414,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.71e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 415,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.67e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 416,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.33e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 417,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.06e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 418,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.28e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 419,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.31e-08,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 420,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 9.78e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T13:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 421,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 9.25e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 422,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 7.94e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 423,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 5.39e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 424,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 4.75e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 425,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.99e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 426,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.01e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 427,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.02e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 428,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.02e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 429,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 430,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 431,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 432,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T14:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 433,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 434,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 435,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 436,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 437,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 438,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 439,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.08e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 440,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 441,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.15e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 442,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.3e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 443,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.29e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 444,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 2.44e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T15:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 445,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.64e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 446,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.16e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 447,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.05e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 448,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.2e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 449,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.09e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 450,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.69e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 451,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.09e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 452,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.55e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 453,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.44e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 454,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.11e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 455,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.05e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 456,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.03e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T16:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 457,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.17e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 458,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.04e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 459,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 460,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 461,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.01e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 462,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 463,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 464,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 465,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 466,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 467,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 468,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T17:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 469,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 470,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 471,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 472,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.01e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 473,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 474,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 475,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 476,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 477,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 478,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 479,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 480,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T18:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 481,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 482,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 483,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 484,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 485,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 486,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 487,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 488,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 489,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.05e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 490,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.05e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 491,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.05e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:50:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 492,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.01e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T19:55:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 493,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:00:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 494,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:05:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 495,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:10:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 496,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.01e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:15:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 497,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:20:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 498,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.01e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:25:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 499,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:30:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 500,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:35:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 501,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1.03e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:40:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 502,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 1e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:45:00Z"
+  }
+},
+{
+  "model": "core.xrayflux",
+  "pk": 503,
+  "fields": {
+    "xtype": 1,
+    "bogus": false,
+    "value": 9.63e-09,
+    "units": "Watts/m2",
+    "date": "2015-12-06T20:50:00Z"
+  }
+}
+]
