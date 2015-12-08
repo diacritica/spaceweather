@@ -9,7 +9,8 @@ http://127.0.0.1:8000/api/protonflux/?date_min=2015-12-07&date_max=2015-12-07&pt
 
 will yield all protonflux valid values for 2015-12-07 of energy type 1 (P>10MeV)
 
-'''{
+```
+{
     "count": 1,
     "next": null,
     "previous": null,
