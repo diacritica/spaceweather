@@ -2,10 +2,10 @@ from django.contrib.auth import get_user_model
 
 from rest_framework import authentication, permissions, viewsets, filters
 
-from .forms import ProtonfluxFilter, ElectronfluxFilter
+from .forms import ProtonfluxFilter, ElectronfluxFilter, XrayfluxFilter
 
-from .models import Protonflux, Ptype, Electronflux, Etype
-from .serializers import ProtonfluxSerializer, PtypeSerializer, ElectronfluxSerializer, EtypeSerializer
+from .models import Protonflux, Ptype, Electronflux, Etype, Xrayflux, Xtype
+from .serializers import ProtonfluxSerializer, PtypeSerializer, ElectronfluxSerializer, EtypeSerializer, XrayfluxSerializer, XtypeSerializer
 
 User = get_user_model()
 
@@ -48,7 +48,7 @@ class PtypeViewSet(DefaultsMixin, viewsets.ModelViewSet):
 
 
 class ElectronfluxViewSet(DefaultsMixin, viewsets.ModelViewSet):
-    """API endpoint for listing and creating Protonflux."""
+    """API endpoint for listing and creating Electronflux."""
 
     queryset = Electronflux.objects.order_by('date')
     serializer_class = ElectronfluxSerializer
@@ -57,9 +57,26 @@ class ElectronfluxViewSet(DefaultsMixin, viewsets.ModelViewSet):
     ordering_fields = ('date', 'value',)
 
 class EtypeViewSet(DefaultsMixin, viewsets.ModelViewSet):
-    """API endpoint for listing and creating Ptypes."""
+    """API endpoint for listing and creating Etypes."""
 
     queryset = Etype.objects.order_by('name')
     serializer_class = EtypeSerializer
+    search_fields = ('name',)
+    ordering_fields = ('name',)
+
+class XrayfluxViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Xrayflux."""
+
+    queryset = Xrayflux.objects.order_by('date')
+    serializer_class = XrayfluxSerializer
+    filter_class = XrayfluxFilter
+    search_fields = ('date',)
+    ordering_fields = ('date', 'value',)
+
+class XtypeViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Xtypes."""
+
+    queryset = Xtype.objects.order_by('name')
+    serializer_class = XtypeSerializer
     search_fields = ('name',)
     ordering_fields = ('name',)

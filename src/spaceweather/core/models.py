@@ -5,7 +5,7 @@ from django.utils.translation import ugettext_lazy as _
 
 class Ptype(models.Model):
 
-    name = models.CharField(max_length=20, blank=False)
+    name = models.CharField(max_length=30, blank=False)
     description = models.TextField(blank=True)
     explanation = models.TextField(blank=True)
     url = models.URLField(blank=True)
@@ -19,7 +19,20 @@ class Ptype(models.Model):
 
 class Etype(models.Model):
 
-    name = models.CharField(max_length=20, blank=False)
+    name = models.CharField(max_length=30, blank=False)
+    description = models.TextField(blank=True)
+    explanation = models.TextField(blank=True)
+    url = models.URLField(blank=True)
+    origin = models.TextField(blank=True)
+
+    def __str__(self):
+        return self.name
+    def __unicode__(self):
+        return self.name
+
+class Xtype(models.Model):
+
+    name = models.CharField(max_length=30, blank=False)
     description = models.TextField(blank=True)
     explanation = models.TextField(blank=True)
     url = models.URLField(blank=True)
@@ -55,3 +68,15 @@ class Electronflux(models.Model):
 
     def __str__(self):
         return "{}:{} {} electronflux".format(self.date,self.etype.name,self.value)
+
+class Xrayflux(models.Model):
+    """Xray flux"""
+
+    date = models.DateTimeField(unique=False)
+    xtype = models.ForeignKey('Xtype', null=False)
+    value = models.FloatField(blank=False)
+    units = models.CharField(max_length=50, blank=True, default='Watt/m2')
+    bogus = models.BooleanField(default=False)
+
+    def __str__(self):
+        return "{}:{} {} xrayflux".format(self.date,self.xtype.name,self.value)

@@ -3,7 +3,7 @@ from django.contrib.auth import get_user_model
 from rest_framework import serializers
 
 from rest_framework.reverse import reverse
-from .models import Protonflux, Electronflux, Ptype, Etype
+from .models import Protonflux, Electronflux, Xrayflux, Ptype, Etype, Xtype
 
 User = get_user_model()
 
@@ -48,6 +48,22 @@ class EtypeSerializer(serializers.ModelSerializer):
             kwargs={'pk':obj.pk}, request=request),
         }
 
+class XtypeSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+
+    class Meta:
+        model = Xtype
+        fields = ('id', 'name', 'description', 'explanation', 'url', 'origin', 'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('xtype-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
 class ProtonfluxSerializer(serializers.ModelSerializer):
 
 
@@ -80,5 +96,23 @@ class ElectronfluxSerializer(serializers.ModelSerializer):
         request = self.context['request']
         return {
             'self': reverse('electronflux-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+
+class XrayfluxSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+    #etype = serializers.StringRelatedField()
+
+    class Meta:
+        model = Xrayflux
+        fields = ('id', 'date', 'xtype', 'value', 'units', 'bogus', 'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('xrayflux-detail',
             kwargs={'pk':obj.pk}, request=request),
         }
