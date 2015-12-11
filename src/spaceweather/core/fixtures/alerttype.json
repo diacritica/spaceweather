@@ -1,0 +1,51 @@
+[
+{
+  "pk": 1,
+  "fields": {
+    "name": "SUMMARY"
+  },
+  "model": "core.alerttype"
+},
+{
+  "pk": 2,
+  "fields": {
+    "name": "ALERT"
+  },
+  "model": "core.alerttype"
+},
+{
+  "pk": 3,
+  "fields": {
+    "name": "WARNING"
+  },
+  "model": "core.alerttype"
+},
+{
+  "pk": 4,
+  "fields": {
+    "name": "WATCH"
+  },
+  "model": "core.alerttype"
+},
+{
+  "pk": 5,
+  "fields": {
+    "name": "EXTENDED WARNING"
+  },
+  "model": "core.alerttype"
+},
+{
+  "pk": 6,
+  "fields": {
+    "name": "CONTINUED ALERT"
+  },
+  "model": "core.alerttype"
+},
+{
+  "pk": 7,
+  "fields": {
+    "name": "CANCEL WARNING"
+  },
+  "model": "core.alerttype"
+}
+]

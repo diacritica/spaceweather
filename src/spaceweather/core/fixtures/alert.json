@@ -1,0 +1,62 @@
+[
+{
+  "model": "core.alert",
+  "pk": 1,
+  "fields": {
+    "alerttype": 3,
+    "serialnumber": 121212,
+    "issuetime": "2015-12-11T16:16:00Z",
+    "payload": "Geomagnetic K-index of 5 expected \r\nValid From: 2015 Dec 11 1615 UTC\r\nValid To: 2015 Dec 11 2000 UTC\r\nWarning Condition: Onset\r\nNOAA Scale: G1 - Minor\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "SWMC": "WARK05",
+    "message": "Geomagnetic K-index of 5 expected"
+  }
+},
+{
+  "model": "core.alert",
+  "pk": 2,
+  "fields": {
+    "alerttype": 5,
+    "serialnumber": 2736,
+    "issuetime": "2015-12-11T16:14:00Z",
+    "payload": "Extension to Serial Number: 2736\r\nValid From: 2015 Dec 09 2005 UTC\r\nNow Valid Until: 2015 Dec 12 0400 UTC\r\nWarning Condition: Persistence\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+    "SWMC": "WARK04",
+    "message": "Geomagnetic K-index of 4 expected"
+  }
+},
+{
+  "model": "core.alert",
+  "pk": 3,
+  "fields": {
+    "alerttype": 6,
+    "serialnumber": 2285,
+    "issuetime": "2015-12-11T11:11:00Z",
+    "payload": "Continuation of Serial Number: 2285\r\nBegin Time: 2015 Dec 07 0945 UTC\r\nYesterday Maximum 2MeV Flux: 2210 pfu\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\nPotential Impacts: Satellite systems may experience significant charging resulting in increased risk to satellite systems.",
+    "SWMC": "ALTEF3",
+    "message": "Electron 2MeV Integral Flux exceeded 1000pfu"
+  }
+},
+{
+  "model": "core.alert",
+  "pk": 4,
+  "fields": {
+    "alerttype": 2,
+    "serialnumber": 2282,
+    "issuetime": "2015-12-07T10:03:00Z",
+    "payload": "Threshold Reached: 2015 Dec 07 0945 UTC\r\nStation: GOES13\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\nPotential Impacts: Satellite systems may experience significant charging resulting in increased risk to satellite systems.",
+    "SWMC": "ALTEF3",
+    "message": "Electron 2MeV Integral Flux exceeded 1000pfu"
+  }
+},
+{
+  "model": "core.alert",
+  "pk": 5,
+  "fields": {
+    "alerttype": 1,
+    "serialnumber": 678,
+    "issuetime": "2015-12-01T10:28:00Z",
+    "payload": "Begin Time: 2015 Dec 01 0808 UTC\r\nMaximum Time: 2015 Dec 01 0809 UTC\r\nEnd Time: 2015 Dec 01 0809 UTC\r\nDuration: 1 minutes\r\nPeak Flux: 210 sfu\r\nLatest Penticton Noon Flux: 96 sfu\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\nDescription: A 10cm radio burst indicates that the electromagnetic burst associated with a solar flare at the 10cm wavelength was double or greater than the initial 10cm radio background. This can be indicative of significant radio noise in association with a solar flare. This noise is generally short-lived but can cause interference for sensitive receivers including radar, GPS, and satellite communications.",
+    "SWMC": "SUM10R",
+    "message": "10cm Radio Burst"
+  }
+}
+]
