@@ -5,6 +5,7 @@ from rest_framework import serializers
 from rest_framework.reverse import reverse
 from .models import Protonflux, Electronflux, Xrayflux, Ptype, Etype, Xtype
 from .models import Sunspot, Sunspottype, Sunspotregion
+from .models import Alert, Alerttype
 
 User = get_user_model()
 
@@ -165,5 +166,39 @@ class SunspotregionSerializer(serializers.ModelSerializer):
         request = self.context['request']
         return {
             'self': reverse('sunspotregion-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+
+class AlerttypeSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+
+    class Meta:
+        model = Alerttype
+        fields = ('id', 'name', 'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('alerttype-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+class AlertSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+    #etype = serializers.StringRelatedField()
+
+    class Meta:
+        model = Alert
+        fields = ('id', 'SWMC', 'serialnumber', 'issuetime', 'alerttype', 'message', 'payload', 'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('alert-detail',
             kwargs={'pk':obj.pk}, request=request),
         }

@@ -68,7 +68,7 @@ class Protonflux(models.Model):
     bogus = models.BooleanField(default=False)
 
     def __str__(self):
-        return "{}:{} {} protonflux".format(self.date,self.ptype.name,self.value)
+        return "{}:{} {} protonflux".format(self.date, self.ptype.name, self.value)
 
 
 class Electronflux(models.Model):
@@ -81,7 +81,7 @@ class Electronflux(models.Model):
     bogus = models.BooleanField(default=False)
 
     def __str__(self):
-        return "{}:{} {} electronflux".format(self.date,self.etype.name,self.value)
+        return "{}:{} {} electronflux".format(self.date, self.etype.name, self.value)
 
 class Xrayflux(models.Model):
     """Xray flux"""
@@ -93,7 +93,7 @@ class Xrayflux(models.Model):
     bogus = models.BooleanField(default=False)
 
     def __str__(self):
-        return "{}:{} {} xrayflux".format(self.date,self.xtype.name,self.value)
+        return "{}:{} {} xrayflux".format(self.date, self.xtype.name, self.value)
 
 class Sunspot(models.Model):
     """Sunspot number"""
@@ -106,7 +106,7 @@ class Sunspot(models.Model):
 
 
     def __str__(self):
-        return "{}:{} {} sunspots".format(self.date,self.sunspottype.name,self.value)
+        return "{}:{} {} sunspots".format(self.date, self.sunspottype.name, self.value)
 
 class Sunspotregion(models.Model):
     """Sunspot Regions"""
@@ -133,4 +133,52 @@ class Sunspotregion(models.Model):
 
 
     def __str__(self):
-        return "{}:{} {} sunspot region".format(self.region, self.date,self.numberofsunspots)
+        return "{}:{} {} sunspot region".format(self.region, self.date, self.numberofsunspots)
+
+
+class Alerttype(models.Model):
+
+    name = models.CharField(max_length=50, blank=False)
+
+    def __str__(self):
+        return self.name
+    def __unicode__(self):
+        return self.name
+
+
+class Alert(models.Model):
+    """Alert"""
+
+    SWMC_CHOICES = (
+        ('ALTXMF',_('X-ray Flux exceeded M5')),
+        ('SUMX01',_('X-ray Event exceeded M5 (thresholds: M5 , X1, X10, or X20)')),
+        ('ALTTP2',_('Type II Radio Emission')),
+        ('ALTTP4',_('Type IV Radio Emission')),
+        ('SUM10R',('10cm Radio Burst')),
+        ('WARSUD',_('Geomagnetic Sudden Impulse expected')),
+        ('SUMSUD',_('Geomagnetic Sudden Impulse')),
+        ('WATA50',_('Geomagnetic Storm Category (G1, G2, G3, G4 or greater) predicted')),
+        ('WARK04',_('Geomagnetic K-index of 4 expected')),
+        ('WARK05',_('Geomagnetic K-index of 5 expected')),
+        ('WARK06',_('Geomagnetic K-index of 6 expected')),
+        ('WARK07',_('Geomagnetic K-index of 7 or greater expected')),
+        ('ALTK05',_('Geomagnetic K-index of (thresholds 4 , 5, 6, 7, 8, or 9)')),
+        ('ALTEF3',_('Electron 2MeV Integral Flux exceeded 1000pfu')),
+        ('WARPX1',_('Proton 10MeV Integral Flux above 10pfu expected')),
+        ('ALTPX1',_('Proton Event 10MeV Integral Flux exceeded threshold PX1=10, PX2=100, PX3=1000, PX4=10000, or PX5=100000pfu')),
+        ('SUMPX4',_('Proton Event 10MeV Integral Flux exceeded 10pfu threshold PX1=10, PX2=100, PX3=1000, PX4=10000, or PX5=100000pfu')),
+        ('WARPX1',_('Proton 10MeV Integral Flux above 10pfu expected')),
+        ('WARPC0',_('Proton 100MeV Integral Flux above 1pfu expected')),
+        ('ALTPC0',_('Proton Event 100MeV Integral Flux exceeded 1pfu')),
+        ('SUMPC0',_('Proton Event 100MeV Integral Flux exceeded 1pfu')),
+    )
+
+    SWMC = models.CharField(max_length=10, choices=SWMC_CHOICES)
+    serialnumber = models.IntegerField(blank=False)
+    issuetime = models.DateTimeField(blank=False)
+    alerttype = models.ForeignKey('Alerttype', null=False)
+    message = models.TextField(max_length=500)
+    payload = models.TextField(max_length=1000)
+
+    def __str__(self):
+        return "{}:{} {} alert".format(self.SWMC, self.serialnumber, self.issuetime)

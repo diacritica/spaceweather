@@ -12,3 +12,6 @@ python manage.py loaddata xtype
 python manage.py loaddata protonflux
 python manage.py loaddata electronflux
 python manage.py loaddata xrayflux
+python manage.py loaddata alerttype
+python manage.py loaddata alert
+

@@ -4,12 +4,15 @@ from rest_framework import authentication, permissions, viewsets, filters
 
 from .forms import ProtonfluxFilter, ElectronfluxFilter, XrayfluxFilter
 from .forms import SunspotFilter, SunspotregionFilter
+from .forms import AlertFilter
 
 from .models import Protonflux, Ptype, Electronflux, Etype, Xrayflux, Xtype
 from .models import Sunspot, Sunspottype, Sunspotregion
+from .models import Alert, Alerttype
 
 from .serializers import ProtonfluxSerializer, PtypeSerializer, ElectronfluxSerializer, EtypeSerializer, XrayfluxSerializer, XtypeSerializer
 from .serializers import SunspotSerializer, SunspottypeSerializer, SunspotregionSerializer
+from .serializers import AlertSerializer, AlerttypeSerializer
 
 User = get_user_model()
 
@@ -110,3 +113,20 @@ class SunspotregionViewSet(DefaultsMixin, viewsets.ModelViewSet):
     filter_class = SunspotregionFilter
     search_fields = ('date',)
     ordering_fields = ('date', 'region',)
+
+class AlerttypeViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Alerttypes."""
+
+    queryset = Alerttype.objects.order_by('name')
+    serializer_class = AlerttypeSerializer
+    search_fields = ('name',)
+    ordering_fields = ('name',)
+
+class AlertViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Alerts."""
+
+    queryset = Alert.objects.order_by('issuetime')
+    serializer_class = AlertSerializer
+    filter_class = AlertFilter
+    search_fields = ('issuetime',)
+    ordering_fields = ('issuetime', 'name',)
