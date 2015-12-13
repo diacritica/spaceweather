@@ -157,6 +157,7 @@ class Alert(models.Model):
         ('SUM10R',('10cm Radio Burst')),
         ('WARSUD',_('Geomagnetic Sudden Impulse expected')),
         ('SUMSUD',_('Geomagnetic Sudden Impulse')),
+        ('WATA20',_('Geomagnetic Storm Category G1 Predicted')),
         ('WATA50',_('Geomagnetic Storm Category (G1, G2, G3, G4 or greater) predicted')),
         ('WARK04',_('Geomagnetic K-index of 4 expected')),
         ('WARK05',_('Geomagnetic K-index of 5 expected')),
