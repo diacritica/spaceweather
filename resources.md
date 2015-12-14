@@ -7,3 +7,5 @@ https://www.ngdc.noaa.gov/stp/iono/sunspot.html
 http://www.sws.bom.gov.au/Solar/1/6
 http://sunspotwatch.com/
 http://www.srl.caltech.edu/ACE/
+
+http://jsoc.stanford.edu/data/hmi/images/latest/
