@@ -14,4 +14,6 @@ python manage.py loaddata electronflux
 python manage.py loaddata xrayflux
 python manage.py loaddata alerttype
 python manage.py loaddata alert
-
+python manage.py loaddata sunspottype
+python manage.py loaddata sunspot
+python manage.py loaddata sunspotregion

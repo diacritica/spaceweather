@@ -1,0 +1,35 @@
+[
+{
+  "fields": {
+    "origin": "",
+    "name": "Smoothed monthly values",
+    "description": "Smoothed monthly values",
+    "url": "",
+    "explanation": "Smoothed monthly values"
+  },
+  "pk": 1,
+  "model": "core.sunspottype"
+},
+{
+  "fields": {
+    "origin": "",
+    "name": "Predicted monthly values",
+    "description": "Predicted monthly values",
+    "url": "",
+    "explanation": "Predicted monthly values"
+  },
+  "pk": 2,
+  "model": "core.sunspottype"
+},
+{
+  "fields": {
+    "origin": "",
+    "name": "Observed monthly values",
+    "description": "Observed monthly values",
+    "url": "",
+    "explanation": "Observed monthly values"
+  },
+  "pk": 3,
+  "model": "core.sunspottype"
+}
+]
