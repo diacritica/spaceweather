@@ -9,3 +9,10 @@ http://sunspotwatch.com/
 http://www.srl.caltech.edu/ACE/
 
 http://jsoc.stanford.edu/data/hmi/images/latest/
+
+EIT, LASCO
+
+EIT images are taken twice a day while LASCO/SDO are taken much more frequently
+
+LASCO images are taken every 12 minutes
+SDO images are taken every 30 minutes
