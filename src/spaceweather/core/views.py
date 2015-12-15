@@ -1,4 +1,5 @@
 from django.contrib.auth import get_user_model
+from django.http import HttpResponse
 
 from rest_framework import authentication, permissions, viewsets, filters
 
@@ -18,6 +19,11 @@ from .serializers import AlertSerializer, AlerttypeSerializer
 from .serializers import ImagechannelSerializer, ChanneltypeSerializer
 
 User = get_user_model()
+
+def servefiles(request, file):
+
+    image = open("images/{}".format(file),'rb')
+    return HttpResponse(image, content_type='image/gif')
 
 class DefaultsMixin(object):
 
