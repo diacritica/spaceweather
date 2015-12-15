@@ -1,2 +1,7119 @@
 [
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 213.5,
+    "date": "1991-01-15",
+    "bogus": false
+  },
+  "pk": 1188,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 270.2,
+    "date": "1991-02-15",
+    "bogus": false
+  },
+  "pk": 1189,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 227.9,
+    "date": "1991-03-15",
+    "bogus": false
+  },
+  "pk": 1190,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 215.9,
+    "date": "1991-04-15",
+    "bogus": false
+  },
+  "pk": 1191,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 182.5,
+    "date": "1991-05-15",
+    "bogus": false
+  },
+  "pk": 1192,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 231.8,
+    "date": "1991-06-15",
+    "bogus": false
+  },
+  "pk": 1193,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 245.7,
+    "date": "1991-07-15",
+    "bogus": false
+  },
+  "pk": 1194,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 251.5,
+    "date": "1991-08-15",
+    "bogus": false
+  },
+  "pk": 1195,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 185.8,
+    "date": "1991-09-15",
+    "bogus": false
+  },
+  "pk": 1196,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 220.1,
+    "date": "1991-10-15",
+    "bogus": false
+  },
+  "pk": 1197,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 169.0,
+    "date": "1991-11-15",
+    "bogus": false
+  },
+  "pk": 1198,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 217.7,
+    "date": "1991-12-15",
+    "bogus": false
+  },
+  "pk": 1199,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 217.9,
+    "date": "1992-01-15",
+    "bogus": false
+  },
+  "pk": 1200,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 238.2,
+    "date": "1992-02-15",
+    "bogus": false
+  },
+  "pk": 1201,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 160.5,
+    "date": "1992-03-15",
+    "bogus": false
+  },
+  "pk": 1202,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 144.0,
+    "date": "1992-04-15",
+    "bogus": false
+  },
+  "pk": 1203,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 106.3,
+    "date": "1992-05-15",
+    "bogus": false
+  },
+  "pk": 1204,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 104.7,
+    "date": "1992-06-15",
+    "bogus": false
+  },
+  "pk": 1205,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 121.4,
+    "date": "1992-07-15",
+    "bogus": false
+  },
+  "pk": 1206,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 99.5,
+    "date": "1992-08-15",
+    "bogus": false
+  },
+  "pk": 1207,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 93.8,
+    "date": "1992-09-15",
+    "bogus": false
+  },
+  "pk": 1208,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 136.2,
+    "date": "1992-10-15",
+    "bogus": false
+  },
+  "pk": 1209,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 124.3,
+    "date": "1992-11-15",
+    "bogus": false
+  },
+  "pk": 1210,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 127.4,
+    "date": "1992-12-15",
+    "bogus": false
+  },
+  "pk": 1211,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 92.1,
+    "date": "1993-01-15",
+    "bogus": false
+  },
+  "pk": 1212,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 126.1,
+    "date": "1993-02-15",
+    "bogus": false
+  },
+  "pk": 1213,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 107.4,
+    "date": "1993-03-15",
+    "bogus": false
+  },
+  "pk": 1214,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 98.6,
+    "date": "1993-04-15",
+    "bogus": false
+  },
+  "pk": 1215,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 79.1,
+    "date": "1993-05-15",
+    "bogus": false
+  },
+  "pk": 1216,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 68.5,
+    "date": "1993-06-15",
+    "bogus": false
+  },
+  "pk": 1217,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 81.6,
+    "date": "1993-07-15",
+    "bogus": false
+  },
+  "pk": 1218,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 59.4,
+    "date": "1993-08-15",
+    "bogus": false
+  },
+  "pk": 1219,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 33.5,
+    "date": "1993-09-15",
+    "bogus": false
+  },
+  "pk": 1220,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 73.5,
+    "date": "1993-10-15",
+    "bogus": false
+  },
+  "pk": 1221,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 51.0,
+    "date": "1993-11-15",
+    "bogus": false
+  },
+  "pk": 1222,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 75.9,
+    "date": "1993-12-15",
+    "bogus": false
+  },
+  "pk": 1223,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 86.4,
+    "date": "1994-01-15",
+    "bogus": false
+  },
+  "pk": 1224,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 60.5,
+    "date": "1994-02-15",
+    "bogus": false
+  },
+  "pk": 1225,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 52.4,
+    "date": "1994-03-15",
+    "bogus": false
+  },
+  "pk": 1226,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 29.3,
+    "date": "1994-04-15",
+    "bogus": false
+  },
+  "pk": 1227,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 35.4,
+    "date": "1994-05-15",
+    "bogus": false
+  },
+  "pk": 1228,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 42.6,
+    "date": "1994-06-15",
+    "bogus": false
+  },
+  "pk": 1229,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 52.7,
+    "date": "1994-07-15",
+    "bogus": false
+  },
+  "pk": 1230,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 38.4,
+    "date": "1994-08-15",
+    "bogus": false
+  },
+  "pk": 1231,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 40.5,
+    "date": "1994-09-15",
+    "bogus": false
+  },
+  "pk": 1232,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 67.1,
+    "date": "1994-10-15",
+    "bogus": false
+  },
+  "pk": 1233,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 33.0,
+    "date": "1994-11-15",
+    "bogus": false
+  },
+  "pk": 1234,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 38.7,
+    "date": "1994-12-15",
+    "bogus": false
+  },
+  "pk": 1235,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 39.8,
+    "date": "1995-01-15",
+    "bogus": false
+  },
+  "pk": 1236,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 51.3,
+    "date": "1995-02-15",
+    "bogus": false
+  },
+  "pk": 1237,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 51.9,
+    "date": "1995-03-15",
+    "bogus": false
+  },
+  "pk": 1238,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 23.6,
+    "date": "1995-04-15",
+    "bogus": false
+  },
+  "pk": 1239,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 24.6,
+    "date": "1995-05-15",
+    "bogus": false
+  },
+  "pk": 1240,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 27.8,
+    "date": "1995-06-15",
+    "bogus": false
+  },
+  "pk": 1241,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 23.8,
+    "date": "1995-07-15",
+    "bogus": false
+  },
+  "pk": 1242,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 25.1,
+    "date": "1995-08-15",
+    "bogus": false
+  },
+  "pk": 1243,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 16.5,
+    "date": "1995-09-15",
+    "bogus": false
+  },
+  "pk": 1244,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 31.6,
+    "date": "1995-10-15",
+    "bogus": false
+  },
+  "pk": 1245,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 15.7,
+    "date": "1995-11-15",
+    "bogus": false
+  },
+  "pk": 1246,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 16.2,
+    "date": "1995-12-15",
+    "bogus": false
+  },
+  "pk": 1247,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 17.6,
+    "date": "1996-01-15",
+    "bogus": false
+  },
+  "pk": 1248,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 9.1,
+    "date": "1996-02-15",
+    "bogus": false
+  },
+  "pk": 1249,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 12.1,
+    "date": "1996-03-15",
+    "bogus": false
+  },
+  "pk": 1250,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 8.5,
+    "date": "1996-04-15",
+    "bogus": false
+  },
+  "pk": 1251,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 11.8,
+    "date": "1996-05-15",
+    "bogus": false
+  },
+  "pk": 1252,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 18.8,
+    "date": "1996-06-15",
+    "bogus": false
+  },
+  "pk": 1253,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 13.2,
+    "date": "1996-07-15",
+    "bogus": false
+  },
+  "pk": 1254,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 20.5,
+    "date": "1996-08-15",
+    "bogus": false
+  },
+  "pk": 1255,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 2.9,
+    "date": "1996-09-15",
+    "bogus": false
+  },
+  "pk": 1256,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 2.3,
+    "date": "1996-10-15",
+    "bogus": false
+  },
+  "pk": 1257,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 26.7,
+    "date": "1996-11-15",
+    "bogus": false
+  },
+  "pk": 1258,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 21.1,
+    "date": "1996-12-15",
+    "bogus": false
+  },
+  "pk": 1259,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 9.0,
+    "date": "1997-01-15",
+    "bogus": false
+  },
+  "pk": 1260,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 11.3,
+    "date": "1997-02-15",
+    "bogus": false
+  },
+  "pk": 1261,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 14.4,
+    "date": "1997-03-15",
+    "bogus": false
+  },
+  "pk": 1262,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 24.5,
+    "date": "1997-04-15",
+    "bogus": false
+  },
+  "pk": 1263,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 28.6,
+    "date": "1997-05-15",
+    "bogus": false
+  },
+  "pk": 1264,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 22.1,
+    "date": "1997-06-15",
+    "bogus": false
+  },
+  "pk": 1265,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 17.0,
+    "date": "1997-07-15",
+    "bogus": false
+  },
+  "pk": 1266,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 36.7,
+    "date": "1997-08-15",
+    "bogus": false
+  },
+  "pk": 1267,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 58.2,
+    "date": "1997-09-15",
+    "bogus": false
+  },
+  "pk": 1268,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 33.6,
+    "date": "1997-10-15",
+    "bogus": false
+  },
+  "pk": 1269,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 53.5,
+    "date": "1997-11-15",
+    "bogus": false
+  },
+  "pk": 1270,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 57.9,
+    "date": "1997-12-15",
+    "bogus": false
+  },
+  "pk": 1271,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 51.8,
+    "date": "1998-01-15",
+    "bogus": false
+  },
+  "pk": 1272,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 54.4,
+    "date": "1998-02-15",
+    "bogus": false
+  },
+  "pk": 1273,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 81.8,
+    "date": "1998-03-15",
+    "bogus": false
+  },
+  "pk": 1274,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 73.6,
+    "date": "1998-04-15",
+    "bogus": false
+  },
+  "pk": 1275,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 74.3,
+    "date": "1998-05-15",
+    "bogus": false
+  },
+  "pk": 1276,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 93.6,
+    "date": "1998-06-15",
+    "bogus": false
+  },
+  "pk": 1277,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 98.3,
+    "date": "1998-07-15",
+    "bogus": false
+  },
+  "pk": 1278,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 118.6,
+    "date": "1998-08-15",
+    "bogus": false
+  },
+  "pk": 1279,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 119.0,
+    "date": "1998-09-15",
+    "bogus": false
+  },
+  "pk": 1280,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 77.0,
+    "date": "1998-10-15",
+    "bogus": false
+  },
+  "pk": 1281,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 99.5,
+    "date": "1998-11-15",
+    "bogus": false
+  },
+  "pk": 1282,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 120.8,
+    "date": "1998-12-15",
+    "bogus": false
+  },
+  "pk": 1283,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 94.3,
+    "date": "1999-01-15",
+    "bogus": false
+  },
+  "pk": 1284,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 93.4,
+    "date": "1999-02-15",
+    "bogus": false
+  },
+  "pk": 1285,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 100.5,
+    "date": "1999-03-15",
+    "bogus": false
+  },
+  "pk": 1286,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 92.9,
+    "date": "1999-04-15",
+    "bogus": false
+  },
+  "pk": 1287,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 140.5,
+    "date": "1999-05-15",
+    "bogus": false
+  },
+  "pk": 1288,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 208.3,
+    "date": "1999-06-15",
+    "bogus": false
+  },
+  "pk": 1289,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 169.2,
+    "date": "1999-07-15",
+    "bogus": false
+  },
+  "pk": 1290,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 136.1,
+    "date": "1999-08-15",
+    "bogus": false
+  },
+  "pk": 1291,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 107.4,
+    "date": "1999-09-15",
+    "bogus": false
+  },
+  "pk": 1292,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 167.7,
+    "date": "1999-10-15",
+    "bogus": false
+  },
+  "pk": 1293,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 199.3,
+    "date": "1999-11-15",
+    "bogus": false
+  },
+  "pk": 1294,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 123.5,
+    "date": "1999-12-15",
+    "bogus": false
+  },
+  "pk": 1295,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 140.8,
+    "date": "2000-01-15",
+    "bogus": false
+  },
+  "pk": 1296,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 161.9,
+    "date": "2000-02-15",
+    "bogus": false
+  },
+  "pk": 1297,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 203.6,
+    "date": "2000-03-15",
+    "bogus": false
+  },
+  "pk": 1298,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 193.4,
+    "date": "2000-04-15",
+    "bogus": false
+  },
+  "pk": 1299,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 188.8,
+    "date": "2000-05-15",
+    "bogus": false
+  },
+  "pk": 1300,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 190.3,
+    "date": "2000-06-15",
+    "bogus": false
+  },
+  "pk": 1301,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 236.7,
+    "date": "2000-07-15",
+    "bogus": false
+  },
+  "pk": 1302,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 166.6,
+    "date": "2000-08-15",
+    "bogus": false
+  },
+  "pk": 1303,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 157.9,
+    "date": "2000-09-15",
+    "bogus": false
+  },
+  "pk": 1304,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 138.9,
+    "date": "2000-10-15",
+    "bogus": false
+  },
+  "pk": 1305,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 149.9,
+    "date": "2000-11-15",
+    "bogus": false
+  },
+  "pk": 1306,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 146.4,
+    "date": "2000-12-15",
+    "bogus": false
+  },
+  "pk": 1307,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 142.7,
+    "date": "2001-01-15",
+    "bogus": false
+  },
+  "pk": 1308,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 131.0,
+    "date": "2001-02-15",
+    "bogus": false
+  },
+  "pk": 1309,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 166.7,
+    "date": "2001-03-15",
+    "bogus": false
+  },
+  "pk": 1310,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 163.6,
+    "date": "2001-04-15",
+    "bogus": false
+  },
+  "pk": 1311,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 135.1,
+    "date": "2001-05-15",
+    "bogus": false
+  },
+  "pk": 1312,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 196.7,
+    "date": "2001-06-15",
+    "bogus": false
+  },
+  "pk": 1313,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 124.6,
+    "date": "2001-07-15",
+    "bogus": false
+  },
+  "pk": 1314,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 159.4,
+    "date": "2001-08-15",
+    "bogus": false
+  },
+  "pk": 1315,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 229.1,
+    "date": "2001-09-15",
+    "bogus": false
+  },
+  "pk": 1316,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 197.4,
+    "date": "2001-10-15",
+    "bogus": false
+  },
+  "pk": 1317,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 178.6,
+    "date": "2001-11-15",
+    "bogus": false
+  },
+  "pk": 1318,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 217.5,
+    "date": "2001-12-15",
+    "bogus": false
+  },
+  "pk": 1319,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 189.0,
+    "date": "2002-01-15",
+    "bogus": false
+  },
+  "pk": 1320,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 194.5,
+    "date": "2002-02-15",
+    "bogus": false
+  },
+  "pk": 1321,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 153.1,
+    "date": "2002-03-15",
+    "bogus": false
+  },
+  "pk": 1322,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 194.9,
+    "date": "2002-04-15",
+    "bogus": false
+  },
+  "pk": 1323,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 204.1,
+    "date": "2002-05-15",
+    "bogus": false
+  },
+  "pk": 1324,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 146.0,
+    "date": "2002-06-15",
+    "bogus": false
+  },
+  "pk": 1325,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 183.5,
+    "date": "2002-07-15",
+    "bogus": false
+  },
+  "pk": 1326,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 191.0,
+    "date": "2002-08-15",
+    "bogus": false
+  },
+  "pk": 1327,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 206.4,
+    "date": "2002-09-15",
+    "bogus": false
+  },
+  "pk": 1328,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 153.9,
+    "date": "2002-10-15",
+    "bogus": false
+  },
+  "pk": 1329,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 159.8,
+    "date": "2002-11-15",
+    "bogus": false
+  },
+  "pk": 1330,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 147.9,
+    "date": "2002-12-15",
+    "bogus": false
+  },
+  "pk": 1331,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 149.3,
+    "date": "2003-01-15",
+    "bogus": false
+  },
+  "pk": 1332,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 87.0,
+    "date": "2003-02-15",
+    "bogus": false
+  },
+  "pk": 1333,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 119.7,
+    "date": "2003-03-15",
+    "bogus": false
+  },
+  "pk": 1334,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 119.7,
+    "date": "2003-04-15",
+    "bogus": false
+  },
+  "pk": 1335,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 89.6,
+    "date": "2003-05-15",
+    "bogus": false
+  },
+  "pk": 1336,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 118.4,
+    "date": "2003-06-15",
+    "bogus": false
+  },
+  "pk": 1337,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 132.8,
+    "date": "2003-07-15",
+    "bogus": false
+  },
+  "pk": 1338,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 114.3,
+    "date": "2003-08-15",
+    "bogus": false
+  },
+  "pk": 1339,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 82.6,
+    "date": "2003-09-15",
+    "bogus": false
+  },
+  "pk": 1340,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 118.9,
+    "date": "2003-10-15",
+    "bogus": false
+  },
+  "pk": 1341,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 118.9,
+    "date": "2003-11-15",
+    "bogus": false
+  },
+  "pk": 1342,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 75.4,
+    "date": "2003-12-15",
+    "bogus": false
+  },
+  "pk": 1343,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 62.3,
+    "date": "2004-01-15",
+    "bogus": false
+  },
+  "pk": 1344,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 75.6,
+    "date": "2004-02-15",
+    "bogus": false
+  },
+  "pk": 1345,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 81.0,
+    "date": "2004-03-15",
+    "bogus": false
+  },
+  "pk": 1346,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 59.3,
+    "date": "2004-04-15",
+    "bogus": false
+  },
+  "pk": 1347,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 77.3,
+    "date": "2004-05-15",
+    "bogus": false
+  },
+  "pk": 1348,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 78.9,
+    "date": "2004-06-15",
+    "bogus": false
+  },
+  "pk": 1349,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 87.8,
+    "date": "2004-07-15",
+    "bogus": false
+  },
+  "pk": 1350,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 69.5,
+    "date": "2004-08-15",
+    "bogus": false
+  },
+  "pk": 1351,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 50.0,
+    "date": "2004-09-15",
+    "bogus": false
+  },
+  "pk": 1352,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 77.9,
+    "date": "2004-10-15",
+    "bogus": false
+  },
+  "pk": 1353,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 70.5,
+    "date": "2004-11-15",
+    "bogus": false
+  },
+  "pk": 1354,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 34.7,
+    "date": "2004-12-15",
+    "bogus": false
+  },
+  "pk": 1355,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 52.0,
+    "date": "2005-01-15",
+    "bogus": false
+  },
+  "pk": 1356,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 45.4,
+    "date": "2005-02-15",
+    "bogus": false
+  },
+  "pk": 1357,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 41.0,
+    "date": "2005-03-15",
+    "bogus": false
+  },
+  "pk": 1358,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 41.5,
+    "date": "2005-04-15",
+    "bogus": false
+  },
+  "pk": 1359,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 65.4,
+    "date": "2005-05-15",
+    "bogus": false
+  },
+  "pk": 1360,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 59.8,
+    "date": "2005-06-15",
+    "bogus": false
+  },
+  "pk": 1361,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 71.0,
+    "date": "2005-07-15",
+    "bogus": false
+  },
+  "pk": 1362,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 65.6,
+    "date": "2005-08-15",
+    "bogus": false
+  },
+  "pk": 1363,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 39.2,
+    "date": "2005-09-15",
+    "bogus": false
+  },
+  "pk": 1364,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 13.0,
+    "date": "2005-10-15",
+    "bogus": false
+  },
+  "pk": 1365,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 32.2,
+    "date": "2005-11-15",
+    "bogus": false
+  },
+  "pk": 1366,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 62.6,
+    "date": "2005-12-15",
+    "bogus": false
+  },
+  "pk": 1367,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 28.0,
+    "date": "2006-01-15",
+    "bogus": false
+  },
+  "pk": 1368,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 5.3,
+    "date": "2006-02-15",
+    "bogus": false
+  },
+  "pk": 1369,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 21.3,
+    "date": "2006-03-15",
+    "bogus": false
+  },
+  "pk": 1370,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 55.2,
+    "date": "2006-04-15",
+    "bogus": false
+  },
+  "pk": 1371,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 39.6,
+    "date": "2006-05-15",
+    "bogus": false
+  },
+  "pk": 1372,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 37.7,
+    "date": "2006-06-15",
+    "bogus": false
+  },
+  "pk": 1373,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 22.6,
+    "date": "2006-07-15",
+    "bogus": false
+  },
+  "pk": 1374,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 22.8,
+    "date": "2006-08-15",
+    "bogus": false
+  },
+  "pk": 1375,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 25.2,
+    "date": "2006-09-15",
+    "bogus": false
+  },
+  "pk": 1376,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 15.7,
+    "date": "2006-10-15",
+    "bogus": false
+  },
+  "pk": 1377,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 31.5,
+    "date": "2006-11-15",
+    "bogus": false
+  },
+  "pk": 1378,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 22.2,
+    "date": "2006-12-15",
+    "bogus": false
+  },
+  "pk": 1379,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 26.6,
+    "date": "2007-01-15",
+    "bogus": false
+  },
+  "pk": 1380,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 17.2,
+    "date": "2007-02-15",
+    "bogus": false
+  },
+  "pk": 1381,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 9.7,
+    "date": "2007-03-15",
+    "bogus": false
+  },
+  "pk": 1382,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 6.9,
+    "date": "2007-04-15",
+    "bogus": false
+  },
+  "pk": 1383,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 19.4,
+    "date": "2007-05-15",
+    "bogus": false
+  },
+  "pk": 1384,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 20.0,
+    "date": "2007-06-15",
+    "bogus": false
+  },
+  "pk": 1385,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 15.6,
+    "date": "2007-07-15",
+    "bogus": false
+  },
+  "pk": 1386,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 9.9,
+    "date": "2007-08-15",
+    "bogus": false
+  },
+  "pk": 1387,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 4.8,
+    "date": "2007-09-15",
+    "bogus": false
+  },
+  "pk": 1388,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 1.3,
+    "date": "2007-10-15",
+    "bogus": false
+  },
+  "pk": 1389,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 2.5,
+    "date": "2007-11-15",
+    "bogus": false
+  },
+  "pk": 1390,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 16.2,
+    "date": "2007-12-15",
+    "bogus": false
+  },
+  "pk": 1391,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 5.1,
+    "date": "2008-01-15",
+    "bogus": false
+  },
+  "pk": 1392,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 3.8,
+    "date": "2008-02-15",
+    "bogus": false
+  },
+  "pk": 1393,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 15.9,
+    "date": "2008-03-15",
+    "bogus": false
+  },
+  "pk": 1394,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 4.9,
+    "date": "2008-04-15",
+    "bogus": false
+  },
+  "pk": 1395,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 5.7,
+    "date": "2008-05-15",
+    "bogus": false
+  },
+  "pk": 1396,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 4.2,
+    "date": "2008-06-15",
+    "bogus": false
+  },
+  "pk": 1397,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 1.0,
+    "date": "2008-07-15",
+    "bogus": false
+  },
+  "pk": 1398,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 0.0,
+    "date": "2008-08-15",
+    "bogus": false
+  },
+  "pk": 1399,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 1.5,
+    "date": "2008-09-15",
+    "bogus": false
+  },
+  "pk": 1400,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 5.2,
+    "date": "2008-10-15",
+    "bogus": false
+  },
+  "pk": 1401,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 6.8,
+    "date": "2008-11-15",
+    "bogus": false
+  },
+  "pk": 1402,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 1.3,
+    "date": "2008-12-15",
+    "bogus": false
+  },
+  "pk": 1403,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 2.8,
+    "date": "2009-01-15",
+    "bogus": false
+  },
+  "pk": 1404,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 2.5,
+    "date": "2009-02-15",
+    "bogus": false
+  },
+  "pk": 1405,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 0.7,
+    "date": "2009-03-15",
+    "bogus": false
+  },
+  "pk": 1406,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 1.2,
+    "date": "2009-04-15",
+    "bogus": false
+  },
+  "pk": 1407,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 3.9,
+    "date": "2009-05-15",
+    "bogus": false
+  },
+  "pk": 1408,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 6.6,
+    "date": "2009-06-15",
+    "bogus": false
+  },
+  "pk": 1409,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 5.0,
+    "date": "2009-07-15",
+    "bogus": false
+  },
+  "pk": 1410,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 0.3,
+    "date": "2009-08-15",
+    "bogus": false
+  },
+  "pk": 1411,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 6.6,
+    "date": "2009-09-15",
+    "bogus": false
+  },
+  "pk": 1412,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 7.0,
+    "date": "2009-10-15",
+    "bogus": false
+  },
+  "pk": 1413,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 7.7,
+    "date": "2009-11-15",
+    "bogus": false
+  },
+  "pk": 1414,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 15.7,
+    "date": "2009-12-15",
+    "bogus": false
+  },
+  "pk": 1415,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 21.3,
+    "date": "2010-01-15",
+    "bogus": false
+  },
+  "pk": 1416,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 31.0,
+    "date": "2010-02-15",
+    "bogus": false
+  },
+  "pk": 1417,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 24.7,
+    "date": "2010-03-15",
+    "bogus": false
+  },
+  "pk": 1418,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 11.2,
+    "date": "2010-04-15",
+    "bogus": false
+  },
+  "pk": 1419,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 19.9,
+    "date": "2010-05-15",
+    "bogus": false
+  },
+  "pk": 1420,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 17.9,
+    "date": "2010-06-15",
+    "bogus": false
+  },
+  "pk": 1421,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 23.1,
+    "date": "2010-07-15",
+    "bogus": false
+  },
+  "pk": 1422,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 28.2,
+    "date": "2010-08-15",
+    "bogus": false
+  },
+  "pk": 1423,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 35.6,
+    "date": "2010-09-15",
+    "bogus": false
+  },
+  "pk": 1424,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 35.0,
+    "date": "2010-10-15",
+    "bogus": false
+  },
+  "pk": 1425,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 36.1,
+    "date": "2010-11-15",
+    "bogus": false
+  },
+  "pk": 1426,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 22.0,
+    "date": "2010-12-15",
+    "bogus": false
+  },
+  "pk": 1427,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 32.1,
+    "date": "2011-01-15",
+    "bogus": false
+  },
+  "pk": 1428,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 53.2,
+    "date": "2011-02-15",
+    "bogus": false
+  },
+  "pk": 1429,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 81.0,
+    "date": "2011-03-15",
+    "bogus": false
+  },
+  "pk": 1430,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 81.7,
+    "date": "2011-04-15",
+    "bogus": false
+  },
+  "pk": 1431,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 61.4,
+    "date": "2011-05-15",
+    "bogus": false
+  },
+  "pk": 1432,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 55.5,
+    "date": "2011-06-15",
+    "bogus": false
+  },
+  "pk": 1433,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 67.0,
+    "date": "2011-07-15",
+    "bogus": false
+  },
+  "pk": 1434,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 66.1,
+    "date": "2011-08-15",
+    "bogus": false
+  },
+  "pk": 1435,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 106.4,
+    "date": "2011-09-15",
+    "bogus": false
+  },
+  "pk": 1436,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 116.8,
+    "date": "2011-10-15",
+    "bogus": false
+  },
+  "pk": 1437,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 133.1,
+    "date": "2011-11-15",
+    "bogus": false
+  },
+  "pk": 1438,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 106.3,
+    "date": "2011-12-15",
+    "bogus": false
+  },
+  "pk": 1439,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 91.3,
+    "date": "2012-01-15",
+    "bogus": false
+  },
+  "pk": 1440,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 50.1,
+    "date": "2012-02-15",
+    "bogus": false
+  },
+  "pk": 1441,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 77.9,
+    "date": "2012-03-15",
+    "bogus": false
+  },
+  "pk": 1442,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 84.4,
+    "date": "2012-04-15",
+    "bogus": false
+  },
+  "pk": 1443,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 99.5,
+    "date": "2012-05-15",
+    "bogus": false
+  },
+  "pk": 1444,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 88.6,
+    "date": "2012-06-15",
+    "bogus": false
+  },
+  "pk": 1445,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 99.6,
+    "date": "2012-07-15",
+    "bogus": false
+  },
+  "pk": 1446,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 85.8,
+    "date": "2012-08-15",
+    "bogus": false
+  },
+  "pk": 1447,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 84.0,
+    "date": "2012-09-15",
+    "bogus": false
+  },
+  "pk": 1448,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 73.5,
+    "date": "2012-10-15",
+    "bogus": false
+  },
+  "pk": 1449,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 89.2,
+    "date": "2012-11-15",
+    "bogus": false
+  },
+  "pk": 1450,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 60.4,
+    "date": "2012-12-15",
+    "bogus": false
+  },
+  "pk": 1451,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 99.8,
+    "date": "2013-01-15",
+    "bogus": false
+  },
+  "pk": 1452,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 60.0,
+    "date": "2013-02-15",
+    "bogus": false
+  },
+  "pk": 1453,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 81.0,
+    "date": "2013-03-15",
+    "bogus": false
+  },
+  "pk": 1454,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 112.8,
+    "date": "2013-04-15",
+    "bogus": false
+  },
+  "pk": 1455,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 125.5,
+    "date": "2013-05-15",
+    "bogus": false
+  },
+  "pk": 1456,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 80.1,
+    "date": "2013-06-15",
+    "bogus": false
+  },
+  "pk": 1457,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 86.1,
+    "date": "2013-07-15",
+    "bogus": false
+  },
+  "pk": 1458,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 90.2,
+    "date": "2013-08-15",
+    "bogus": false
+  },
+  "pk": 1459,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 55.0,
+    "date": "2013-09-15",
+    "bogus": false
+  },
+  "pk": 1460,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 127.1,
+    "date": "2013-10-15",
+    "bogus": false
+  },
+  "pk": 1461,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 125.7,
+    "date": "2013-11-15",
+    "bogus": false
+  },
+  "pk": 1462,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 118.2,
+    "date": "2013-12-15",
+    "bogus": false
+  },
+  "pk": 1463,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 125.9,
+    "date": "2014-01-15",
+    "bogus": false
+  },
+  "pk": 1464,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 174.6,
+    "date": "2014-02-15",
+    "bogus": false
+  },
+  "pk": 1465,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 141.1,
+    "date": "2014-03-15",
+    "bogus": false
+  },
+  "pk": 1466,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 130.5,
+    "date": "2014-04-15",
+    "bogus": false
+  },
+  "pk": 1467,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 116.8,
+    "date": "2014-05-15",
+    "bogus": false
+  },
+  "pk": 1468,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 107.7,
+    "date": "2014-06-15",
+    "bogus": false
+  },
+  "pk": 1469,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 113.6,
+    "date": "2014-07-15",
+    "bogus": false
+  },
+  "pk": 1470,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 106.2,
+    "date": "2014-08-15",
+    "bogus": false
+  },
+  "pk": 1471,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 127.4,
+    "date": "2014-09-15",
+    "bogus": false
+  },
+  "pk": 1472,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 92.0,
+    "date": "2014-10-15",
+    "bogus": false
+  },
+  "pk": 1473,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 101.8,
+    "date": "2014-11-15",
+    "bogus": false
+  },
+  "pk": 1474,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 120.0,
+    "date": "2014-12-15",
+    "bogus": false
+  },
+  "pk": 1475,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 101.2,
+    "date": "2015-01-15",
+    "bogus": false
+  },
+  "pk": 1476,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 70.6,
+    "date": "2015-02-15",
+    "bogus": false
+  },
+  "pk": 1477,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 61.7,
+    "date": "2015-03-15",
+    "bogus": false
+  },
+  "pk": 1478,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 72.5,
+    "date": "2015-04-15",
+    "bogus": false
+  },
+  "pk": 1479,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 83.0,
+    "date": "2015-05-15",
+    "bogus": false
+  },
+  "pk": 1480,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 77.3,
+    "date": "2015-06-15",
+    "bogus": false
+  },
+  "pk": 1481,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 68.4,
+    "date": "2015-07-15",
+    "bogus": false
+  },
+  "pk": 1482,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 61.6,
+    "date": "2015-08-15",
+    "bogus": false
+  },
+  "pk": 1483,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 72.5,
+    "date": "2015-09-15",
+    "bogus": false
+  },
+  "pk": 1484,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 59.5,
+    "date": "2015-10-15",
+    "bogus": false
+  },
+  "pk": 1485,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 3,
+    "units": "sunspots",
+    "value": 61.8,
+    "date": "2015-11-15",
+    "bogus": false
+  },
+  "pk": 1486,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 220.5,
+    "date": "1991-01-15",
+    "bogus": false
+  },
+  "pk": 1487,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 221.5,
+    "date": "1991-02-15",
+    "bogus": false
+  },
+  "pk": 1488,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 220.7,
+    "date": "1991-03-15",
+    "bogus": false
+  },
+  "pk": 1489,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 220.7,
+    "date": "1991-04-15",
+    "bogus": false
+  },
+  "pk": 1490,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 219.6,
+    "date": "1991-05-15",
+    "bogus": false
+  },
+  "pk": 1491,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 218.9,
+    "date": "1991-06-15",
+    "bogus": false
+  },
+  "pk": 1492,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 219.5,
+    "date": "1991-07-15",
+    "bogus": false
+  },
+  "pk": 1493,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 218.3,
+    "date": "1991-08-15",
+    "bogus": false
+  },
+  "pk": 1494,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 214.2,
+    "date": "1991-09-15",
+    "bogus": false
+  },
+  "pk": 1495,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 208.4,
+    "date": "1991-10-15",
+    "bogus": false
+  },
+  "pk": 1496,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 202.2,
+    "date": "1991-11-15",
+    "bogus": false
+  },
+  "pk": 1497,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 193.7,
+    "date": "1991-12-15",
+    "bogus": false
+  },
+  "pk": 1498,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 183.3,
+    "date": "1992-01-15",
+    "bogus": false
+  },
+  "pk": 1499,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 171.8,
+    "date": "1992-02-15",
+    "bogus": false
+  },
+  "pk": 1500,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 161.6,
+    "date": "1992-03-15",
+    "bogus": false
+  },
+  "pk": 1501,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 154.3,
+    "date": "1992-04-15",
+    "bogus": false
+  },
+  "pk": 1502,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 148.9,
+    "date": "1992-05-15",
+    "bogus": false
+  },
+  "pk": 1503,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 143.3,
+    "date": "1992-06-15",
+    "bogus": false
+  },
+  "pk": 1504,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 134.3,
+    "date": "1992-07-15",
+    "bogus": false
+  },
+  "pk": 1505,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 124.4,
+    "date": "1992-08-15",
+    "bogus": false
+  },
+  "pk": 1506,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 117.5,
+    "date": "1992-09-15",
+    "bogus": false
+  },
+  "pk": 1507,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 113.4,
+    "date": "1992-10-15",
+    "bogus": false
+  },
+  "pk": 1508,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 110.4,
+    "date": "1992-11-15",
+    "bogus": false
+  },
+  "pk": 1509,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 107.7,
+    "date": "1992-12-15",
+    "bogus": false
+  },
+  "pk": 1510,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 104.5,
+    "date": "1993-01-15",
+    "bogus": false
+  },
+  "pk": 1511,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 101.2,
+    "date": "1993-02-15",
+    "bogus": false
+  },
+  "pk": 1512,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 97.0,
+    "date": "1993-03-15",
+    "bogus": false
+  },
+  "pk": 1513,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 91.9,
+    "date": "1993-04-15",
+    "bogus": false
+  },
+  "pk": 1514,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 86.2,
+    "date": "1993-05-15",
+    "bogus": false
+  },
+  "pk": 1515,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 81.0,
+    "date": "1993-06-15",
+    "bogus": false
+  },
+  "pk": 1516,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 78.7,
+    "date": "1993-07-15",
+    "bogus": false
+  },
+  "pk": 1517,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 75.7,
+    "date": "1993-08-15",
+    "bogus": false
+  },
+  "pk": 1518,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 70.7,
+    "date": "1993-09-15",
+    "bogus": false
+  },
+  "pk": 1519,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 65.5,
+    "date": "1993-10-15",
+    "bogus": false
+  },
+  "pk": 1520,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 60.8,
+    "date": "1993-11-15",
+    "bogus": false
+  },
+  "pk": 1521,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 57.9,
+    "date": "1993-12-15",
+    "bogus": false
+  },
+  "pk": 1522,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 55.6,
+    "date": "1994-01-15",
+    "bogus": false
+  },
+  "pk": 1523,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 53.5,
+    "date": "1994-02-15",
+    "bogus": false
+  },
+  "pk": 1524,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 52.9,
+    "date": "1994-03-15",
+    "bogus": false
+  },
+  "pk": 1525,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 53.0,
+    "date": "1994-04-15",
+    "bogus": false
+  },
+  "pk": 1526,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 51.9,
+    "date": "1994-05-15",
+    "bogus": false
+  },
+  "pk": 1527,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 49.6,
+    "date": "1994-06-15",
+    "bogus": false
+  },
+  "pk": 1528,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 46.1,
+    "date": "1994-07-15",
+    "bogus": false
+  },
+  "pk": 1529,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 43.8,
+    "date": "1994-08-15",
+    "bogus": false
+  },
+  "pk": 1530,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 43.4,
+    "date": "1994-09-15",
+    "bogus": false
+  },
+  "pk": 1531,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 43.2,
+    "date": "1994-10-15",
+    "bogus": false
+  },
+  "pk": 1532,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 42.5,
+    "date": "1994-11-15",
+    "bogus": false
+  },
+  "pk": 1533,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 41.4,
+    "date": "1994-12-15",
+    "bogus": false
+  },
+  "pk": 1534,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 39.6,
+    "date": "1995-01-15",
+    "bogus": false
+  },
+  "pk": 1535,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 37.8,
+    "date": "1995-02-15",
+    "bogus": false
+  },
+  "pk": 1536,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 36.3,
+    "date": "1995-03-15",
+    "bogus": false
+  },
+  "pk": 1537,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 33.8,
+    "date": "1995-04-15",
+    "bogus": false
+  },
+  "pk": 1538,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 31.6,
+    "date": "1995-05-15",
+    "bogus": false
+  },
+  "pk": 1539,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 29.9,
+    "date": "1995-06-15",
+    "bogus": false
+  },
+  "pk": 1540,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 28.1,
+    "date": "1995-07-15",
+    "bogus": false
+  },
+  "pk": 1541,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 25.4,
+    "date": "1995-08-15",
+    "bogus": false
+  },
+  "pk": 1542,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 22.0,
+    "date": "1995-09-15",
+    "bogus": false
+  },
+  "pk": 1543,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 19.7,
+    "date": "1995-10-15",
+    "bogus": false
+  },
+  "pk": 1544,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 18.5,
+    "date": "1995-11-15",
+    "bogus": false
+  },
+  "pk": 1545,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 17.6,
+    "date": "1995-12-15",
+    "bogus": false
+  },
+  "pk": 1546,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 16.8,
+    "date": "1996-01-15",
+    "bogus": false
+  },
+  "pk": 1547,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 16.2,
+    "date": "1996-02-15",
+    "bogus": false
+  },
+  "pk": 1548,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 15.4,
+    "date": "1996-03-15",
+    "bogus": false
+  },
+  "pk": 1549,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 13.6,
+    "date": "1996-04-15",
+    "bogus": false
+  },
+  "pk": 1550,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 12.9,
+    "date": "1996-05-15",
+    "bogus": false
+  },
+  "pk": 1551,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 13.5,
+    "date": "1996-06-15",
+    "bogus": false
+  },
+  "pk": 1552,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 13.4,
+    "date": "1996-07-15",
+    "bogus": false
+  },
+  "pk": 1553,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 13.1,
+    "date": "1996-08-15",
+    "bogus": false
+  },
+  "pk": 1554,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 13.3,
+    "date": "1996-09-15",
+    "bogus": false
+  },
+  "pk": 1555,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 14.0,
+    "date": "1996-10-15",
+    "bogus": false
+  },
+  "pk": 1556,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 15.4,
+    "date": "1996-11-15",
+    "bogus": false
+  },
+  "pk": 1557,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 16.2,
+    "date": "1996-12-15",
+    "bogus": false
+  },
+  "pk": 1558,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 16.5,
+    "date": "1997-01-15",
+    "bogus": false
+  },
+  "pk": 1559,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 17.4,
+    "date": "1997-02-15",
+    "bogus": false
+  },
+  "pk": 1560,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 20.4,
+    "date": "1997-03-15",
+    "bogus": false
+  },
+  "pk": 1561,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 24.0,
+    "date": "1997-04-15",
+    "bogus": false
+  },
+  "pk": 1562,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 26.4,
+    "date": "1997-05-15",
+    "bogus": false
+  },
+  "pk": 1563,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 29.0,
+    "date": "1997-06-15",
+    "bogus": false
+  },
+  "pk": 1564,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 32.4,
+    "date": "1997-07-15",
+    "bogus": false
+  },
+  "pk": 1565,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 35.9,
+    "date": "1997-08-15",
+    "bogus": false
+  },
+  "pk": 1566,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 40.5,
+    "date": "1997-09-15",
+    "bogus": false
+  },
+  "pk": 1567,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 45.4,
+    "date": "1997-10-15",
+    "bogus": false
+  },
+  "pk": 1568,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 49.3,
+    "date": "1997-11-15",
+    "bogus": false
+  },
+  "pk": 1569,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 54.2,
+    "date": "1997-12-15",
+    "bogus": false
+  },
+  "pk": 1570,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 60.6,
+    "date": "1998-01-15",
+    "bogus": false
+  },
+  "pk": 1571,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 67.4,
+    "date": "1998-02-15",
+    "bogus": false
+  },
+  "pk": 1572,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 73.3,
+    "date": "1998-03-15",
+    "bogus": false
+  },
+  "pk": 1573,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 77.7,
+    "date": "1998-04-15",
+    "bogus": false
+  },
+  "pk": 1574,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 81.4,
+    "date": "1998-05-15",
+    "bogus": false
+  },
+  "pk": 1575,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 85.9,
+    "date": "1998-06-15",
+    "bogus": false
+  },
+  "pk": 1576,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 90.3,
+    "date": "1998-07-15",
+    "bogus": false
+  },
+  "pk": 1577,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 93.7,
+    "date": "1998-08-15",
+    "bogus": false
+  },
+  "pk": 1578,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 96.1,
+    "date": "1998-09-15",
+    "bogus": false
+  },
+  "pk": 1579,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 97.7,
+    "date": "1998-10-15",
+    "bogus": false
+  },
+  "pk": 1580,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 101.3,
+    "date": "1998-11-15",
+    "bogus": false
+  },
+  "pk": 1581,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 108.8,
+    "date": "1998-12-15",
+    "bogus": false
+  },
+  "pk": 1582,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 116.5,
+    "date": "1999-01-15",
+    "bogus": false
+  },
+  "pk": 1583,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 120.2,
+    "date": "1999-02-15",
+    "bogus": false
+  },
+  "pk": 1584,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 120.5,
+    "date": "1999-03-15",
+    "bogus": false
+  },
+  "pk": 1585,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 123.8,
+    "date": "1999-04-15",
+    "bogus": false
+  },
+  "pk": 1586,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 131.7,
+    "date": "1999-05-15",
+    "bogus": false
+  },
+  "pk": 1587,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 136.0,
+    "date": "1999-06-15",
+    "bogus": false
+  },
+  "pk": 1588,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 138.0,
+    "date": "1999-07-15",
+    "bogus": false
+  },
+  "pk": 1589,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 142.8,
+    "date": "1999-08-15",
+    "bogus": false
+  },
+  "pk": 1590,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 150.0,
+    "date": "1999-09-15",
+    "bogus": false
+  },
+  "pk": 1591,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 158.5,
+    "date": "1999-10-15",
+    "bogus": false
+  },
+  "pk": 1592,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 164.7,
+    "date": "1999-11-15",
+    "bogus": false
+  },
+  "pk": 1593,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 165.9,
+    "date": "1999-12-15",
+    "bogus": false
+  },
+  "pk": 1594,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 168.0,
+    "date": "2000-01-15",
+    "bogus": false
+  },
+  "pk": 1595,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 172.1,
+    "date": "2000-02-15",
+    "bogus": false
+  },
+  "pk": 1596,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 175.4,
+    "date": "2000-03-15",
+    "bogus": false
+  },
+  "pk": 1597,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 176.3,
+    "date": "2000-04-15",
+    "bogus": false
+  },
+  "pk": 1598,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 173.1,
+    "date": "2000-05-15",
+    "bogus": false
+  },
+  "pk": 1599,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 172.0,
+    "date": "2000-06-15",
+    "bogus": false
+  },
+  "pk": 1600,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 173.0,
+    "date": "2000-07-15",
+    "bogus": false
+  },
+  "pk": 1601,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 171.8,
+    "date": "2000-08-15",
+    "bogus": false
+  },
+  "pk": 1602,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 169.0,
+    "date": "2000-09-15",
+    "bogus": false
+  },
+  "pk": 1603,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 166.2,
+    "date": "2000-10-15",
+    "bogus": false
+  },
+  "pk": 1604,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 162.7,
+    "date": "2000-11-15",
+    "bogus": false
+  },
+  "pk": 1605,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 160.8,
+    "date": "2000-12-15",
+    "bogus": false
+  },
+  "pk": 1606,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 156.3,
+    "date": "2001-01-15",
+    "bogus": false
+  },
+  "pk": 1607,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 151.4,
+    "date": "2001-02-15",
+    "bogus": false
+  },
+  "pk": 1608,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 154.0,
+    "date": "2001-03-15",
+    "bogus": false
+  },
+  "pk": 1609,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 159.4,
+    "date": "2001-04-15",
+    "bogus": false
+  },
+  "pk": 1610,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 163.1,
+    "date": "2001-05-15",
+    "bogus": false
+  },
+  "pk": 1611,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 167.2,
+    "date": "2001-06-15",
+    "bogus": false
+  },
+  "pk": 1612,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 172.1,
+    "date": "2001-07-15",
+    "bogus": false
+  },
+  "pk": 1613,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 176.7,
+    "date": "2001-08-15",
+    "bogus": false
+  },
+  "pk": 1614,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 178.8,
+    "date": "2001-09-15",
+    "bogus": false
+  },
+  "pk": 1615,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 179.5,
+    "date": "2001-10-15",
+    "bogus": false
+  },
+  "pk": 1616,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 183.7,
+    "date": "2001-11-15",
+    "bogus": false
+  },
+  "pk": 1617,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 184.5,
+    "date": "2001-12-15",
+    "bogus": false
+  },
+  "pk": 1618,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 184.8,
+    "date": "2002-01-15",
+    "bogus": false
+  },
+  "pk": 1619,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 188.6,
+    "date": "2002-02-15",
+    "bogus": false
+  },
+  "pk": 1620,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 188.9,
+    "date": "2002-03-15",
+    "bogus": false
+  },
+  "pk": 1621,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 186.2,
+    "date": "2002-04-15",
+    "bogus": false
+  },
+  "pk": 1622,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 183.6,
+    "date": "2002-05-15",
+    "bogus": false
+  },
+  "pk": 1623,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 179.9,
+    "date": "2002-06-15",
+    "bogus": false
+  },
+  "pk": 1624,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 175.4,
+    "date": "2002-07-15",
+    "bogus": false
+  },
+  "pk": 1625,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 169.2,
+    "date": "2002-08-15",
+    "bogus": false
+  },
+  "pk": 1626,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 163.4,
+    "date": "2002-09-15",
+    "bogus": false
+  },
+  "pk": 1627,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 158.8,
+    "date": "2002-10-15",
+    "bogus": false
+  },
+  "pk": 1628,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 150.9,
+    "date": "2002-11-15",
+    "bogus": false
+  },
+  "pk": 1629,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 145.0,
+    "date": "2002-12-15",
+    "bogus": false
+  },
+  "pk": 1630,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 141.7,
+    "date": "2003-01-15",
+    "bogus": false
+  },
+  "pk": 1631,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 136.4,
+    "date": "2003-02-15",
+    "bogus": false
+  },
+  "pk": 1632,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 128.1,
+    "date": "2003-03-15",
+    "bogus": false
+  },
+  "pk": 1633,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 121.5,
+    "date": "2003-04-15",
+    "bogus": false
+  },
+  "pk": 1634,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 118.3,
+    "date": "2003-05-15",
+    "bogus": false
+  },
+  "pk": 1635,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 113.6,
+    "date": "2003-06-15",
+    "bogus": false
+  },
+  "pk": 1636,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 106.9,
+    "date": "2003-07-15",
+    "bogus": false
+  },
+  "pk": 1637,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 102.8,
+    "date": "2003-08-15",
+    "bogus": false
+  },
+  "pk": 1638,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 100.7,
+    "date": "2003-09-15",
+    "bogus": false
+  },
+  "pk": 1639,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 96.6,
+    "date": "2003-10-15",
+    "bogus": false
+  },
+  "pk": 1640,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 93.6,
+    "date": "2003-11-15",
+    "bogus": false
+  },
+  "pk": 1641,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 91.4,
+    "date": "2003-12-15",
+    "bogus": false
+  },
+  "pk": 1642,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 87.9,
+    "date": "2004-01-15",
+    "bogus": false
+  },
+  "pk": 1643,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 84.2,
+    "date": "2004-02-15",
+    "bogus": false
+  },
+  "pk": 1644,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 80.9,
+    "date": "2004-03-15",
+    "bogus": false
+  },
+  "pk": 1645,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 77.9,
+    "date": "2004-04-15",
+    "bogus": false
+  },
+  "pk": 1646,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 74.1,
+    "date": "2004-05-15",
+    "bogus": false
+  },
+  "pk": 1647,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 70.4,
+    "date": "2004-06-15",
+    "bogus": false
+  },
+  "pk": 1648,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 68.3,
+    "date": "2004-07-15",
+    "bogus": false
+  },
+  "pk": 1649,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 66.6,
+    "date": "2004-08-15",
+    "bogus": false
+  },
+  "pk": 1650,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 63.7,
+    "date": "2004-09-15",
+    "bogus": false
+  },
+  "pk": 1651,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 61.3,
+    "date": "2004-10-15",
+    "bogus": false
+  },
+  "pk": 1652,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 60.0,
+    "date": "2004-11-15",
+    "bogus": false
+  },
+  "pk": 1653,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 58.8,
+    "date": "2004-12-15",
+    "bogus": false
+  },
+  "pk": 1654,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 57.3,
+    "date": "2005-01-15",
+    "bogus": false
+  },
+  "pk": 1655,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 56.4,
+    "date": "2005-02-15",
+    "bogus": false
+  },
+  "pk": 1656,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 55.8,
+    "date": "2005-03-15",
+    "bogus": false
+  },
+  "pk": 1657,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 52.6,
+    "date": "2005-04-15",
+    "bogus": false
+  },
+  "pk": 1658,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 48.3,
+    "date": "2005-05-15",
+    "bogus": false
+  },
+  "pk": 1659,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 47.9,
+    "date": "2005-06-15",
+    "bogus": false
+  },
+  "pk": 1660,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 48.1,
+    "date": "2005-07-15",
+    "bogus": false
+  },
+  "pk": 1661,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 45.4,
+    "date": "2005-08-15",
+    "bogus": false
+  },
+  "pk": 1662,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 42.9,
+    "date": "2005-09-15",
+    "bogus": false
+  },
+  "pk": 1663,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 42.6,
+    "date": "2005-10-15",
+    "bogus": false
+  },
+  "pk": 1664,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 42.1,
+    "date": "2005-11-15",
+    "bogus": false
+  },
+  "pk": 1665,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 40.1,
+    "date": "2005-12-15",
+    "bogus": false
+  },
+  "pk": 1666,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 37.2,
+    "date": "2006-01-15",
+    "bogus": false
+  },
+  "pk": 1667,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 33.4,
+    "date": "2006-02-15",
+    "bogus": false
+  },
+  "pk": 1668,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 31.0,
+    "date": "2006-03-15",
+    "bogus": false
+  },
+  "pk": 1669,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 30.6,
+    "date": "2006-04-15",
+    "bogus": false
+  },
+  "pk": 1670,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 30.7,
+    "date": "2006-05-15",
+    "bogus": false
+  },
+  "pk": 1671,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 28.9,
+    "date": "2006-06-15",
+    "bogus": false
+  },
+  "pk": 1672,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 27.2,
+    "date": "2006-07-15",
+    "bogus": false
+  },
+  "pk": 1673,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 27.6,
+    "date": "2006-08-15",
+    "bogus": false
+  },
+  "pk": 1674,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 27.7,
+    "date": "2006-09-15",
+    "bogus": false
+  },
+  "pk": 1675,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 25.2,
+    "date": "2006-10-15",
+    "bogus": false
+  },
+  "pk": 1676,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 22.3,
+    "date": "2006-11-15",
+    "bogus": false
+  },
+  "pk": 1677,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 20.7,
+    "date": "2006-12-15",
+    "bogus": false
+  },
+  "pk": 1678,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 19.7,
+    "date": "2007-01-15",
+    "bogus": false
+  },
+  "pk": 1679,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 18.9,
+    "date": "2007-02-15",
+    "bogus": false
+  },
+  "pk": 1680,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 17.5,
+    "date": "2007-03-15",
+    "bogus": false
+  },
+  "pk": 1681,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 16.0,
+    "date": "2007-04-15",
+    "bogus": false
+  },
+  "pk": 1682,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 14.2,
+    "date": "2007-05-15",
+    "bogus": false
+  },
+  "pk": 1683,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 12.8,
+    "date": "2007-06-15",
+    "bogus": false
+  },
+  "pk": 1684,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 11.6,
+    "date": "2007-07-15",
+    "bogus": false
+  },
+  "pk": 1685,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 10.2,
+    "date": "2007-08-15",
+    "bogus": false
+  },
+  "pk": 1686,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 9.9,
+    "date": "2007-09-15",
+    "bogus": false
+  },
+  "pk": 1687,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 10.0,
+    "date": "2007-10-15",
+    "bogus": false
+  },
+  "pk": 1688,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 9.4,
+    "date": "2007-11-15",
+    "bogus": false
+  },
+  "pk": 1689,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 8.1,
+    "date": "2007-12-15",
+    "bogus": false
+  },
+  "pk": 1690,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 6.9,
+    "date": "2008-01-15",
+    "bogus": false
+  },
+  "pk": 1691,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 5.9,
+    "date": "2008-02-15",
+    "bogus": false
+  },
+  "pk": 1692,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 5.3,
+    "date": "2008-03-15",
+    "bogus": false
+  },
+  "pk": 1693,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 5.3,
+    "date": "2008-04-15",
+    "bogus": false
+  },
+  "pk": 1694,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 5.7,
+    "date": "2008-05-15",
+    "bogus": false
+  },
+  "pk": 1695,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 5.2,
+    "date": "2008-06-15",
+    "bogus": false
+  },
+  "pk": 1696,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 4.5,
+    "date": "2008-07-15",
+    "bogus": false
+  },
+  "pk": 1697,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 4.4,
+    "date": "2008-08-15",
+    "bogus": false
+  },
+  "pk": 1698,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 3.7,
+    "date": "2008-09-15",
+    "bogus": false
+  },
+  "pk": 1699,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 2.9,
+    "date": "2008-10-15",
+    "bogus": false
+  },
+  "pk": 1700,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 2.7,
+    "date": "2008-11-15",
+    "bogus": false
+  },
+  "pk": 1701,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 2.7,
+    "date": "2008-12-15",
+    "bogus": false
+  },
+  "pk": 1702,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 3.0,
+    "date": "2009-01-15",
+    "bogus": false
+  },
+  "pk": 1703,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 3.1,
+    "date": "2009-02-15",
+    "bogus": false
+  },
+  "pk": 1704,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 3.4,
+    "date": "2009-03-15",
+    "bogus": false
+  },
+  "pk": 1705,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 3.7,
+    "date": "2009-04-15",
+    "bogus": false
+  },
+  "pk": 1706,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 3.8,
+    "date": "2009-05-15",
+    "bogus": false
+  },
+  "pk": 1707,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 4.4,
+    "date": "2009-06-15",
+    "bogus": false
+  },
+  "pk": 1708,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 5.8,
+    "date": "2009-07-15",
+    "bogus": false
+  },
+  "pk": 1709,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 7.7,
+    "date": "2009-08-15",
+    "bogus": false
+  },
+  "pk": 1710,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 9.9,
+    "date": "2009-09-15",
+    "bogus": false
+  },
+  "pk": 1711,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 11.3,
+    "date": "2009-10-15",
+    "bogus": false
+  },
+  "pk": 1712,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 12.4,
+    "date": "2009-11-15",
+    "bogus": false
+  },
+  "pk": 1713,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 13.6,
+    "date": "2009-12-15",
+    "bogus": false
+  },
+  "pk": 1714,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 14.8,
+    "date": "2010-01-15",
+    "bogus": false
+  },
+  "pk": 1715,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 16.7,
+    "date": "2010-02-15",
+    "bogus": false
+  },
+  "pk": 1716,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 19.1,
+    "date": "2010-03-15",
+    "bogus": false
+  },
+  "pk": 1717,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 21.4,
+    "date": "2010-04-15",
+    "bogus": false
+  },
+  "pk": 1718,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 23.8,
+    "date": "2010-05-15",
+    "bogus": false
+  },
+  "pk": 1719,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 25.2,
+    "date": "2010-06-15",
+    "bogus": false
+  },
+  "pk": 1720,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 25.9,
+    "date": "2010-07-15",
+    "bogus": false
+  },
+  "pk": 1721,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 27.3,
+    "date": "2010-08-15",
+    "bogus": false
+  },
+  "pk": 1722,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 30.6,
+    "date": "2010-09-15",
+    "bogus": false
+  },
+  "pk": 1723,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 35.9,
+    "date": "2010-10-15",
+    "bogus": false
+  },
+  "pk": 1724,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 40.5,
+    "date": "2010-11-15",
+    "bogus": false
+  },
+  "pk": 1725,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 43.8,
+    "date": "2010-12-15",
+    "bogus": false
+  },
+  "pk": 1726,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 47.2,
+    "date": "2011-01-15",
+    "bogus": false
+  },
+  "pk": 1727,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 50.6,
+    "date": "2011-02-15",
+    "bogus": false
+  },
+  "pk": 1728,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 55.2,
+    "date": "2011-03-15",
+    "bogus": false
+  },
+  "pk": 1729,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 61.5,
+    "date": "2011-04-15",
+    "bogus": false
+  },
+  "pk": 1730,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 69.0,
+    "date": "2011-05-15",
+    "bogus": false
+  },
+  "pk": 1731,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 76.5,
+    "date": "2011-06-15",
+    "bogus": false
+  },
+  "pk": 1732,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 82.5,
+    "date": "2011-07-15",
+    "bogus": false
+  },
+  "pk": 1733,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 84.9,
+    "date": "2011-08-15",
+    "bogus": false
+  },
+  "pk": 1734,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 84.6,
+    "date": "2011-09-15",
+    "bogus": false
+  },
+  "pk": 1735,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 84.6,
+    "date": "2011-10-15",
+    "bogus": false
+  },
+  "pk": 1736,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 86.3,
+    "date": "2011-11-15",
+    "bogus": false
+  },
+  "pk": 1737,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 89.2,
+    "date": "2011-12-15",
+    "bogus": false
+  },
+  "pk": 1738,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 92.0,
+    "date": "2012-01-15",
+    "bogus": false
+  },
+  "pk": 1739,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 94.2,
+    "date": "2012-02-15",
+    "bogus": false
+  },
+  "pk": 1740,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 94.1,
+    "date": "2012-03-15",
+    "bogus": false
+  },
+  "pk": 1741,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 91.3,
+    "date": "2012-04-15",
+    "bogus": false
+  },
+  "pk": 1742,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 87.7,
+    "date": "2012-05-15",
+    "bogus": false
+  },
+  "pk": 1743,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 83.9,
+    "date": "2012-06-15",
+    "bogus": false
+  },
+  "pk": 1744,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 82.4,
+    "date": "2012-07-15",
+    "bogus": false
+  },
+  "pk": 1745,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 83.1,
+    "date": "2012-08-15",
+    "bogus": false
+  },
+  "pk": 1746,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 83.7,
+    "date": "2012-09-15",
+    "bogus": false
+  },
+  "pk": 1747,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 85.0,
+    "date": "2012-10-15",
+    "bogus": false
+  },
+  "pk": 1748,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 87.3,
+    "date": "2012-11-15",
+    "bogus": false
+  },
+  "pk": 1749,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 88.0,
+    "date": "2012-12-15",
+    "bogus": false
+  },
+  "pk": 1750,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 87.1,
+    "date": "2013-01-15",
+    "bogus": false
+  },
+  "pk": 1751,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 86.7,
+    "date": "2013-02-15",
+    "bogus": false
+  },
+  "pk": 1752,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 85.7,
+    "date": "2013-03-15",
+    "bogus": false
+  },
+  "pk": 1753,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 86.7,
+    "date": "2013-04-15",
+    "bogus": false
+  },
+  "pk": 1754,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 90.5,
+    "date": "2013-05-15",
+    "bogus": false
+  },
+  "pk": 1755,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 94.4,
+    "date": "2013-06-15",
+    "bogus": false
+  },
+  "pk": 1756,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 97.9,
+    "date": "2013-07-15",
+    "bogus": false
+  },
+  "pk": 1757,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 103.7,
+    "date": "2013-08-15",
+    "bogus": false
+  },
+  "pk": 1758,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 111.0,
+    "date": "2013-09-15",
+    "bogus": false
+  },
+  "pk": 1759,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 114.3,
+    "date": "2013-10-15",
+    "bogus": false
+  },
+  "pk": 1760,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 114.6,
+    "date": "2013-11-15",
+    "bogus": false
+  },
+  "pk": 1761,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 115.4,
+    "date": "2013-12-15",
+    "bogus": false
+  },
+  "pk": 1762,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 117.7,
+    "date": "2014-01-15",
+    "bogus": false
+  },
+  "pk": 1763,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 119.5,
+    "date": "2014-02-15",
+    "bogus": false
+  },
+  "pk": 1764,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 123.2,
+    "date": "2014-03-15",
+    "bogus": false
+  },
+  "pk": 1765,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 124.8,
+    "date": "2014-04-15",
+    "bogus": false
+  },
+  "pk": 1766,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 122.3,
+    "date": "2014-05-15",
+    "bogus": false
+  },
+  "pk": 1767,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 121.4,
+    "date": "2014-06-15",
+    "bogus": false
+  },
+  "pk": 1768,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 120.4,
+    "date": "2014-07-15",
+    "bogus": false
+  },
+  "pk": 1769,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 115.1,
+    "date": "2014-08-15",
+    "bogus": false
+  },
+  "pk": 1770,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 107.4,
+    "date": "2014-09-15",
+    "bogus": false
+  },
+  "pk": 1771,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 101.7,
+    "date": "2014-10-15",
+    "bogus": false
+  },
+  "pk": 1772,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 97.9,
+    "date": "2014-11-15",
+    "bogus": false
+  },
+  "pk": 1773,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 95.2,
+    "date": "2014-12-15",
+    "bogus": false
+  },
+  "pk": 1774,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 92.1,
+    "date": "2015-01-15",
+    "bogus": false
+  },
+  "pk": 1775,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 88.3,
+    "date": "2015-02-15",
+    "bogus": false
+  },
+  "pk": 1776,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 84.2,
+    "date": "2015-03-15",
+    "bogus": false
+  },
+  "pk": 1777,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 80.5,
+    "date": "2015-04-15",
+    "bogus": false
+  },
+  "pk": 1778,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 1,
+    "units": "sunspots",
+    "value": 77.5,
+    "date": "2015-05-15",
+    "bogus": false
+  },
+  "pk": 1779,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 44.0,
+    "date": "2015-06-15",
+    "bogus": false
+  },
+  "pk": 1780,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 43.2,
+    "date": "2015-07-15",
+    "bogus": false
+  },
+  "pk": 1781,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 43.5,
+    "date": "2015-08-15",
+    "bogus": false
+  },
+  "pk": 1782,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 44.6,
+    "date": "2015-09-15",
+    "bogus": false
+  },
+  "pk": 1783,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 45.3,
+    "date": "2015-10-15",
+    "bogus": false
+  },
+  "pk": 1784,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 45.1,
+    "date": "2015-11-15",
+    "bogus": false
+  },
+  "pk": 1785,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 44.9,
+    "date": "2015-12-15",
+    "bogus": false
+  },
+  "pk": 1786,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 45.1,
+    "date": "2016-01-15",
+    "bogus": false
+  },
+  "pk": 1787,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 45.3,
+    "date": "2016-02-15",
+    "bogus": false
+  },
+  "pk": 1788,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 45.0,
+    "date": "2016-03-15",
+    "bogus": false
+  },
+  "pk": 1789,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 44.7,
+    "date": "2016-04-15",
+    "bogus": false
+  },
+  "pk": 1790,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 44.6,
+    "date": "2016-05-15",
+    "bogus": false
+  },
+  "pk": 1791,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 43.7,
+    "date": "2016-06-15",
+    "bogus": false
+  },
+  "pk": 1792,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 42.0,
+    "date": "2016-07-15",
+    "bogus": false
+  },
+  "pk": 1793,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 40.4,
+    "date": "2016-08-15",
+    "bogus": false
+  },
+  "pk": 1794,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 38.8,
+    "date": "2016-09-15",
+    "bogus": false
+  },
+  "pk": 1795,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 37.3,
+    "date": "2016-10-15",
+    "bogus": false
+  },
+  "pk": 1796,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 35.7,
+    "date": "2016-11-15",
+    "bogus": false
+  },
+  "pk": 1797,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 34.3,
+    "date": "2016-12-15",
+    "bogus": false
+  },
+  "pk": 1798,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 32.8,
+    "date": "2017-01-15",
+    "bogus": false
+  },
+  "pk": 1799,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 31.4,
+    "date": "2017-02-15",
+    "bogus": false
+  },
+  "pk": 1800,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 30.0,
+    "date": "2017-03-15",
+    "bogus": false
+  },
+  "pk": 1801,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 28.7,
+    "date": "2017-04-15",
+    "bogus": false
+  },
+  "pk": 1802,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 27.4,
+    "date": "2017-05-15",
+    "bogus": false
+  },
+  "pk": 1803,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 26.1,
+    "date": "2017-06-15",
+    "bogus": false
+  },
+  "pk": 1804,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 24.9,
+    "date": "2017-07-15",
+    "bogus": false
+  },
+  "pk": 1805,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 23.7,
+    "date": "2017-08-15",
+    "bogus": false
+  },
+  "pk": 1806,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 22.5,
+    "date": "2017-09-15",
+    "bogus": false
+  },
+  "pk": 1807,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 21.4,
+    "date": "2017-10-15",
+    "bogus": false
+  },
+  "pk": 1808,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 20.3,
+    "date": "2017-11-15",
+    "bogus": false
+  },
+  "pk": 1809,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 19.2,
+    "date": "2017-12-15",
+    "bogus": false
+  },
+  "pk": 1810,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 18.2,
+    "date": "2018-01-15",
+    "bogus": false
+  },
+  "pk": 1811,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 17.2,
+    "date": "2018-02-15",
+    "bogus": false
+  },
+  "pk": 1812,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 16.3,
+    "date": "2018-03-15",
+    "bogus": false
+  },
+  "pk": 1813,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 15.4,
+    "date": "2018-04-15",
+    "bogus": false
+  },
+  "pk": 1814,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 14.5,
+    "date": "2018-05-15",
+    "bogus": false
+  },
+  "pk": 1815,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 13.7,
+    "date": "2018-06-15",
+    "bogus": false
+  },
+  "pk": 1816,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 12.9,
+    "date": "2018-07-15",
+    "bogus": false
+  },
+  "pk": 1817,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 12.2,
+    "date": "2018-08-15",
+    "bogus": false
+  },
+  "pk": 1818,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 11.5,
+    "date": "2018-09-15",
+    "bogus": false
+  },
+  "pk": 1819,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 10.8,
+    "date": "2018-10-15",
+    "bogus": false
+  },
+  "pk": 1820,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 10.1,
+    "date": "2018-11-15",
+    "bogus": false
+  },
+  "pk": 1821,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 9.5,
+    "date": "2018-12-15",
+    "bogus": false
+  },
+  "pk": 1822,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 8.9,
+    "date": "2019-01-15",
+    "bogus": false
+  },
+  "pk": 1823,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 8.3,
+    "date": "2019-02-15",
+    "bogus": false
+  },
+  "pk": 1824,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 7.8,
+    "date": "2019-03-15",
+    "bogus": false
+  },
+  "pk": 1825,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 7.3,
+    "date": "2019-04-15",
+    "bogus": false
+  },
+  "pk": 1826,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 6.8,
+    "date": "2019-05-15",
+    "bogus": false
+  },
+  "pk": 1827,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 6.4,
+    "date": "2019-06-15",
+    "bogus": false
+  },
+  "pk": 1828,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 5.9,
+    "date": "2019-07-15",
+    "bogus": false
+  },
+  "pk": 1829,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 5.5,
+    "date": "2019-08-15",
+    "bogus": false
+  },
+  "pk": 1830,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 5.1,
+    "date": "2019-09-15",
+    "bogus": false
+  },
+  "pk": 1831,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 4.8,
+    "date": "2019-10-15",
+    "bogus": false
+  },
+  "pk": 1832,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 4.4,
+    "date": "2019-11-15",
+    "bogus": false
+  },
+  "pk": 1833,
+  "model": "core.sunspot"
+},
+{
+  "fields": {
+    "sunspottype": 2,
+    "units": "sunspots",
+    "value": 4.1,
+    "date": "2019-12-15",
+    "bogus": false
+  },
+  "pk": 1834,
+  "model": "core.sunspot"
+}
 ]

@@ -16,3 +16,7 @@ EIT images are taken twice a day while LASCO/SDO are taken much more frequently
 
 LASCO images are taken every 12 minutes
 SDO images are taken every 30 minutes
+
+jsoc.stanford.edu/cgi-bin/hmiimage.pl?Year=2010&Month=05&Day=01&Hour=00&Minute=00&Kind=_Ic_flat_&resolution=1k
+
+http://sdowww.lmsal.com/sdomedia/SunInTime/webgl_tool/sv3/?date=20151213

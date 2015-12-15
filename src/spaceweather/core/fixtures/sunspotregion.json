@@ -1,72 +1,72 @@
 [
 {
+  "pk": 1,
   "model": "core.sunspotregion",
   "fields": {
+    "date": "2015-12-14",
+    "location": "S09W62",
     "size": 10,
     "numberofsunspots": 2,
-    "date": "2015-12-14",
-    "bogus": false,
+    "magneticclass": "\u03b2",
     "region": 2463,
-    "location": "S09W62",
     "spotclass": "Cro",
-    "magneticclass": "\u03b2"
-  },
-  "pk": 1
+    "bogus": false
+  }
 },
 {
+  "pk": 2,
   "model": "core.sunspotregion",
   "fields": {
+    "date": "2015-12-14",
+    "location": "S06W17",
     "size": 20,
     "numberofsunspots": 4,
-    "date": "2015-12-14",
-    "bogus": false,
+    "magneticclass": "\u03b2",
     "region": 2465,
-    "location": "S06W17",
     "spotclass": "Cao",
-    "magneticclass": "\u03b2"
-  },
-  "pk": 2
+    "bogus": false
+  }
 },
 {
+  "pk": 3,
   "model": "core.sunspotregion",
   "fields": {
+    "date": "2015-12-14",
+    "location": "S15E26",
     "size": 40,
     "numberofsunspots": 4,
-    "date": "2015-12-14",
-    "bogus": false,
+    "magneticclass": "\u03b2",
     "region": 2468,
-    "location": "S15E26",
     "spotclass": "Cao",
-    "magneticclass": "\u03b2"
-  },
-  "pk": 3
+    "bogus": false
+  }
 },
 {
+  "pk": 4,
   "model": "core.sunspotregion",
   "fields": {
+    "date": "2015-12-14",
+    "location": "N18E56",
     "size": 90,
     "numberofsunspots": 8,
-    "date": "2015-12-14",
-    "bogus": false,
+    "magneticclass": "\u03b2",
     "region": 2469,
-    "location": "N18E56",
     "spotclass": "Dso",
-    "magneticclass": "\u03b2"
-  },
-  "pk": 4
+    "bogus": false
+  }
 },
 {
+  "pk": 5,
   "model": "core.sunspotregion",
   "fields": {
+    "date": "2015-12-14",
+    "location": "N12E64",
     "size": 270,
     "numberofsunspots": 6,
-    "date": "2015-12-14",
-    "bogus": false,
+    "magneticclass": "\u03b2",
     "region": 2470,
-    "location": "N12E64",
     "spotclass": "Dkc",
-    "magneticclass": "\u03b2"
-  },
-  "pk": 5
+    "bogus": false
+  }
 }
 ]
