@@ -1,0 +1,14 @@
+[
+{
+  "model": "core.channeltype",
+  "fields": {
+    "description": "171 A",
+    "origin": "171 A",
+    "explanation": "171 A",
+    "url": "http://kaleidos.net",
+    "interval": 12,
+    "name": "171 A"
+  },
+  "pk": 1
+}
+]

@@ -6,6 +6,7 @@ from rest_framework.reverse import reverse
 from .models import Protonflux, Electronflux, Xrayflux, Ptype, Etype, Xtype
 from .models import Sunspot, Sunspottype, Sunspotregion
 from .models import Alert, Alerttype
+from .models import Imagechannel, Channeltype
 
 User = get_user_model()
 
@@ -200,5 +201,39 @@ class AlertSerializer(serializers.ModelSerializer):
         request = self.context['request']
         return {
             'self': reverse('alert-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+class ChanneltypeSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+
+    class Meta:
+        model = Channeltype
+        fields = ('id', 'name', 'description', 'explanation', 'interval', 'url', 'origin', 'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('channeltype-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+class ImagechannelSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+    #etype = serializers.StringRelatedField()
+
+    class Meta:
+        model = Imagechannel
+        fields = ('id', 'date', 'channeltype', 'originaldate', 'image', 'bogus', 'links', )
+        readonly_fields = ('image')
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('imagechannel-detail',
             kwargs={'pk':obj.pk}, request=request),
         }

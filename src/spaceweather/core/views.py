@@ -5,14 +5,17 @@ from rest_framework import authentication, permissions, viewsets, filters
 from .forms import ProtonfluxFilter, ElectronfluxFilter, XrayfluxFilter
 from .forms import SunspotFilter, SunspotregionFilter
 from .forms import AlertFilter
+from .forms import ImagechannelFilter
 
 from .models import Protonflux, Ptype, Electronflux, Etype, Xrayflux, Xtype
 from .models import Sunspot, Sunspottype, Sunspotregion
 from .models import Alert, Alerttype
+from .models import Imagechannel, Channeltype
 
 from .serializers import ProtonfluxSerializer, PtypeSerializer, ElectronfluxSerializer, EtypeSerializer, XrayfluxSerializer, XtypeSerializer
 from .serializers import SunspotSerializer, SunspottypeSerializer, SunspotregionSerializer
 from .serializers import AlertSerializer, AlerttypeSerializer
+from .serializers import ImagechannelSerializer, ChanneltypeSerializer
 
 User = get_user_model()
 
@@ -130,3 +133,33 @@ class AlertViewSet(DefaultsMixin, viewsets.ModelViewSet):
     filter_class = AlertFilter
     search_fields = ('issuetime',)
     ordering_fields = ('issuetime', 'name',)
+
+class ChanneltypeViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Channeltypes."""
+
+    queryset = Channeltype.objects.order_by('name')
+    serializer_class = ChanneltypeSerializer
+    search_fields = ('name',)
+    ordering_fields = ('name',)
+
+class ImagechannelViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Imagechannel."""
+
+    queryset = Imagechannel.objects.order_by('date')
+    serializer_class = ImagechannelSerializer
+    filter_class = ImagechannelFilter
+    search_fields = ('date',)
+    ordering_fields = ('date', 'channeltype',)
+
+    def image(self, request, *args, **kwargs):
+        if 'upload' in request.data:
+            user_profile = self.get_object()
+            user_profile.image.delete()
+
+            upload = request.data['upload']
+
+            user_profile.image.save(upload.name, upload)
+
+            return Response(status=HTTP_201_CREATED, headers={'Location': user_profile.image.url})
+        else:
+            return Response(status=HTTP_400_BAD_REQUEST)

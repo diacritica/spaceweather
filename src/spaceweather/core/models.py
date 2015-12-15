@@ -188,3 +188,26 @@ class Alert(models.Model):
 
     def __str__(self):
         return "{}:{} {} alert".format(self.SWMC, self.serialnumber, self.issuetime)
+
+class Imagechannel(models.Model):
+
+    date = models.DateTimeField(unique=False)
+    channeltype = models.ForeignKey('Channeltype', null=False)
+    originaldate = models.DateTimeField(unique=False)
+    image = models.ImageField(upload_to="images", blank=True)
+    bogus = models.BooleanField(default=False)
+
+    def __str__(self):
+        return "{}:{} {} imagechannel".format(self.date, self.channeltype.name, self.originaldate)
+
+class Channeltype(models.Model):
+
+    name = models.CharField(max_length=50, blank=False)
+    interval = models.SmallIntegerField(blank=False)
+    description = models.TextField(blank=True)
+    explanation = models.TextField(blank=True)
+    url = models.URLField(blank=True)
+    origin = models.TextField(blank=True)
+
+    def __str__(self):
+        return "{}:{} channeltype".format(self.name, self.interval)
