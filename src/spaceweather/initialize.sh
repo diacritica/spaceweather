@@ -49,3 +49,9 @@ echo "Added Channeltype fixtures..."
 echo "Adding Imagechanell fixtures..."
 python manage.py loaddata imagechannel
 echo "Added Imagechannel fixtures..."
+echo "Adding Solarradiationtype fixtures..."
+python manage.py loaddata solarradiationtype
+echo "Added Solarradiationtype fixtures..."
+echo "Adding Solarradiation fixtures..."
+python manage.py loaddata solarradiation
+echo "Added Solarradiation fixtures..."

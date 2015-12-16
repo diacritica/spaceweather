@@ -1,0 +1,13 @@
+[
+{
+  "fields": {
+    "explanation": "",
+    "origin": "",
+    "description": "",
+    "name": "S1 or greater",
+    "url": ""
+  },
+  "model": "core.solarradiationtype",
+  "pk": 1
+}
+]

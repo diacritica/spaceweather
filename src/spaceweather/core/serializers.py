@@ -7,6 +7,7 @@ from .models import Protonflux, Electronflux, Xrayflux, Ptype, Etype, Xtype
 from .models import Sunspot, Sunspottype, Sunspotregion
 from .models import Alert, Alerttype
 from .models import Imagechannel, Channeltype
+from .models import Solarradiation, Solarradiationtype
 
 User = get_user_model()
 
@@ -235,5 +236,39 @@ class ImagechannelSerializer(serializers.ModelSerializer):
         request = self.context['request']
         return {
             'self': reverse('imagechannel-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+class SolarradiationSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+    #etype = serializers.StringRelatedField()
+
+    class Meta:
+        model = Solarradiation
+        fields = ('id', 'date', 'solarradiationtype', 'value', 'bogus',  'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('solarradiation-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+class SolarradiationtypeSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+    #etype = serializers.StringRelatedField()
+
+    class Meta:
+        model = Solarradiationtype
+        fields = ('id', 'name', 'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('solarradiationtype-detail',
             kwargs={'pk':obj.pk}, request=request),
         }

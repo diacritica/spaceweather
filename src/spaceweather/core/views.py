@@ -7,16 +7,19 @@ from .forms import ProtonfluxFilter, ElectronfluxFilter, XrayfluxFilter
 from .forms import SunspotFilter, SunspotregionFilter
 from .forms import AlertFilter
 from .forms import ImagechannelFilter
+from .forms import SolarradiationFilter
 
 from .models import Protonflux, Ptype, Electronflux, Etype, Xrayflux, Xtype
 from .models import Sunspot, Sunspottype, Sunspotregion
 from .models import Alert, Alerttype
 from .models import Imagechannel, Channeltype
+from .models import Solarradiation, Solarradiationtype
 
 from .serializers import ProtonfluxSerializer, PtypeSerializer, ElectronfluxSerializer, EtypeSerializer, XrayfluxSerializer, XtypeSerializer
 from .serializers import SunspotSerializer, SunspottypeSerializer, SunspotregionSerializer
 from .serializers import AlertSerializer, AlerttypeSerializer
 from .serializers import ImagechannelSerializer, ChanneltypeSerializer
+from .serializers import SolarradiationSerializer, SolarradiationtypeSerializer
 
 User = get_user_model()
 
@@ -156,3 +159,20 @@ class ImagechannelViewSet(DefaultsMixin, viewsets.ModelViewSet):
     filter_class = ImagechannelFilter
     search_fields = ('date',)
     ordering_fields = ('date', 'channeltype',)
+
+class SolarradiationViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Solarradiations."""
+
+    queryset = Solarradiation.objects.order_by('date')
+    serializer_class = SolarradiationSerializer
+    filter_class = SolarradiationFilter
+    search_fields = ('date',)
+    ordering_fields = ('date', 'solarradiationtype',)
+
+class SolarradiationtypeViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Solarradiationtypes."""
+
+    queryset = Solarradiationtype.objects.order_by('name')
+    serializer_class = SolarradiationtypeSerializer
+    search_fields = ('name',)
+    ordering_fields = ('name',)
