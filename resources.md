@@ -38,3 +38,6 @@ ct=Channeltype.objects.all()[3]
 >>> ic.save()
 >>> ic=Imagechannel(date="2015-12-15 00:10", channeltype=ct, originaldate="2015-12-15 00:07", bogus=False,)
 >>> ic.image.save('0.gif',File(open('/home/diacritica/0.gif','rb')))
+
+
+ffmpeg -framerate 30 -pattern_type glob -i '304-1*.jpg' -c:v libx264 out.mp4

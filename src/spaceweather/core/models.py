@@ -203,8 +203,8 @@ class Imagechannel(models.Model):
     def save(self, *args, **kwargs):
         td = timedelta(minutes=self.channeltype.interval)
         print(td)
-        self.sdatemin = self.originaldate - td
-        self.sdatemax = self.originaldate + td
+        self.sdatemin = self.originaldate# - td
+        self.sdatemax = self.originaldate# + td
         super(Imagechannel, self).save(*args, **kwargs)
 
 
