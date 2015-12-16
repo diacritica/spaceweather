@@ -43,3 +43,9 @@ echo "Added Sunspot fixtures..."
 echo "Adding Sunspotregion fixtures..."
 python manage.py loaddata sunspotregion
 echo "Added Sunspotregion fixtures..."
+echo "Adding Channeltype fixtures..."
+python manage.py loaddata channeltype
+echo "Added Channeltype fixtures..."
+echo "Adding Imagechanell fixtures..."
+python manage.py loaddata imagechannel
+echo "Added Imagechannel fixtures..."

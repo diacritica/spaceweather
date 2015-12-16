@@ -1,14 +1,86 @@
 [
 {
+  "pk": 1,
   "model": "core.channeltype",
   "fields": {
-    "description": "171 A",
-    "origin": "171 A",
-    "explanation": "171 A",
-    "url": "http://kaleidos.net",
+    "description": "Fe IX/X 171 \u00c5",
+    "interval": 30,
+    "url": "http://sdo.gsfc.nasa.gov/",
+    "explanation": "Fe IX/X 171 \u00c5",
+    "name": "171 \u00c5",
+    "origin": "SDO Solar Dynamics Observatory"
+  }
+},
+{
+  "pk": 2,
+  "model": "core.channeltype",
+  "fields": {
+    "description": "Fe XII 193 \u00c5",
+    "interval": 30,
+    "url": "http://sdo.gsfc.nasa.gov/",
+    "explanation": "Fe XII 193 \u00c5",
+    "name": "193 \u00c5",
+    "origin": "SDO Solar Dynamics Observatory"
+  }
+},
+{
+  "pk": 3,
+  "model": "core.channeltype",
+  "fields": {
+    "description": "Fe XIV 211 \u00c5",
+    "interval": 30,
+    "url": "http://sdo.gsfc.nasa.gov/",
+    "explanation": "Fe XIV 211 \u00c5",
+    "name": "211 \u00c5",
+    "origin": "SDO Solar Dynamics Observatory"
+  }
+},
+{
+  "pk": 4,
+  "model": "core.channeltype",
+  "fields": {
+    "description": "He II 304 \u00c5",
+    "interval": 30,
+    "url": "http://sdo.gsfc.nasa.gov/",
+    "explanation": "He II 304 \u00c5",
+    "name": "304 \u00c5",
+    "origin": "SDO Solar Dynamics Observatory"
+  }
+},
+{
+  "pk": 5,
+  "model": "core.channeltype",
+  "fields": {
+    "description": "HMI",
+    "interval": 15,
+    "url": "http://sdo.gsfc.nasa.gov/",
+    "explanation": "HMI",
+    "name": "HMI",
+    "origin": "HMI"
+  }
+},
+{
+  "pk": 6,
+  "model": "core.channeltype",
+  "fields": {
+    "description": "LASCO",
     "interval": 12,
-    "name": "171 A"
-  },
-  "pk": 1
+    "url": "http://sohowww.nascom.nasa.gov/",
+    "explanation": "LASCO",
+    "name": "LASCO",
+    "origin": "SOHO"
+  }
+},
+{
+  "pk": 7,
+  "model": "core.channeltype",
+  "fields": {
+    "description": "LASCOC2",
+    "interval": 12,
+    "url": "http://sohowww.nascom.nasa.gov/",
+    "explanation": "LASCOC2",
+    "name": "LASCOC2",
+    "origin": "SOHO"
+  }
 }
 ]

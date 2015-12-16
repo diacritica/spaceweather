@@ -2,6 +2,7 @@ from django.conf import settings
 from django.db import models
 from django.utils.translation import ugettext_lazy as _
 
+from datetime import timedelta
 
 class Ptype(models.Model):
 
@@ -196,6 +197,16 @@ class Imagechannel(models.Model):
     originaldate = models.DateTimeField(unique=False)
     image = models.ImageField(upload_to="images", blank=True)
     bogus = models.BooleanField(default=False)
+    sdatemax = models.DateTimeField(blank=True, unique=False)
+    sdatemin = models.DateTimeField(blank=True, unique=False)
+
+    def save(self, *args, **kwargs):
+        td = timedelta(minutes=self.channeltype.interval)
+        print(td)
+        self.sdatemin = self.originaldate - td
+        self.sdatemax = self.originaldate + td
+        super(Imagechannel, self).save(*args, **kwargs)
+
 
     def __str__(self):
         return "{}:{} {} imagechannel".format(self.date, self.channeltype.name, self.originaldate)

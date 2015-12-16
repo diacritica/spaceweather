@@ -62,7 +62,7 @@ WSGI_APPLICATION = 'spaceweather.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'spaceweather',
+        'NAME': 'swdb',
         "USER": "spaceweather",
         "PASSWORD": "spaceweather",
         "HOST": "localhost",

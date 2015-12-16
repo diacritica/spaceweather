@@ -77,8 +77,8 @@ class AlertFilter(django_filters.FilterSet):
 
 class ImagechannelFilter(django_filters.FilterSet):
 
-    date_min = django_filters.DateFilter(name='date',lookup_type='gte')
-    date_max = django_filters.DateFilter(name='date',lookup_type='lte')
+    date_min = django_filters.DateFilter(name='sdatemin',lookup_type='gte')
+    date_max = django_filters.DateFilter(name='sdatemax',lookup_type='lte')
 
     class Meta:
         model = Imagechannel

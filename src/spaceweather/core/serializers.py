@@ -228,7 +228,7 @@ class ImagechannelSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Imagechannel
-        fields = ('id', 'date', 'channeltype', 'originaldate', 'image', 'bogus', 'links', )
+        fields = ('id', 'date', 'channeltype', 'originaldate', 'image', 'bogus', 'sdatemin', 'sdatemax', 'links', )
         readonly_fields = ('image')
 
     def get_links(self, obj):

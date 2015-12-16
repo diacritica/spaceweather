@@ -25,6 +25,11 @@ http://sdowww.lmsal.com/sdomedia/SunInTime/webgl_tool/sv3/?date=20151213
 
 http://www.solarmonitor.org/
 
+http://umbra.nascom.nasa.gov/images/
+
+from django.core.files import File
+
+ct=Channeltype.objects.all()[3]
 >>> ic.image.save('0.gif',File(open('/home/diacritica/0.gif','rb')))
 >>> ic.save()
 >>> ic=Imagechannel(date="2015-12-15 00:10", channeltype=ct, originaldate="2015-12-15 00:07", bogus=False,)

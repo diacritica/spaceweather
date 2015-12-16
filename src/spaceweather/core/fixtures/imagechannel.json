@@ -1,0 +1,67 @@
+[
+{
+  "pk": 1,
+  "model": "core.imagechannel",
+  "fields": {
+    "sdatemin": "2015-12-01T00:30:00Z",
+    "image": "images/304_2015-12-16-00-00.gif",
+    "sdatemax": "2015-12-01T01:30:00Z",
+    "originaldate": "2015-12-01T01:00:00Z",
+    "channeltype": 4,
+    "date": "2015-12-01T00:00:00Z",
+    "bogus": false
+  }
+},
+{
+  "pk": 2,
+  "model": "core.imagechannel",
+  "fields": {
+    "sdatemin": "2015-12-01T00:00:00Z",
+    "image": "images/304_2015-12-16-00-30.gif",
+    "sdatemax": "2015-12-01T01:00:00Z",
+    "originaldate": "2015-12-01T00:30:00Z",
+    "channeltype": 4,
+    "date": "2015-12-01T00:30:00Z",
+    "bogus": false
+  }
+},
+{
+  "pk": 3,
+  "model": "core.imagechannel",
+  "fields": {
+    "sdatemin": "2015-12-01T00:30:00Z",
+    "image": "images/304_2015-12-16-01-00.gif",
+    "sdatemax": "2015-12-01T01:30:00Z",
+    "originaldate": "2015-12-01T01:00:00Z",
+    "channeltype": 4,
+    "date": "2015-12-01T01:00:00Z",
+    "bogus": false
+  }
+},
+{
+  "pk": 4,
+  "model": "core.imagechannel",
+  "fields": {
+    "sdatemin": "2015-12-01T01:00:00Z",
+    "image": "images/304_2015-12-16-01-30.gif",
+    "sdatemax": "2015-12-01T02:00:00Z",
+    "originaldate": "2015-12-01T01:30:00Z",
+    "channeltype": 4,
+    "date": "2015-12-01T01:30:00Z",
+    "bogus": false
+  }
+},
+{
+  "pk": 5,
+  "model": "core.imagechannel",
+  "fields": {
+    "sdatemin": "2015-12-01T01:30:00Z",
+    "image": "images/304_2015-12-16-02-00.gif",
+    "sdatemax": "2015-12-01T02:30:00Z",
+    "originaldate": "2015-12-01T02:00:00Z",
+    "channeltype": 4,
+    "date": "2015-12-01T02:00:00Z",
+    "bogus": false
+  }
+}
+]

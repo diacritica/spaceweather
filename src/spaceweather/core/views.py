@@ -156,16 +156,3 @@ class ImagechannelViewSet(DefaultsMixin, viewsets.ModelViewSet):
     filter_class = ImagechannelFilter
     search_fields = ('date',)
     ordering_fields = ('date', 'channeltype',)
-
-    def image(self, request, *args, **kwargs):
-        if 'upload' in request.data:
-            user_profile = self.get_object()
-            user_profile.image.delete()
-
-            upload = request.data['upload']
-
-            user_profile.image.save(upload.name, upload)
-
-            return Response(status=HTTP_201_CREATED, headers={'Location': user_profile.image.url})
-        else:
-            return Response(status=HTTP_400_BAD_REQUEST)
