@@ -8,6 +8,7 @@ from .models import Sunspot, Sunspottype, Sunspotregion
 from .models import Alert, Alerttype
 from .models import Imagechannel, Channeltype
 from .models import Solarradiation, Solarradiationtype
+from .models import Radioblackout, Radioblackouttype
 
 User = get_user_model()
 
@@ -264,11 +265,46 @@ class SolarradiationtypeSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Solarradiationtype
-        fields = ('id', 'name', 'links', )
+        fields = ('id', 'name', 'description', 'explanation', 'links', )
 
     def get_links(self, obj):
         request = self.context['request']
         return {
             'self': reverse('solarradiationtype-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+class RadioblackoutSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+    #etype = serializers.StringRelatedField()
+
+    class Meta:
+        model = Radioblackout
+        fields = ('id', 'date', 'radioblackouttype', 'value', 'bogus',  'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('radioblackout-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+
+class RadioblackouttypeSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+    #etype = serializers.StringRelatedField()
+
+    class Meta:
+        model = Radioblackouttype
+        fields = ('id', 'name', 'description', 'explanation', 'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('radioblackouttype-detail',
             kwargs={'pk':obj.pk}, request=request),
         }

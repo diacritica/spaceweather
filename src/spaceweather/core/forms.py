@@ -5,6 +5,7 @@ from .models import Sunspot, Sunspottype, Sunspotregion
 from .models import Alert, Alerttype
 from .models import Channeltype, Imagechannel
 from .models import Solarradiation, Solarradiationtype
+from .models import Radioblackout, Radioblackouttype
 
 
 class NullFilter(django_filters.BooleanFilter):
@@ -93,3 +94,12 @@ class SolarradiationFilter(django_filters.FilterSet):
     class Meta:
         model = Solarradiation
         fields = ('date_min', 'date_max', 'date', 'value', 'solarradiationtype', 'bogus')
+
+class RadioblackoutFilter(django_filters.FilterSet):
+
+    date_min = django_filters.DateFilter(name='date',lookup_type='gte')
+    date_max = django_filters.DateFilter(name='date',lookup_type='lte')
+
+    class Meta:
+        model = Radioblackout
+        fields = ('date_min', 'date_max', 'date', 'value', 'radioblackouttype', 'bogus')

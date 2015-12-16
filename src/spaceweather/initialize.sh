@@ -55,3 +55,9 @@ echo "Added Solarradiationtype fixtures..."
 echo "Adding Solarradiation fixtures..."
 python manage.py loaddata solarradiation
 echo "Added Solarradiation fixtures..."
+echo "Adding Radioblackouttype fixtures..."
+python manage.py loaddata radioblackouttype
+echo "Added Radioblackouttype fixtures..."
+echo "Adding Radioblackout fixtures..."
+python manage.py loaddata radioblackout
+echo "Added Radioblackout fixtures..."

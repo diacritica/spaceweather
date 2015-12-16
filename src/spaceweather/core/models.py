@@ -240,3 +240,21 @@ class Solarradiation(models.Model):
     solarradiationtype = models.ForeignKey('Solarradiationtype', null=False)
     value = models.SmallIntegerField(blank=True)
     bogus = models.BooleanField(default=False)
+
+
+class Radioblackouttype(models.Model):
+    name = models.CharField(max_length=50, blank=False)
+    description = models.TextField(blank=True)
+    explanation = models.TextField(blank=True)
+    url = models.URLField(blank=True)
+    origin = models.TextField(blank=True)
+
+    def __str__(self):
+        return self.name
+
+class Radioblackout(models.Model):
+
+    date = models.DateField(unique=False)
+    radioblackouttype = models.ForeignKey('Radioblackouttype', null=False)
+    value = models.SmallIntegerField(blank=True)
+    bogus = models.BooleanField(default=False)

@@ -1,0 +1,79 @@
+[
+{
+  "pk": 1,
+  "fields": {
+    "description": "X-Ray flare: M1 - Flux: 0.00001 Watts/m2 - Severity: Minor",
+    "name": "R-1",
+    "explanation": "X-Ray flare: M1 - Flux: 0.00001 Watts/m2 - Severity: Minor",
+    "url": "",
+    "origin": ""
+  },
+  "model": "core.radioblackouttype"
+},
+{
+  "pk": 2,
+  "fields": {
+    "description": "X-Ray flare: M5 - Flux: 0.00005 Watts/m2 - Severity: Moderate",
+    "name": "R-2",
+    "explanation": "X-Ray flare: M5 - Flux: 0.00005 Watts/m2 - Severity: Moderate",
+    "url": "",
+    "origin": ""
+  },
+  "model": "core.radioblackouttype"
+},
+{
+  "pk": 3,
+  "fields": {
+    "description": "X-Ray flare: X1 - Flux: 0.0001 Watts/m2 - Severity: Strong",
+    "name": "R-3",
+    "explanation": "X-Ray flare: X1 - Flux: 0.0001 Watts/m2 - Severity: Strong",
+    "url": "",
+    "origin": ""
+  },
+  "model": "core.radioblackouttype"
+},
+{
+  "pk": 4,
+  "fields": {
+    "description": "X-Ray flare: X10 - Flux: 0.001 Watts/m2 - Severity: Severe",
+    "name": "R-4",
+    "explanation": "X-Ray flare: X10 - Flux: 0.001 Watts/m2 - Severity: Severe",
+    "url": "",
+    "origin": ""
+  },
+  "model": "core.radioblackouttype"
+},
+{
+  "pk": 5,
+  "fields": {
+    "description": "X-Ray flare: X20 - Flux: 0.002 Watts/m2 - Severity: Extreme",
+    "name": "R-5",
+    "explanation": "X-Ray flare: X20 - Flux: 0.002 Watts/m2 - Severity: Extreme",
+    "url": "",
+    "origin": ""
+  },
+  "model": "core.radioblackouttype"
+},
+{
+  "pk": 6,
+  "fields": {
+    "description": "X-Ray flare: M1..M5 - Flux: 0.00001..0.00005 Watts/m2 - Severity: Minor..Moderate",
+    "name": "R1-R2",
+    "explanation": "X-Ray flare: M1..M5 - Flux: 0.00001..0.00005 Watts/m2 - Severity: Minor..Moderate",
+    "url": "",
+    "origin": ""
+  },
+  "model": "core.radioblackouttype"
+},
+{
+  "pk": 7,
+  "fields": {
+    "description": "X-Ray flare: X1..X20 - Flux: 0.0001..0.002 Watts/m2 - Severity: Strong..Extreme",
+    "name": "R3 or greater",
+    "explanation": "X-Ray flare: X1..X20 - Flux: 0.0001..0.002 Watts/m2 - Severity: Strong..Extreme",
+    "url": "",
+    "origin": ""
+  },
+  "model": "core.radioblackouttype"
+}
+]

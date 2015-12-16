@@ -1,5 +1,7 @@
 http://sdo.gsfc.nasa.gov/mission/spaceweather.php
 
+Solarwind (plasma) http://www.solarmonitor.org/ace_pop.php?date=20151216&type=aceplasma
+
 http://www.spaceweatherlive.com/en/help/the-classification-of-sunspots-after-malde
 http://www.spaceweatherlive.com/en/solar-activity/sunspot-regions
 http://www.dartmouth.edu/~physics/labs/descriptions/solar.observing/solar2015.writeup.pdf
