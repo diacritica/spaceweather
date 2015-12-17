@@ -2,6 +2,9 @@ http://sdo.gsfc.nasa.gov/mission/spaceweather.php
 
 Solarwind (plasma) http://www.solarmonitor.org/ace_pop.php?date=20151216&type=aceplasma
 
+Data for solarwind
+http://services.swpc.noaa.gov/experimental/products/solar-wind/plasma-7-day.json
+
 http://www.swpc.noaa.gov/products/wsa-enlil-solar-wind-prediction
 
 http://www.spaceweatherlive.com/en/help/the-classification-of-sunspots-after-malde

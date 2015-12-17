@@ -1,0 +1,12 @@
+[
+{
+  "pk": 1,
+  "model": "core.forecastrationale",
+  "fields": {
+    "radioblackout": "",
+    "geomagactivity": "The greatest expected 3 hr Kp for Dec 16-Dec 18 2015 is 4 (below NOAAScale levels). No G1 (Minor) or greater geomagnetic storms are expected. No significant transient or recurrent solar wind features are forecast.",
+    "date": "2015-12-17T00:00:00Z",
+    "solarradiation": "No S1 (Minor) or greater solar radiation storms are expected. No significant active region activity favorable for radiation storm production is forecast."
+  }
+}
+]
