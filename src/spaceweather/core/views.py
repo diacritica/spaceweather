@@ -9,6 +9,9 @@ from .forms import AlertFilter
 from .forms import ImagechannelFilter
 from .forms import SolarradiationFilter
 from .forms import RadioblackoutFilter
+from .forms import GeomagactivityFilter
+from .forms import SolarwindFilter
+from .forms import ForecastrationaleFilter
 
 from .models import Protonflux, Ptype, Electronflux, Etype, Xrayflux, Xtype
 from .models import Sunspot, Sunspottype, Sunspotregion
@@ -16,6 +19,9 @@ from .models import Alert, Alerttype
 from .models import Imagechannel, Channeltype
 from .models import Solarradiation, Solarradiationtype
 from .models import Radioblackout, Radioblackouttype
+from .models import Geomagactivity
+from .models import Solarwind
+from .models import Forecastrationale
 
 from .serializers import ProtonfluxSerializer, PtypeSerializer, ElectronfluxSerializer, EtypeSerializer, XrayfluxSerializer, XtypeSerializer
 from .serializers import SunspotSerializer, SunspottypeSerializer, SunspotregionSerializer
@@ -23,6 +29,9 @@ from .serializers import AlertSerializer, AlerttypeSerializer
 from .serializers import ImagechannelSerializer, ChanneltypeSerializer
 from .serializers import SolarradiationSerializer, SolarradiationtypeSerializer
 from .serializers import RadioblackoutSerializer, RadioblackouttypeSerializer
+from .serializers import GeomagactivitySerializer
+from .serializers import SolarwindSerializer
+from .serializers import ForecastrationaleSerializer
 
 User = get_user_model()
 
@@ -196,3 +205,30 @@ class RadioblackouttypeViewSet(DefaultsMixin, viewsets.ModelViewSet):
     serializer_class = RadioblackouttypeSerializer
     search_fields = ('name',)
     ordering_fields = ('name',)
+
+class GeomagactivityViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Geomagactivity."""
+
+    queryset = Geomagactivity.objects.order_by('date')
+    serializer_class = GeomagactivitySerializer
+    filter_class = GeomagactivityFilter
+    search_fields = ('date',)
+    ordering_fields = ('date',)
+
+class SolarwindViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Solarwind."""
+
+    queryset = Solarwind.objects.order_by('date')
+    serializer_class = SolarwindSerializer
+    filter_class = SolarwindFilter
+    search_fields = ('date',)
+    ordering_fields = ('date',)
+
+class ForecastrationaleViewSet(DefaultsMixin, viewsets.ModelViewSet):
+    """API endpoint for listing and creating Solarwind."""
+
+    queryset = Forecastrationale.objects.order_by('date')
+    serializer_class = ForecastrationaleSerializer
+    filter_class = ForecastrationaleFilter
+    search_fields = ('date',)
+    ordering_fields = ('date',)

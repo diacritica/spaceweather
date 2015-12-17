@@ -9,6 +9,9 @@ from .models import Alert, Alerttype
 from .models import Imagechannel, Channeltype
 from .models import Solarradiation, Solarradiationtype
 from .models import Radioblackout, Radioblackouttype
+from .models import Geomagactivity
+from .models import Solarwind
+from .models import Forecastrationale
 
 User = get_user_model()
 
@@ -306,5 +309,57 @@ class RadioblackouttypeSerializer(serializers.ModelSerializer):
         request = self.context['request']
         return {
             'self': reverse('radioblackouttype-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+class GeomagactivitySerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+    #etype = serializers.StringRelatedField()
+
+    class Meta:
+        model = Geomagactivity
+        fields = ('id', 'date', 'value', 'bogus', 'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('geomagactivity-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+class ForecastrationaleSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+    #etype = serializers.StringRelatedField()
+
+    class Meta:
+        model = Forecastrationale
+        fields = ('id', 'date', 'radioblackout', 'solarradiation', 'geomagactivity','links')
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('forecastrationale-detail',
+            kwargs={'pk':obj.pk}, request=request),
+        }
+
+
+class SolarwindSerializer(serializers.ModelSerializer):
+
+
+    links = serializers.SerializerMethodField()
+    #etype = serializers.StringRelatedField()
+
+    class Meta:
+        model = Solarwind
+        fields = ('id', 'date', 'density', 'radialspeed', 'temperature', 'links', )
+
+    def get_links(self, obj):
+        request = self.context['request']
+        return {
+            'self': reverse('solarwind-detail',
             kwargs={'pk':obj.pk}, request=request),
         }

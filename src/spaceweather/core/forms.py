@@ -6,6 +6,9 @@ from .models import Alert, Alerttype
 from .models import Channeltype, Imagechannel
 from .models import Solarradiation, Solarradiationtype
 from .models import Radioblackout, Radioblackouttype
+from .models import Geomagactivity
+from .models import Solarwind
+from .models import Forecastrationale
 
 
 class NullFilter(django_filters.BooleanFilter):
@@ -103,3 +106,30 @@ class RadioblackoutFilter(django_filters.FilterSet):
     class Meta:
         model = Radioblackout
         fields = ('date_min', 'date_max', 'date', 'value', 'radioblackouttype', 'bogus')
+
+class GeomagactivityFilter(django_filters.FilterSet):
+
+    date_min = django_filters.DateFilter(name='date',lookup_type='gte')
+    date_max = django_filters.DateFilter(name='date',lookup_type='lte')
+
+    class Meta:
+        model = Geomagactivity
+        fields = ('date_min', 'date_max', 'date', 'value', 'bogus')
+
+class SolarwindFilter(django_filters.FilterSet):
+
+    date_min = django_filters.DateFilter(name='date',lookup_type='gte')
+    date_max = django_filters.DateFilter(name='date',lookup_type='lte')
+
+    class Meta:
+        model = Solarwind
+        fields = ('date_min', 'date_max', 'date', 'density', 'radialspeed','temperature', 'bogus')
+
+class ForecastrationaleFilter(django_filters.FilterSet):
+
+    date_min = django_filters.DateFilter(name='date',lookup_type='gte')
+    date_max = django_filters.DateFilter(name='date',lookup_type='lte')
+
+    class Meta:
+        model = Forecastrationale
+        fields = ('date_min', 'date_max', 'date', 'radioblackout','solarradiation','geomagactivity')

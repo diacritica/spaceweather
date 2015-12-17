@@ -61,3 +61,6 @@ echo "Added Radioblackouttype fixtures..."
 echo "Adding Radioblackout fixtures..."
 python manage.py loaddata radioblackout
 echo "Added Radioblackout fixtures..."
+echo "Adding Geomagactivity fixtures..."
+python manage.py loaddata geomagactivity
+echo "Added Geomagactivity fixtures..."

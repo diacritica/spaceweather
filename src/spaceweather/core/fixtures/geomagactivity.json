@@ -1,0 +1,218 @@
+[
+{
+  "fields": {
+    "bogus": false,
+    "value": 2,
+    "date": "2015-12-17T00:00:00Z"
+  },
+  "pk": 1,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-17T03:00:00Z"
+  },
+  "pk": 2,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-17T06:00:00Z"
+  },
+  "pk": 3,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-17T09:00:00Z"
+  },
+  "pk": 4,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-17T12:00:00Z"
+  },
+  "pk": 5,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 2,
+    "date": "2015-12-17T15:00:00Z"
+  },
+  "pk": 6,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 2,
+    "date": "2015-12-17T18:00:00Z"
+  },
+  "pk": 7,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 2,
+    "date": "2015-12-17T21:00:00Z"
+  },
+  "pk": 8,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-18T00:00:00Z"
+  },
+  "pk": 9,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-18T03:00:00Z"
+  },
+  "pk": 10,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-18T06:00:00Z"
+  },
+  "pk": 11,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-18T09:00:00Z"
+  },
+  "pk": 12,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-18T12:00:00Z"
+  },
+  "pk": 13,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 2,
+    "date": "2015-12-18T15:00:00Z"
+  },
+  "pk": 14,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 2,
+    "date": "2015-12-18T18:00:00Z"
+  },
+  "pk": 15,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 2,
+    "date": "2015-12-18T21:00:00Z"
+  },
+  "pk": 16,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-19T00:00:00Z"
+  },
+  "pk": 17,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-19T03:00:00Z"
+  },
+  "pk": 18,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-19T06:00:00Z"
+  },
+  "pk": 19,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-19T09:00:00Z"
+  },
+  "pk": 20,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-19T12:00:00Z"
+  },
+  "pk": 21,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 1,
+    "date": "2015-12-19T15:00:00Z"
+  },
+  "pk": 22,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 2,
+    "date": "2015-12-19T18:00:00Z"
+  },
+  "pk": 23,
+  "model": "core.geomagactivity"
+},
+{
+  "fields": {
+    "bogus": false,
+    "value": 2,
+    "date": "2015-12-19T21:00:00Z"
+  },
+  "pk": 24,
+  "model": "core.geomagactivity"
+}
+]
