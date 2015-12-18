@@ -241,9 +241,6 @@ class Solarradiation(models.Model):
     value = models.SmallIntegerField(blank=True)
     bogus = models.BooleanField(default=False)
 
-    def __str__(self):
-        return "{}:{} {} solarradiation".format(self.date, self.solarradiationtype, self.value)
-
 
 class Radioblackouttype(models.Model):
     name = models.CharField(max_length=50, blank=False)
@@ -261,36 +258,3 @@ class Radioblackout(models.Model):
     radioblackouttype = models.ForeignKey('Radioblackouttype', null=False)
     value = models.SmallIntegerField(blank=True)
     bogus = models.BooleanField(default=False)
-
-    def __str__(self):
-        return "{}:{} {} radioblackout".format(self.date, self.radioblackouttype, self.value)
-
-class Geomagactivity(models.Model):
-
-    date = models.DateTimeField(unique=False)
-    value = models.SmallIntegerField(blank=True)
-    bogus = models.BooleanField(default=False)
-
-    def __str__(self):
-        return "{}:{} {} geomag".format(self.date, self.value)
-
-class Forecastrationale(models.Model):
-
-    date = models.DateTimeField(unique=False)
-    geomagactivity = models.TextField(blank=True)
-    radioblackout = models.TextField(blank=True)
-    solarradiation = models.TextField(blank=True)
-
-    def __str__(self):
-        return "{}: forecastrationale".format(self.date)
-
-class Solarwind(models.Model):
-
-    date = models.DateTimeField(unique=False)
-    density = models.FloatField(blank=True)
-    radialspeed = models.FloatField(blank=True)
-    temperature = models.FloatField(blank=True)
-    bogus = models.BooleanField(default=False)
-
-    def __str__(self):
-            return "{}:{},{},{} solarwind".format(self.date, self.density, self.radialspeed, self.temperature)
