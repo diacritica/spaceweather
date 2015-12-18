@@ -2,9 +2,9 @@
 {
   "fields": {
     "date": "2015-12-16",
+    "radioblackouttype": 6,
     "bogus": false,
-    "value": 15,
-    "radioblackouttype": 6
+    "value": 15
   },
   "model": "core.radioblackout",
   "pk": 1
@@ -12,9 +12,9 @@
 {
   "fields": {
     "date": "2015-12-17",
+    "radioblackouttype": 6,
     "bogus": false,
-    "value": 15,
-    "radioblackouttype": 6
+    "value": 15
   },
   "model": "core.radioblackout",
   "pk": 2
@@ -22,9 +22,9 @@
 {
   "fields": {
     "date": "2015-12-18",
+    "radioblackouttype": 6,
     "bogus": false,
-    "value": 15,
-    "radioblackouttype": 6
+    "value": 15
   },
   "model": "core.radioblackout",
   "pk": 3
@@ -32,9 +32,9 @@
 {
   "fields": {
     "date": "2015-12-18",
+    "radioblackouttype": 7,
     "bogus": false,
-    "value": 5,
-    "radioblackouttype": 7
+    "value": 5
   },
   "model": "core.radioblackout",
   "pk": 4
@@ -42,9 +42,9 @@
 {
   "fields": {
     "date": "2015-12-17",
+    "radioblackouttype": 7,
     "bogus": false,
-    "value": 5,
-    "radioblackouttype": 7
+    "value": 5
   },
   "model": "core.radioblackout",
   "pk": 5
@@ -52,11 +52,101 @@
 {
   "fields": {
     "date": "2015-12-16",
+    "radioblackouttype": 7,
     "bogus": false,
-    "value": 5,
-    "radioblackouttype": 7
+    "value": 5
   },
   "model": "core.radioblackout",
   "pk": 6
+},
+{
+  "fields": {
+    "date": "2015-12-18",
+    "radioblackouttype": 1,
+    "bogus": false,
+    "value": 15
+  },
+  "model": "core.radioblackout",
+  "pk": 7
+},
+{
+  "fields": {
+    "date": "2015-12-19",
+    "radioblackouttype": 1,
+    "bogus": false,
+    "value": 15
+  },
+  "model": "core.radioblackout",
+  "pk": 8
+},
+{
+  "fields": {
+    "date": "2015-12-20",
+    "radioblackouttype": 1,
+    "bogus": false,
+    "value": 15
+  },
+  "model": "core.radioblackout",
+  "pk": 9
+},
+{
+  "fields": {
+    "date": "2015-12-18",
+    "radioblackouttype": 6,
+    "bogus": false,
+    "value": 15
+  },
+  "model": "core.radioblackout",
+  "pk": 10
+},
+{
+  "fields": {
+    "date": "2015-12-19",
+    "radioblackouttype": 6,
+    "bogus": false,
+    "value": 15
+  },
+  "model": "core.radioblackout",
+  "pk": 11
+},
+{
+  "fields": {
+    "date": "2015-12-20",
+    "radioblackouttype": 6,
+    "bogus": false,
+    "value": 15
+  },
+  "model": "core.radioblackout",
+  "pk": 12
+},
+{
+  "fields": {
+    "date": "2015-12-20",
+    "radioblackouttype": 7,
+    "bogus": false,
+    "value": 1
+  },
+  "model": "core.radioblackout",
+  "pk": 13
+},
+{
+  "fields": {
+    "date": "2015-12-19",
+    "radioblackouttype": 7,
+    "bogus": false,
+    "value": 1
+  },
+  "model": "core.radioblackout",
+  "pk": 14
+},
+{
+  "fields": {
+    "date": "2015-12-18",
+    "radioblackouttype": 7,
+    "bogus": false,
+    "value": 1
+  },
+  "model": "core.radioblackout",
+  "pk": 15
 }
 ]

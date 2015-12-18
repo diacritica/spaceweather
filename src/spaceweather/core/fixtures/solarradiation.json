@@ -1,32 +1,62 @@
 [
 {
-  "fields": {
-    "date": "2015-12-16",
-    "bogus": false,
-    "solarradiationtype": 1,
-    "value": 1
-  },
   "pk": 1,
-  "model": "core.solarradiation"
+  "model": "core.solarradiation",
+  "fields": {
+    "value": 1,
+    "solarradiationtype": 1,
+    "date": "2015-12-16",
+    "bogus": false
+  }
 },
 {
-  "fields": {
-    "date": "2015-12-17",
-    "bogus": false,
-    "solarradiationtype": 1,
-    "value": 1
-  },
   "pk": 2,
-  "model": "core.solarradiation"
+  "model": "core.solarradiation",
+  "fields": {
+    "value": 1,
+    "solarradiationtype": 1,
+    "date": "2015-12-17",
+    "bogus": false
+  }
 },
 {
-  "fields": {
-    "date": "2015-12-18",
-    "bogus": false,
-    "solarradiationtype": 1,
-    "value": 1
-  },
   "pk": 3,
-  "model": "core.solarradiation"
+  "model": "core.solarradiation",
+  "fields": {
+    "value": 1,
+    "solarradiationtype": 1,
+    "date": "2015-12-18",
+    "bogus": false
+  }
+},
+{
+  "pk": 4,
+  "model": "core.solarradiation",
+  "fields": {
+    "value": 1,
+    "solarradiationtype": 1,
+    "date": "2015-12-18",
+    "bogus": false
+  }
+},
+{
+  "pk": 5,
+  "model": "core.solarradiation",
+  "fields": {
+    "value": 1,
+    "solarradiationtype": 1,
+    "date": "2015-12-19",
+    "bogus": false
+  }
+},
+{
+  "pk": 6,
+  "model": "core.solarradiation",
+  "fields": {
+    "value": 1,
+    "solarradiationtype": 1,
+    "date": "2015-12-20",
+    "bogus": false
+  }
 }
 ]
