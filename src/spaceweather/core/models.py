@@ -195,7 +195,7 @@ class Imagechannel(models.Model):
     date = models.DateTimeField(unique=False)
     channeltype = models.ForeignKey('Channeltype', null=False)
     originaldate = models.DateTimeField(unique=False)
-    image = models.ImageField(upload_to="images", blank=True)
+    image = models.ImageField(upload_to="images/IC", blank=True)
     bogus = models.BooleanField(default=False)
     sdatemax = models.DateTimeField(blank=True, unique=False)
     sdatemin = models.DateTimeField(blank=True, unique=False)
