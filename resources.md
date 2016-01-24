@@ -64,11 +64,15 @@ Updated every month
 
 Particules (5min)
 
-"http://legacy-www.swpc.noaa.gov/ftpdir/lists/particle/%s_Gp_part_5m.txt"%(today.strftime("%Y%m%d"))
+http://legacy-www.swpc.noaa.gov/ftpdir/lists/particle/Gp_part_5m.txt
+
+Updated every 5 min. Contains last 2h
 
 Electrons (5min)
 
-"http://legacy-www.swpc.noaa.gov/ftpdir/lists/particle/%s_Gp_part_5m.txt"%(today.strftime("%Y%m%d"))
+http://legacy-www.swpc.noaa.gov/ftpdir/lists/particle/Gp_part_5m.txt
+
+Updated every 5 min. Contains last 2h
 
 X-ray (5min)
 
@@ -93,6 +97,8 @@ http://www.swpc.noaa.gov/products/wsa-enlil-solar-wind-prediction
 ### On Alerts
 
 http://legacy-www.swpc.noaa.gov/alerts/archive/current_month.html
+
+http://services.swpc.noaa.gov/products/alerts.json
 
 Updated every month
 
