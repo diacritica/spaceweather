@@ -9,7 +9,7 @@ def getFieldsFromAlert(jsonalert):
     serialnumber = int(jsonalert["message"].split("\n")[1].split(":")[1].strip())
     alerttype = jsonalert["message"].split("\n")[4].split(":")[0].strip()
     message = jsonalert["message"].split("\n")[4].split(":")[1].strip()
-    payload = "".join(jsonalert["message"].split("\n")[5:])
+    payload = "\n".join(jsonalert["message"].split("\n")[5:])
 
     return SWMC,serialnumber,alerttype,message,payload
 
