@@ -180,8 +180,8 @@ if len(radioblackout) > 0:
         except:
             rbt = Radioblackouttype.objects.get(name="R1-R2")
             value = int(values[day][:-1])
-            r = Radioblackout(date=dt, value=value, radioblackouttype=rbt, bogus=False)
-            r.save()
+            rb = Radioblackout(date=dt, value=value, radioblackouttype=rbt, bogus=False)
+            rb.save()
             print("Data for {} inserted!".format(dt))
 
 
@@ -203,8 +203,8 @@ if len(radioblackout) > 0:
         except:
             rbt = Radioblackouttype.objects.get(name="R3 or greater")
             value = int(values[day][:-1])
-            r = Radioblackout(date=dt, value=value, radioblackouttype=rbt, bogus=False)
-            r.save()
+            rb = Radioblackout(date=dt, value=value, radioblackouttype=rbt, bogus=False)
+            rb.save()
             print("Data for {} inserted!".format(dt))
 
 
