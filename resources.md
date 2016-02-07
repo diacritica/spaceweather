@@ -104,9 +104,9 @@ Updated every month
 
 ### On 3-day forecastrationale
 
-http://legacy-www.swpc.noaa.gov/ftpdir/latest/three_day_forecast.txt
+http://services.swpc.noaa.gov/text/3-day-forecast.txt
 
-Upated every day
+Upated twice every day
 
 ### Other useful resources
 
