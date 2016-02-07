@@ -4,8 +4,8 @@ import time, datetime
 import PIL
 from PIL import Image
 
-proj_path = "/home/elfo/GIT/spaceweather/src/spaceweather/"
-output_path = "/home/elfo/GIT/spaceweather/misc/scripts/output/"
+proj_path = "/srv/spaceweather/git/spaceweather/src/spaceweather/"
+output_path = "/srv/spaceweather/git/spaceweather/misc/scripts/output/"
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "spaceweather.settings")
 sys.path.append(proj_path)

@@ -7,7 +7,7 @@ os.system("wget http://services.swpc.noaa.gov/experimental/products/solar-wind/p
 myfile = open("output/plasma-2-hour.json","r")
 j=json.load(myfile)
 
-proj_path = "/home/elfo/GIT/spaceweather/src/spaceweather/"
+proj_path = "/srv/spaceweather/git/spaceweather/src/spaceweather/"
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "spaceweather.settings")
 sys.path.append(proj_path)
 os.chdir(proj_path)

@@ -17,7 +17,7 @@ os.system("wget http://services.swpc.noaa.gov/products/alerts.json -O output/ale
 myfile = open("output/alerts.json","r")
 j=json.load(myfile)
 
-proj_path = "/home/elfo/GIT/spaceweather/src/spaceweather/"
+proj_path = "/srv/spaceweather/git/spaceweather/src/spaceweather/"
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "spaceweather.settings")
 sys.path.append(proj_path)
 os.chdir(proj_path)
