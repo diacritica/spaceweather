@@ -209,3 +209,15 @@ if len(radioblackout) > 0:
 
 
 radioblackoutrationale = r.text[CRationalestart:CRationaleend]
+
+# FORECAST RATIONALE
+
+basedate = datetime.datetime(year=referencedatetime.year,month=referencedatetime.month,day=referencedatetime.day,hour=0,minute=0)
+
+try:
+    Forecastrationale.objects.get(date=basedate)
+    print("Data for {} already there!".format(basedate))
+except:
+    fr = Forecastrationale(date=basedate, radioblackout=radioblackoutrationale, solarradiation=solarradiationrationale, geomagactivity=geomagrationale)
+    fr.save()
+    print("Data for {} inserted!".format(dt))
