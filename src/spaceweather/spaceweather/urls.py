@@ -11,6 +11,6 @@ from django.conf import settings
 urlpatterns = [
     url(r'^api/token/', obtain_auth_token, name='api-token'),
     url(r'^api/', include(router.urls)),
-    url(r'^api/imagechannels/media/(?P<path>.*)$', 'django.views.static.serve', {'document_root': settings.MEDIA_ROOT, 'show_indexes': True}),
+    url(r'^api/imagechannels/(?P<path>.*)$', 'django.views.static.serve', {'document_root': settings.MEDIA_ROOT, 'show_indexes': True}),
     #url(r'^api/imagechannels/images/(?P<file>(.+))$', servefiles),
 ]
