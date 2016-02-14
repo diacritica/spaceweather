@@ -101,19 +101,27 @@ for line in rlines:
 
 
 """
-00-03UT        2          4          4
-03-06UT        1          4          3
-06-09UT        1          3          2
-09-12UT        2          3          4
-12-15UT        3          3          4
-15-18UT        3          3          3
-18-21UT        3          3          3
-21-00UT        4          4          3
+Feb 14     Feb 15     Feb 16
+00-03UT        3          5 (G1)     3     
+03-06UT        3          5 (G1)     4     
+06-09UT        3          4          3     
+09-12UT        2          4          3     
+12-15UT        2          4          2     
+15-18UT        2          3          2     
+18-21UT        3          3          1     
+21-00UT        5 (G1)     2          2     
 """
 
 deltanumber = 0
 for line in geomagneticdaytimes:
-    values = line.split()[1:]
+    tempvalues = line.split()[1:]
+    values = []
+    for v in tempvalues:
+        try:
+            int(v)
+            values.append(v)
+        except:
+            pass
     for day in range(3):
         dt = basedate+(delta1d*day)+(delta3h*deltanumber)
         try:

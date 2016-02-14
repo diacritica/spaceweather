@@ -10,7 +10,7 @@ import django
 
 delta1day = datetime.timedelta(days=1)
 
-filetime = datetime.date.today() - delta1day
+filetime = datetime.date.today() #- delta1day
 
 baseurl = "http://www.spaceweather.com/images"
 filetimestring = filetime.strftime("%Y/%d%b%y/sunspot_labels.txt").lower()
@@ -47,7 +47,8 @@ django.setup()
 
 from core.models import *
 
-today = (datetime.date.today() - delta1day).isoformat()
+#today = (datetime.date.today() - delta1day).isoformat()
+today = datetime.date.today().isoformat()
 magneticclassdict = {"Alpha":"α","Beta":"β","Gamma":"γ","Beta-Gamma":"β-γ","Delta":"δ","Beta-Delta":"β-δ","Beta-Gamma-Delta":"β-γ-δ","Gamma-Delta":"γ-δ"}
 
 for line in rlines:

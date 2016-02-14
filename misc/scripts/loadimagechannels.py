@@ -30,10 +30,11 @@ for c in channels:
 #HMI
 basenow = now.replace(minute=0, second=0, microsecond=0)
 minutes = now.minute
-loopminutes = minutes//15
+loopminutes = minutes//15 +1
 delta15min = datetime.timedelta(minutes=15)
+delta1hour = datetime.timedelta(hours=1)
 for l in range(loopminutes):
-    filetime = basenow + delta15min*l
+    filetime = basenow - delta1hour + delta15min*l
     print("filetime",filetime)
     filetimestring = filetime.strftime("%Y/%m/%d/%Y%m%d_%H%M%S_Ic_512.jpg")
     filetimestringout = filetime.strftime("%Y%m%d_%H%M%S_Ic_512.jpg")
@@ -55,7 +56,7 @@ for c in channels:
     ic.save()
 
 for l in range(loopminutes):
-    filetime = basenow + delta15min*l
+    filetime = basenow - delta1hour + delta15min*l
     filetimestring = filetime.strftime("%Y%m%d_%H%M%S_Ic_512.jpg")
     ct = Channeltype.objects.get(name__contains="HMI")
     try:
@@ -66,3 +67,4 @@ for l in range(loopminutes):
         ic.image.save(filetimestring,File(open(filetimestring,'rb')))
         ic.save()
         print("Data for {} inserted!".format(filetime))
+        
