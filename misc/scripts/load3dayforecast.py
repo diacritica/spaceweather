@@ -69,7 +69,7 @@ urlwithfile = "http://services.swpc.noaa.gov/text/3-day-forecast.txt"
 r = requests.get(urlwithfile)
 rlines = r.text.split("\n")
 adate=rlines[1].split(":")[2].strip()
-referencedatetime = datetime.datetime.strptime(adate, '%Y %b %d %I%M %Z')
+referencedatetime = datetime.datetime.strptime(adate, '%Y %b %d %H%M %Z')
 basedate = datetime.datetime(year=referencedatetime.year,month=referencedatetime.month,day=referencedatetime.day,hour=0,minute=0)
 delta3h = datetime.timedelta(hours=3)
 delta1d = datetime.timedelta(days=1)
@@ -134,7 +134,7 @@ for line in geomagneticdaytimes:
             print("Data for {} inserted!".format(dt))
     deltanumber+=1
 
-geomagrationale = r.text[ARationalestart:ARationaleend]
+geomagrationale = r.text[ARationalestart:ARationaleend].split("Rationale: ")[1]
 
 # SOLAR RADIATION
 
@@ -162,7 +162,7 @@ for day in range(3):
         s.save()
         print("Data for {} inserted!".format(dt))
 
-solarradiationrationale = r.text[BRationalestart:BRationaleend]
+solarradiationrationale = r.text[BRationalestart:BRationaleend].split("Rationale: ")[1]
 
 # RADIO BLACKOUT
 
@@ -216,7 +216,7 @@ if len(radioblackout) > 0:
             print("Data for {} inserted!".format(dt))
 
 
-radioblackoutrationale = r.text[CRationalestart:CRationaleend]
+radioblackoutrationale = r.text[CRationalestart:CRationaleend].split("Rationale: ")[1]
 
 # FORECAST RATIONALE
 

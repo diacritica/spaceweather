@@ -13,7 +13,7 @@ sys.path.append(proj_path)
 
 newwidth = 512
 newheight = 512
-quality_val = 70
+quality_val = 80
 
 now = datetime.datetime.utcnow()
 isonow = now.isoformat()
@@ -25,7 +25,7 @@ for c in channels:
     time.sleep(1)
     downloadedimage = Image.open("output/{}/{}".format(c,filename)).convert('RGB')
     downloadedimage = downloadedimage.resize((newwidth, newheight), PIL.Image.ANTIALIAS)
-    downloadedimage.save("output/{}/{}".format(c,filename))
+    downloadedimage.save("output/{}/{}".format(c,filename), 'JPEG')
 
 #HMI
 basenow = now.replace(minute=0, second=0, microsecond=0)
@@ -40,7 +40,11 @@ for l in range(loopminutes):
     filetimestringout = filetime.strftime("%Y%m%d_%H%M%S_Ic_512.jpg")
 
     os.system("wget http://jsoc.stanford.edu/data/hmi/images/{} -O output/{}".format(filetimestring,filetimestringout))
+    downloadedimage = Image.open("output/{}".format(filetimestringout)).convert('RGB')
+    downloadedimage = downloadedimage.resize((newwidth, newheight), PIL.Image.ANTIALIAS)
+    downloadedimage.save("output/{}".format(filetimestringout), 'JPEG', quality=quality_val)
 
+    
 os.chdir(proj_path)
 from core.models import *
 from django.core.files import File
