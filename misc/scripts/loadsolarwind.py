@@ -3,7 +3,7 @@ import json
 import os, sys
 import django
 
-os.system("wget http://services.swpc.noaa.gov/experimental/products/solar-wind/plasma-2-hour.json -O output/plasma-2-hour.json")
+os.system("wget http://services.swpc.noaa.gov/products/solar-wind/plasma-2-hour.json -O output/plasma-2-hour.json")
 myfile = open("output/plasma-2-hour.json","r")
 j=json.load(myfile)
 
@@ -15,7 +15,7 @@ os.chdir(proj_path)
 from core.models import *
 
 for i in j[1:]:
-    if i[0][-4] == '0':
+    if i[0][-8] == '0':
         try:
             Solarwind.objects.get(date=i[0])
             print("Data for {} already there!".format(i[0]))

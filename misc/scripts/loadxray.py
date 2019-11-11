@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-import requests
+
+import urllib.request
 import collections
 import datetime
 
@@ -9,10 +10,12 @@ import os, sys
 import django
 
 
-urlwithfile = "http://legacy-www.swpc.noaa.gov/ftpdir/lists/xray/Gp_xr_5m.txt"
+urlwithfile = "ftp://ftp.swpc.noaa.gov/pub/lists/xray/Gp_xr_5m.txt"
 
-r = requests.get(urlwithfile)
-rlines = r.text.split("\n")
+with urllib.request.urlopen(urlwithfile) as response:
+    r = str(response.read())
+
+rlines = r.split("\\n")
 
 proj_path = "/srv/spaceweather/git/spaceweather/src/spaceweather/"
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "spaceweather.settings")

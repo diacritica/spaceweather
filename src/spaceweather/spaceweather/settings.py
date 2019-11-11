@@ -22,11 +22,11 @@ MEDIA_ROOT = os.path.join(BASE_DIR,'media')
 SECRET_KEY = '(yb1&jmj05htvr(2eauan-1rpge919k^il^ukftw*dh*&sla-7'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-TEMPLATE_DEBUG = True
+TEMPLATE_DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -45,6 +45,7 @@ INSTALLED_APPS = (
 )
 
 MIDDLEWARE_CLASSES = (
+    'corsheaders.middleware.CorsMiddleware',
     #'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -52,7 +53,6 @@ MIDDLEWARE_CLASSES = (
     #'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'django.middleware.security.SecurityMiddleware',
-    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
 )
 
@@ -74,6 +74,14 @@ DATABASES = {
         "PORT": "",
 
     }
+}
+
+REST_FRAMEWORK = {
+    'DEFAULT_PERMISSION_CLASSES': (
+            'rest_framework.permissions.IsAuthenticatedOrReadOnly',
+    ),
+#    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.LimitOffsetPagination',
+#    'PAGE_SIZE': 100,
 }
 
 # Internationalization
@@ -98,6 +106,10 @@ STATIC_URL = '/static/'
 # CORS (Cross Origin Resource Sharing)
 # https://github.com/ottoyiu/django-cors-headers
 
+CORS_ORIGIN_WHITELIST = (
+        'icarus.live',
+    )
+
 CORS_ORIGIN_ALLOW_ALL = True
 
-CORS_ALLOW_CREDENTIALS = False
+#CORS_ALLOW_CREDENTIALS = False

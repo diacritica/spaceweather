@@ -21,7 +21,7 @@ channels = ['171','193','211','304']
 
 for c in channels:
     filename = "{}-{}.jpg".format(c,isonow)
-    os.system("wget http://umbra.nascom.nasa.gov/images/latest_aia_{}.gif -O output/{}/{}".format(c,c,filename))
+    os.system("curl -4 'https://sdo.gsfc.nasa.gov/assets/img/latest/latest_512_0{}.jpg' --output output/{}/{}".format(c,c,filename))
     time.sleep(1)
     downloadedimage = Image.open("output/{}/{}".format(c,filename)).convert('RGB')
     downloadedimage = downloadedimage.resize((newwidth, newheight), PIL.Image.ANTIALIAS)
