@@ -12,6 +12,6 @@ Pillow==5.2.0
 pkg-resources==0.0.0
 psycopg2==2.6.1
 pytz==2018.5
-requests==2.19.1
+requests==2.20.0
 urllib3==1.23
 uWSGI==2.0.17
