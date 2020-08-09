@@ -1,54 +1,39 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import urllib.request
-import collections
-import datetime
-
 import json
 import os, sys
 import django
 
+def getFieldsFromXRAY(xrayitem):
 
-urlwithfile = "ftp://ftp.swpc.noaa.gov/pub/lists/xray/Gp_xr_5m.txt"
+    particledatetime = xrayitem["time_tag"]
+    length = xrayitem["energy"]
+    if length == "0.05-0.4nm":
+        xraytype = 1
+    else:
+        xraytype = 2
+    value = xrayitem["flux"]
+    return particledatetime,xraytype,value
 
-with urllib.request.urlopen(urlwithfile) as response:
-    r = str(response.read())
 
-rlines = r.split("\\n")
-
+os.system("wget https://services.swpc.noaa.gov/json/goes/primary/xrays-6-hour.json -O output/xrays-6-hour.json")
+myfile = open("output/xrays-6-hour.json","r")
+j=json.load(myfile)
 proj_path = "/srv/spaceweather/git/spaceweather/src/spaceweather/"
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "spaceweather.settings")
 sys.path.append(proj_path)
 os.chdir(proj_path)
-
 django.setup()
 
 from core.models import *
+for i in j[-2:]:
+    particledatetime,xraytype,value = getFieldsFromXRAY(i)
+    try:
+        Xrayflux.objects.get(xtype=xraytype,date=particledatetime)
+        print("Data for {} at {} already there!".format(xraytype,particledatetime))
+    except:
+        axtype = Xtype.objects.get(id=xraytype)
+        xray = Xrayflux(date=particledatetime,xtype=axtype,value=value,units="Watts/m2",bogus=False)
+        xray.save()
 
-for line in rlines:
-    values = line.strip().split()
-    if len(values) == 9 and "-1.00e+05" not in values:
-        YR,MO,DA,HHMM,GDay,GSec,S,L,R = values
-        particledatetime = datetime.datetime(int(YR),int(MO), \
-                                                 int(DA),int(HHMM[:2]), \
-                                                 int(HHMM[2:])).isoformat()
-
-        try:
-            Xrayflux.objects.get(xtype=1,date=particledatetime)
-            print("Data for {} at {} already there!".format("1",particledatetime))
-        except:
-            axtype = Xtype.objects.get(id=1)
-            xshort = Xrayflux(date=particledatetime,xtype=axtype,value=float(S),units="Watts/m2",bogus=False)
-            print("Data for {} at {} inserted!".format(axtype,particledatetime))
-            xshort.save()
-
-
-        try:
-            Xrayflux.objects.get(xtype=2,date=particledatetime)
-            print("Data for {} at {} already there!".format("2",particledatetime))
-        except:
-            axtype = Xtype.objects.get(id=2)
-            xlong = Xrayflux(date=particledatetime,xtype=axtype,value=float(L),units="Watts/m2",bogus=False)
-            print("Data for {} at {} inserted!".format(axtype,particledatetime))
-            xlong.save()

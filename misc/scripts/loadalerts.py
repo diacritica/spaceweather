@@ -22,6 +22,7 @@ os.environ.setdefault("DJANGO_SETTINGS_MODULE", "spaceweather.settings")
 sys.path.append(proj_path)
 os.chdir(proj_path)
 
+django.setup()
 from core.models import *
 
 for i in j:
