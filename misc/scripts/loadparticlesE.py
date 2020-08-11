@@ -12,11 +12,14 @@ def getFieldsFromElectron(electronitem):
     etype = 0
     if energy == ">=2 MeV":
         etype = 1
+    if energy == ">=0.8 MeV":
+        etype = 2
     value = electronitem["flux"]
     return particledatetime,etype,value
 
 
 os.system("wget https://services.swpc.noaa.gov/json/goes/primary/integral-electrons-6-hour.json -O output/integral-electrons-6-hour.json")
+#os.system("wget https://services.swpc.noaa.gov/json/goes/primary/integral-electrons-7-day.json -O output/integral-electrons-6-hour.json")
 myfile = open("output/integral-electrons-6-hour.json","r")
 j=json.load(myfile)
 proj_path = "/srv/spaceweather/git/spaceweather/src/spaceweather/"

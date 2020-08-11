@@ -19,6 +19,7 @@ def getFieldsFromProton(protonitem):
 
 
 os.system("wget https://services.swpc.noaa.gov/json/goes/primary/integral-protons-6-hour.json -O output/integral-protons-6-hour.json")
+#os.system("wget https://services.swpc.noaa.gov/json/goes/primary/integral-protons-3-day.json -O output/integral-protons-6-hour.json")
 myfile = open("output/integral-protons-6-hour.json","r")
 j=json.load(myfile)
 proj_path = "/srv/spaceweather/git/spaceweather/src/spaceweather/"
